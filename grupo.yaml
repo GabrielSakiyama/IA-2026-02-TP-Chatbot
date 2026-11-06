@@ -6,19 +6,20 @@
 # =============================================================================
 
 grupo:
-  nome: "TODO: nome do grupo (ex.: Grupo 3)"
+  nome: "ChatBot TCC (Chatbot TCC)"
   integrantes:          # 3 a 4 integrantes
-    - nome: "TODO"
+    - nome: "Gabriel Yukihiro"
+      rga: "201919070095"
+    - nome: "Natan"
       rga: "TODO"
-    - nome: "TODO"
-      rga: "TODO"
-    - nome: "TODO"
+    - nome: "Zullaê"
       rga: "TODO"
 
 tema:
-  nome: "TODO: tema validado com o professor"
+  nome: "ChatBot TCC"
   descricao: >
-    TODO: uma ou duas frases dizendo o que o bot faz e para quem.
+    Tira duvidas dos academicos sobre questões relacionado ao processo do TCC, como 
+    escolha de orientador, prazo, banca e etc.
 
 dados:                  # caminhos relativos a este arquivo - não altere
   treino: dados/treino.csv
@@ -36,9 +37,9 @@ llm:
   temperatura: 0.3                       # 0 = respostas mais estáveis; 1 = mais variadas
   max_tokens: 300
   usar_em: [intencoes, chitchat]         # nós em que o LLM redige a resposta
-  persona: >
-    TODO: quem é o bot e como ele fala. Ex.: "Você é o Rex, assistente virtual do
-    Restaurante Universitário. Seja cordial, simples e direto."
+  persona: > #TODO persona - revisar
+    TODO: quem é o bot e como ele fala. Ex.: "Você é o boTCC, assistente virtual do 
+     Universitario que sana duvidas acerca de TCC. Seja simples, direto e formal."
   contato: "TODO: para onde encaminhar o que o bot não sabe (setor, e-mail...)"
   max_frases: 3
   turnos_historico: 3
@@ -61,25 +62,25 @@ roteamento:
 # De 5 a 10 intenções. O nome (chave) deve ter só letras minúsculas sem acento,
 # dígitos e "_". "descricao" aparece nas mensagens do bot ("Posso ajudar com: ...").
 intencoes:
-  TODO_intencao_1:
-    descricao: "TODO"
+  TODO_intencao_1: # ideias de intenções iniciais
+    descricao: "TODO - escolha de orientador"
     resposta: >
       TODO: resposta fixa curta (usada sem LLM e na avaliação automática). Com o
       LLM ligado, o bot responde a partir dos documentos da pasta documentos/.
   TODO_intencao_2:
-    descricao: "TODO"
+    descricao: "TODO - prazos"
     resposta: >
       TODO
   TODO_intencao_3:
-    descricao: "TODO"
+    descricao: "TODO - banca"
     resposta: >
       TODO
   TODO_intencao_4:
-    descricao: "TODO"
+    descricao: "TODO - formatação"
     resposta: >
       TODO
   TODO_intencao_5:
-    descricao: "TODO"
+    descricao: "TODO - dilação"
     resposta: >
       TODO
 
