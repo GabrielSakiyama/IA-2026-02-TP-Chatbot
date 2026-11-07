@@ -7,7 +7,7 @@
 
 grupo:
   nome: "ChatBot TCC (Chatbot TCC)"
-  integrantes:          # 3 a 4 integrantes - TODO
+  integrantes:          # 3 a 4 integrantes
     - nome: "Gabriel Yukihiro"
       rga: "201919070095"
     - nome: "Natan da Rocha Ramalho"
@@ -16,10 +16,10 @@ grupo:
       rga: "202519060309"
 
 tema:
-  nome: "ChatBot TCC" #nome --> TODO
-  descricao: > # descricao ---> TODO
-    Tirar duvidas dos acadêmicos sobre o TCC: 
-    escolha de orientador, prazo, banca, formatação e normas, depósito da versão final.
+  nome: "Trabalho de Conclusão de Curso"
+  descricao: >
+    Tira dúvidas dos acadêmicos da UFMS sobre o TCC: início e registro, escolha de
+    orientador, prazos, banca, formatação e normas e depósito da versão final.
 
 dados:                  # caminhos relativos a este arquivo - não altere
   treino: dados/treino.csv
@@ -37,10 +37,13 @@ llm:
   temperatura: 0.3                       # 0 = respostas mais estáveis; 1 = mais variadas
   max_tokens: 300
   usar_em: [intencoes, chitchat]         # nós em que o LLM redige a resposta
-  persona: > #persona --> TODO - quem é o bot e como ele fala 
-    "Você é o Brunao, assistente virtual da 
-     Universidade dos desesperados, que sana duvidas acerca de TCC. Fale de forma simples, direto e de fácil entedimento."
-  contato: "A coordenação do curso ou pelo email do coordenador: coordenador@email.com" #contato - TODO: para onde encaminhar o que o bot não sabe (setor, e-mail...)
+  persona: >
+    Você é o Brunao, assistente virtual da Universidade dos Desesperados, que sana
+    dúvidas acerca de TCC. Fale de forma simples, direta e de fácil entendimento,
+    tratando o estudante por "você". Responda apenas com base nos trechos dos
+    documentos oficiais; se a informação não estiver neles, diga que não sabe e
+    indique o contato.
+  contato: "a Coordenação do seu curso ou o e-mail da FACOM: facom@ufms.br"
   max_frases: 3
   turnos_historico: 3
 
