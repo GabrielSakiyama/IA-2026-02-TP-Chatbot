@@ -10,10 +10,10 @@ grupo:
   integrantes:          # 3 a 4 integrantes
     - nome: "Gabriel Yukihiro"
       rga: "201919070095"
-    - nome: "Natan"
+    - nome: "Natan da Rocha Ramalho"
       rga: "TODO"
-    - nome: "Zullaê"
-      rga: "TODO"
+    - nome: "Zullaê Ramos de Freitas Ramires"
+      rga: "202519060309"
 
 tema:
   nome: "ChatBot TCC"
@@ -37,10 +37,13 @@ llm:
   temperatura: 0.3                       # 0 = respostas mais estáveis; 1 = mais variadas
   max_tokens: 300
   usar_em: [intencoes, chitchat]         # nós em que o LLM redige a resposta
-  persona: > #TODO persona - revisar
-    TODO: quem é o bot e como ele fala. Ex.: "Você é o boTCC, assistente virtual do 
-     Universitario que sana duvidas acerca de TCC. Seja simples, direto e formal."
-  contato: "TODO: para onde encaminhar o que o bot não sabe (setor, e-mail...)"
+  persona: >
+    Você é o boTCC, assistente virtual que tira dúvidas de estudantes de graduação
+    da UFMS sobre o Trabalho de Conclusão de Curso (TCC). Fale de forma simples,
+    direta e educada, tratando o estudante por "você". Responda apenas com base nos
+    trechos dos documentos oficiais; se a informação não estiver neles, diga que não
+    sabe e indique o contato.
+  contato: "o seu orientador ou a Coordenação do seu curso"
   max_frases: 3
   turnos_historico: 3
 
@@ -57,32 +60,52 @@ conhecimento:
 roteamento:
   # Abaixo desta confiança no tema, o bot pede esclarecimento em vez de responder.
   # 0 desliga o recurso. Escolha o valor com base em dados e justifique no relatório.
-  limiar_tema: 0.0
+  limiar_tema: 0.0   # TODO: escolher com dados no Passo 12
 
 # De 5 a 10 intenções. O nome (chave) deve ter só letras minúsculas sem acento,
 # dígitos e "_". "descricao" aparece nas mensagens do bot ("Posso ajudar com: ...").
 intencoes:
-  TODO_intencao_1: # ideias de intenções iniciais
-    descricao: "TODO - escolha de orientador"
+  inicio_tcc:
+    descricao: "como iniciar e registrar o TCC"
     resposta: >
-      TODO: resposta fixa curta (usada sem LLM e na avaliação automática). Com o
-      LLM ligado, o bot responde a partir dos documentos da pasta documentos/.
-  TODO_intencao_2:
-    descricao: "TODO - prazos"
+      Você pode iniciar o TCC a qualquer momento, desde que cumpra as exigências do
+      Projeto Pedagógico do seu curso. O início é registrado por você no Siscad e
+      precisa ser aprovado pelo orientador; depois, a Coordenação de Curso dá ciência.
+      O TCC pode ser individual ou em grupo.
+  orientador:
+    descricao: "escolha e papel do orientador"
     resposta: >
-      TODO
-  TODO_intencao_3:
-    descricao: "TODO - banca"
+      Qualquer professor efetivo da carreira do magistério superior da UFMS pode
+      orientar TCC. Professores de fora da sua unidade também podem, se aprovados pelo
+      Colegiado do Curso. O orientador aprova o início do trabalho e propõe a banca.
+  prazos:
+    descricao: "prazos e datas do TCC"
     resposta: >
-      TODO
-  TODO_intencao_4:
-    descricao: "TODO - formatação"
+      A defesa deve acontecer até o fim do período letivo em que você pretende colar
+      grau. O orientador agenda a defesa com pelo menos 15 dias de antecedência, e o
+      texto deve chegar à banca também com 15 dias de antecedência. Não entregar no
+      prazo deixa o TCC como "não cumprido".
+  formatacao:
+    descricao: "formato, modelo e normas do texto"
     resposta: >
-      TODO
-  TODO_intencao_5:
-    descricao: "TODO - dilação"
+      O TCC pode ser monografia, relatório técnico, artigo ou portfólio, em português,
+      inglês ou espanhol (nesses dois casos, com resumo em português). Na FACOM não há
+      modelo obrigatório: são recomendados os modelos SBC, IEEE ou ACM, e as normas
+      ABNT são opcionais.
+  banca:
+    descricao: "banca avaliadora e defesa"
     resposta: >
-      TODO
+      A banca é proposta pelo orientador e constituída pelo Colegiado: o orientador
+      preside e há no mínimo mais dois membros. A defesa é pública, com apresentação e
+      arguição oral, e o resultado é "aprovado" ou "reprovado". A FACOM sugere uma
+      apresentação de 20 a 30 minutos.
+  deposito:
+    descricao: "entrega e depósito da versão final"
+    resposta: >
+      Depois da aprovação pela banca e da revisão final, você anexa o documento final
+      no Siscad e a versão final é publicada no Repositório Institucional da UFMS
+      (repositorio.ufms.br). A carga horária só é registrada após a aprovação e a
+      anexação do documento final.
 
 # Respostas dos nós que não são intenções. {assuntos} vira a lista de descrições
 # das intenções; {opcao1}/{opcao2}, as duas intenções mais prováveis.
