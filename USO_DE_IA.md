@@ -7,13 +7,13 @@
 >
 > Este arquivo é o rascunho de trabalho da declaração: preencham **ao longo** do
 > projeto (não no último dia) e copiem a tabela para o artigo. Apaguem as linhas de
-> exemplo e todas as marcações TODO.
+> exemplo e todas as marcações.
 
 ## 1. Ferramentas usadas
 
 | Ferramenta (nome e versão/modelo) | Como acessaram | Quem usou |
 |---|---|---|
-| Claude (Anthropic), modelo Claude Opus 5.5 | claude.ai, em um Projeto com o enunciado do trabalho e acesso ao repositório do grupo | Zullaê |
+| Claude (Anthropic), modelo Claude Opus 5.5 | claude.ai, em um Projeto com o enunciado do trabalho e acesso ao repositório do grupo; extensão Claude in Chrome para montar o formulário de teste | Zullaê |
 | OpenRouter, modelo openai/gpt-6-luna | chave do grupo, via código (`chatbot/llm.py`) | todos (ainda não usado; previsto para as respostas do bot e a geração de frases de treino) |
 
 ## 2. Usos, um por linha
@@ -26,6 +26,7 @@
 | 4 | Base de conhecimento | Localizou a Res. 595-Cograd/UFMS e o manual de TCC da FACOM; redigiu os 7 guias `.md` da pasta `documentos/` (um por intenção + FAQ geral) e o `FONTES.md` | "vamos prosseguir" (próximo passo: pasta `documentos/`) | Baixamos os 2 PDFs oficiais; testamos a busca com `scripts/indexar_documentos.py --buscar`; os guias estão declarados no `FONTES.md` como escritos com ajuda de IA |
 | 5 | Depuração | Identificou que o código-base só reconhece títulos Markdown seguidos de linha em branco (sem ela, os guias perdiam quase todo o texto no índice)| pedido para conferir a indexação dos documentos | Conferimos o resumo do índice antes e depois (de ~150 para todo o texto de cada guia) |
 | 6 | Git | Explicou a instalação do ambiente (`.venv`, `requirements.txt`) |
+| 8 | Dados de teste | Montou no Google Forms (conta institucional do Zullaê, pelo navegador) o formulário de coleta das frases de teste: título, descrição e 9 perguntas (uma por intenção, uma opcional, outros assuntos e cumprimentos), a partir do texto sugerido por ela mesma e aprovado pelo grupo | "crie o formulário, use meu e-mail institucional" | Conferimos as perguntas e as configurações, e nós mesmos publicamos e divulgamos o formulário; as frases do teste serão escritas pelos participantes, não pela IA |
 
 ## 3. O que NÃO foi feito com IA
 

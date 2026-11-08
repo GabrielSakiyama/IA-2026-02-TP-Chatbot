@@ -1,5 +1,5 @@
 # =============================================================================
-#  CONFIGURAÇÃO DO GRUPO - preencha todos os campos marcados com TODO.
+#  CONFIGURAÇÃO DO GRUPO
 #  Este arquivo é lido pelo código base, pelo notebook e pelo script de
 #  avaliação. Mantenha a estrutura (nomes das chaves) exatamente como está.
 #  Veja um exemplo completo em exemplos/biblioteca/grupo.yaml.
@@ -11,7 +11,7 @@ grupo:
     - nome: "Gabriel Yukihiro"
       rga: "201919070095"
     - nome: "Natan da Rocha Ramalho"
-      rga: "TODO"
+      rga: "202519060384"
     - nome: "Zullaê Ramos de Freitas Ramires"
       rga: "202519060309"
 
@@ -60,7 +60,7 @@ conhecimento:
 roteamento:
   # Abaixo desta confiança no tema, o bot pede esclarecimento em vez de responder.
   # 0 desliga o recurso. Escolha o valor com base em dados e justifique no relatório.
-  limiar_tema: 0.0   # TODO: escolher com dados no Passo 12
+  limiar_tema: 0.0   # escolher com dados no Passo 12
 
 # De 5 a 10 intenções. O nome (chave) deve ter só letras minúsculas sem acento,
 # dígitos e "_". "descricao" aparece nas mensagens do bot ("Posso ajudar com: ...").
