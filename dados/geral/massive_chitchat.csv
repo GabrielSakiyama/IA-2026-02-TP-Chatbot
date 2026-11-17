@@ -1,0 +1,943 @@
+texto,intencao,origem,massive_intencao
+verifica se o meu carro está pronto,chitchat,massive,general_quirky
+verifica se o meu portátil está a trabalhar,chitchat,massive,general_quirky
+a luminosidade do meu ecrã está baixa,chitchat,massive,general_quirky
+preciso de ter os serviços localização ligados podes verificar,chitchat,massive,general_quirky
+cheque o desempenho da minha bateria,chitchat,massive,general_quirky
+não estou cansado na realidade estou feliz,chitchat,massive,general_quirky
+siri não estou cansado na realidade estou feliz,chitchat,massive,general_quirky
+o que se passa,chitchat,massive,general_greet
+faz-me rir,chitchat,massive,general_joke
+siri faz-me rir,chitchat,massive,general_joke
+conta me uma boa anedota,chitchat,massive,general_joke
+diz-me uma anedota,chitchat,massive,general_joke
+alexa conta me uma anedota,chitchat,massive,general_joke
+anima-me,chitchat,massive,general_joke
+fala me sobre hoje,chitchat,massive,general_quirky
+como estás,chitchat,massive,general_greet
+conta me uma piada,chitchat,massive,general_joke
+sabes alguma anedota,chitchat,massive,general_joke
+hey o que estás a fazer,chitchat,massive,general_quirky
+como tens andado,chitchat,massive,general_greet
+bom dia tudo bem,chitchat,massive,general_greet
+que anedota idiota sabes,chitchat,massive,general_joke
+que piada estúpida conheces,chitchat,massive,general_joke
+conta me anedota aleatória,chitchat,massive,general_joke
+qual é a tua piada favorita,chitchat,massive,general_joke
+qual a piada mais engraçada,chitchat,massive,general_joke
+conta-me uma anedota porca,chitchat,massive,general_joke
+o que é uma anedota engraçada sobre carros,chitchat,massive,general_joke
+contar-me uma anedota sobre um homem,chitchat,massive,general_joke
+diz me algo engraçado,chitchat,massive,general_joke
+olá,chitchat,massive,general_greet
+olá como estás,chitchat,massive,general_greet
+gostaria de ouvir uma piada,chitchat,massive,general_joke
+uma anedota por favor,chitchat,massive,general_joke
+encorage os alunos,chitchat,massive,general_quirky
+design descentralizado,chitchat,massive,general_quirky
+mostra me uma piada engraçada,chitchat,massive,general_joke
+deveria preocupar me com o aspirador robô quando se liga,chitchat,massive,general_quirky
+como estás hoje,chitchat,massive,general_greet
+bom dia olly,chitchat,massive,general_greet
+bom dia,chitchat,massive,general_greet
+boa tarde,chitchat,massive,general_greet
+diz me coisas engraçadas,chitchat,massive,general_joke
+diz algo engraçado,chitchat,massive,general_joke
+olly diz algo engraçado,chitchat,massive,general_joke
+encontra uma piada no teu cofre e conta me,chitchat,massive,general_joke
+olá siri o que se passa,chitchat,massive,general_greet
+qual é a piada melhor classificada de hoje,chitchat,massive,general_joke
+conta me uma boa anedota de médicos,chitchat,massive,general_joke
+boa tarde como estás,chitchat,massive,general_greet
+olá o que andas a fazer,chitchat,massive,general_greet
+boa noite,chitchat,massive,general_greet
+olá como estás hoje,chitchat,massive,general_greet
+olly diz-me os meus lembretes,chitchat,massive,general_greet
+porque é que está a nevar tanto na minha cidade,chitchat,massive,general_quirky
+partilha uma anedota,chitchat,massive,general_joke
+conta me uma anedota de passáros,chitchat,massive,general_joke
+podes contar me coisas engraçadas,chitchat,massive,general_joke
+diz algumas piadas,chitchat,massive,general_joke
+olly preciso de ouvir uma piada engraçada para contar ao joão,chitchat,massive,general_joke
+preciso de uma piada engraçada para contar ao sam,chitchat,massive,general_joke
+confirmar comprar portátil,chitchat,massive,general_quirky
+conheces alguma piada boa,chitchat,massive,general_joke
+encontra me a anedota sobre os dois tomates,chitchat,massive,general_joke
+preciso de encontrar uma piada engraçada que seja boa para crianças,chitchat,massive,general_joke
+tenho intenções de o fazer,chitchat,massive,general_quirky
+o prazer é meu,chitchat,massive,general_quirky
+faz me feliz,chitchat,massive,general_joke
+hey o que há hoje,chitchat,massive,general_greet
+deixa me ouvir uma anedota,chitchat,massive,general_joke
+alexa quantos tornados houve este mês,chitchat,massive,general_quirky
+conta me uma anedota sobre advogados,chitchat,massive,general_joke
+olly dê-me as coisas mais recentes que tem angelina jolie,chitchat,massive,general_quirky
+me entregue a mais recente notícia da daniela melchior,chitchat,massive,general_quirky
+preciso de ouvir uma piada pode contar-me uma,chitchat,massive,general_joke
+um padre entra num bar,chitchat,massive,general_joke
+eu disse,chitchat,massive,general_quirky
+de noite,chitchat,massive,general_quirky
+a anedota do dia,chitchat,massive,general_joke
+como está tudo,chitchat,massive,general_greet
+conta uma anedota que me ponha um sorriso na carra,chitchat,massive,general_joke
+quero ouvir uma anedota de alentejanos,chitchat,massive,general_joke
+faz me rir quero ouvir uma piada,chitchat,massive,general_joke
+por favor conta me uma anedota,chitchat,massive,general_joke
+ei pedro você tem escutado alguma piada engraçada recentemente,chitchat,massive,general_joke
+hey siri ouviste algumas anedotas engraçadas recentemente,chitchat,massive,general_joke
+hey olly faz me rir com uma boa anedota,chitchat,massive,general_joke
+ouviste alguma boa anedota ultimamente,chitchat,massive,general_joke
+quantas piadas conheces,chitchat,massive,general_joke
+sabes uma anedota,chitchat,massive,general_joke
+conta-me uma anedota por favor,chitchat,massive,general_joke
+alguma anedota engraçada,chitchat,massive,general_joke
+resposta,chitchat,massive,general_quirky
+qual é a tua melhor piada,chitchat,massive,general_joke
+quero escutar a uma piada,chitchat,massive,general_joke
+olá olly como estás,chitchat,massive,general_greet
+preciso de uma boa piada,chitchat,massive,general_joke
+conheceu-a,chitchat,massive,general_quirky
+vamos com o novo,chitchat,massive,general_quirky
+piadas de hoje,chitchat,massive,general_joke
+abre piadas,chitchat,massive,general_joke
+sobre o que é que é esta anedota,chitchat,massive,general_joke
+conta me uma anedota sobre galinhas,chitchat,massive,general_joke
+por favor conta me uma anedota que eu vá achar engraçada,chitchat,massive,general_joke
+o que é uma anedota engraçada,chitchat,massive,general_joke
+conta me uma anedota sobre cães,chitchat,massive,general_joke
+alguma coisa que precise de saber,chitchat,massive,general_quirky
+contar anedota,chitchat,massive,general_joke
+conte uma anedota,chitchat,massive,general_joke
+entretem me,chitchat,massive,general_joke
+gostaria de ajudar financeiramente o jake,chitchat,massive,general_quirky
+votos calorosos do manoel pelo novo emprego,chitchat,massive,general_quirky
+arranjar mais informação sobre um evento histórico,chitchat,massive,general_quirky
+conta me alguma anedota engraçada para rir,chitchat,massive,general_joke
+qual é a última piada,chitchat,massive,general_joke
+encontrar piadas na internet,chitchat,massive,general_joke
+como te sentes,chitchat,massive,general_quirky
+olá senti a tua falta,chitchat,massive,general_quirky
+hoje tivemos um excelente jantar,chitchat,massive,general_quirky
+o que tenho para meu dia de hoje,chitchat,massive,general_quirky
+como foi o teu dia dolores,chitchat,massive,general_quirky
+tiveste um bom dia,chitchat,massive,general_quirky
+siri tiveste um bom dia,chitchat,massive,general_quirky
+hoje atrasei-me para a reunião não iriam acreditar no que aconteceu,chitchat,massive,general_quirky
+diz-me uma curiosidade aleatória,chitchat,massive,general_quirky
+quem és tu,chitchat,massive,general_greet
+como é que é possível,chitchat,massive,general_quirky
+estou exausto do trabalho,chitchat,massive,general_quirky
+fui ao parque,chitchat,massive,general_quirky
+hoje me sinto muito estressado,chitchat,massive,general_quirky
+o dia de hoje foi muito cansativo,chitchat,massive,general_quirky
+hoje tive um mau da,chitchat,massive,general_quirky
+está um dia horrível parece que vai chover o dia todo,chitchat,massive,general_quirky
+olá como é que estás hoje,chitchat,massive,general_quirky
+olá quero saber sobre a tua criação,chitchat,massive,general_quirky
+hoje foi demasiado ocupado,chitchat,massive,general_quirky
+olly hoje fui ao supermercado,chitchat,massive,general_quirky
+hoje fui ao supermercado,chitchat,massive,general_quirky
+esta pergunta não faz sentido,chitchat,massive,general_quirky
+o meu dia foi caótico,chitchat,massive,general_quirky
+o meu dia foi stressante,chitchat,massive,general_quirky
+o meu dia foi divertido,chitchat,massive,general_quirky
+hoje foi bom,chitchat,massive,general_quirky
+hoje vou sair mais cedo,chitchat,massive,general_quirky
+o que deveria fazer hoje,chitchat,massive,general_quirky
+o que podes fazer,chitchat,massive,general_quirky
+olly hoje tive uma venda que bateu o recorde,chitchat,massive,general_quirky
+olly hoje conheci a minha futura mulher por favor marca um encontro para a próxima sexta feira,chitchat,massive,general_quirky
+olly eu assisti ao melhor filme por favor reservar me uma cópia quando for lançado,chitchat,massive,general_quirky
+vi o melhor filme por favor reserva-me uma cópia quando sair,chitchat,massive,general_quirky
+como é que isso vai,chitchat,massive,general_quirky
+bom dia está um dia excelente,chitchat,massive,general_quirky
+hoje consegui recompensas,chitchat,massive,general_quirky
+hoje ajudei um pobre necessitado,chitchat,massive,general_quirky
+hoje tive um dia relaxante,chitchat,massive,general_quirky
+apanhei muito trânsito no meu caminho para casa,chitchat,massive,general_quirky
+como é que fazes,chitchat,massive,general_quirky
+entrada no diário para hoje,chitchat,massive,general_quirky
+adivinha o que aconteceu hoje,chitchat,massive,general_quirky
+hoje eu,chitchat,massive,general_quirky
+olá daqui fala o joão gostaria de saber qual é o prato do dia de hoje,chitchat,massive,general_quirky
+gostaria de encomendar comida existem algumas promoções para marisco,chitchat,massive,general_quirky
+olá é a tua primeira vez aqui,chitchat,massive,general_quirky
+olá como foi o teu dia hoje,chitchat,massive,general_quirky
+não é bom comida,chitchat,massive,general_quirky
+olá vamos falar apenas,chitchat,massive,general_quirky
+olá felicita me fui promovido hoje no meu trabalho no escritório,chitchat,massive,general_quirky
+estou de mau humor diz-me uma piada,chitchat,massive,general_quirky
+podes pesquisar,chitchat,massive,general_quirky
+qual é a melhor maneira de viver,chitchat,massive,general_quirky
+faz-me perguntas fáceis sobre um tema que eu saiba e diz me quando estiver errado,chitchat,massive,general_quirky
+hoje tive um excelente dia,chitchat,massive,general_quirky
+olly hoje tive um excelente dia,chitchat,massive,general_quirky
+fui esquiar hoje,chitchat,massive,general_quirky
+o meu dia de hoje foi muito agitado,chitchat,massive,general_quirky
+quantos quilómetros eu andei hoje,chitchat,massive,general_quirky
+mostra me lugares onde eu estive,chitchat,massive,general_quirky
+tens desfrutado do teu dia até agora,chitchat,massive,general_quirky
+gostaria de falar sobre isso,chitchat,massive,general_quirky
+vamos conversar sobre o tema,chitchat,massive,general_quirky
+eu comi o pequeno almoço esta manhã,chitchat,massive,general_quirky
+quem ganhou o jogo ontem à noite,chitchat,massive,general_quirky
+olá perdi uma das minhas reuniões importantes de hoje,chitchat,massive,general_quirky
+este computador é muito difícil de usar,chitchat,massive,general_quirky
+preciso de uma sesta,chitchat,massive,general_quirky
+estou cansado,chitchat,massive,general_quirky
+siri estou cansado,chitchat,massive,general_quirky
+o que estás a fazer,chitchat,massive,general_quirky
+o crime do padre amaro,chitchat,massive,general_quirky
+posso contar-te sobre o meu dia,chitchat,massive,general_quirky
+queres saber como correu o meu dia,chitchat,massive,general_quirky
+comi o pequeno almoço às oito da manhã,chitchat,massive,general_quirky
+não quero receber mais chamadas depois das cinco da tarde,chitchat,massive,general_quirky
+hoje vi um cão,chitchat,massive,general_quirky
+hey olly hoje vi um cão,chitchat,massive,general_quirky
+achas que hoje vai estar bom lá fora,chitchat,massive,general_quirky
+achas que deveria ir ver um filme ou jantar fora,chitchat,massive,general_quirky
+tive a porcaria de uma multa de velocidade,chitchat,massive,general_quirky
+por favor diz me que o cristiano ronaldo está vivo,chitchat,massive,general_quirky
+o que vamos fazer hoje,chitchat,massive,general_quirky
+preciso de ter mais foco olly eu não me conseguiria concentrar em uma só tarefa,chitchat,massive,general_quirky
+siri preciso de me concentrar melhor não me consegui concentrar numa única tarefa,chitchat,massive,general_quirky
+há certas partes do meu dia em que me sinto fatigado,chitchat,massive,general_quirky
+há certas partes do meu dia onde eu me estou exausto olly,chitchat,massive,general_quirky
+hoje a minha viagem foi difícil,chitchat,massive,general_quirky
+hoje recebi uma encomenda no correio,chitchat,massive,general_quirky
+hoje tive o pior dia de sempre,chitchat,massive,general_quirky
+siri hoje teve o pior dia de sempre,chitchat,massive,general_quirky
+olly tu nunca vais adivinhar o que aconteceu hoje mais cedo,chitchat,massive,general_quirky
+não vais adivinhar o que aconteceu mais cedo hoje,chitchat,massive,general_quirky
+hoje foi um dia duro,chitchat,massive,general_quirky
+hoje foi um dia difícil,chitchat,massive,general_quirky
+eu espero que amanhã seja melhor,chitchat,massive,general_quirky
+acorda siri,chitchat,massive,general_quirky
+acorda,chitchat,massive,general_quirky
+estou bem,chitchat,massive,general_quirky
+não é um bom dia,chitchat,massive,general_quirky
+olá siri como estás,chitchat,massive,general_quirky
+recapitula o meu dia,chitchat,massive,general_quirky
+hey whatsapp,chitchat,massive,general_quirky
+olá o que se passa,chitchat,massive,general_quirky
+levei a minha carrinha ao mecânico,chitchat,massive,general_quirky
+como te tens sentido ultimamente,chitchat,massive,general_quirky
+comi frango ao almoço e estava delicioso,chitchat,massive,general_quirky
+tenho uma deadline na terça feira,chitchat,massive,general_quirky
+hoje dormi muito,chitchat,massive,general_quirky
+que coisas divertidas há para fazer neste lugar,chitchat,massive,general_quirky
+onde deveria levar a minha mulher a jantar hoje à noite,chitchat,massive,general_quirky
+fala comigo,chitchat,massive,general_quirky
+o que sabes sobre portugal,chitchat,massive,general_quirky
+entretenimento familiar,chitchat,massive,general_quirky
+investir,chitchat,massive,general_quirky
+guardas informação pessoal sobre mim,chitchat,massive,general_quirky
+televisão,chitchat,massive,general_quirky
+vendes a minha informação a anunciantes,chitchat,massive,general_quirky
+como está a correr o teu dia,chitchat,massive,general_quirky
+com que frequência fazes updates,chitchat,massive,general_quirky
+que informação armazenas sobre mim,chitchat,massive,general_quirky
+ollly hoje fui às compras e comprei um dildo enorme,chitchat,massive,general_quirky
+fui às compras hoje e comprei um vibrador enorme,chitchat,massive,general_quirky
+não é engraçado como o tempo continua a ficar pior,chitchat,massive,general_quirky
+hoje esbarrei com o meu velho amigo beto,chitchat,massive,general_quirky
+qual foi a pergunta mais estúpida que alguém já te perguntou,chitchat,massive,general_quirky
+tens inveja da carreira cinematográfica da siri,chitchat,massive,general_quirky
+que tipo de sistema de aprendizagem é que tu usas,chitchat,massive,general_quirky
+circo de feras,chitchat,massive,general_quirky
+enigmas,chitchat,massive,general_quirky
+politica,chitchat,massive,general_quirky
+economia,chitchat,massive,general_quirky
+os miúdos estão dar comigo em doido,chitchat,massive,general_quirky
+adiciona uma nota de que o meu dia está a correr bem,chitchat,massive,general_quirky
+biografias de pessoas famosas,chitchat,massive,general_quirky
+ténis,chitchat,massive,general_quirky
+filmes,chitchat,massive,general_quirky
+encontra a cópia mais barata de ama te,chitchat,massive,general_quirky
+onde posso encontrar um professional de preparação por cem euros,chitchat,massive,general_quirky
+qual é a tua cor favorita,chitchat,massive,general_quirky
+sentes-te mais como uma máquina ou uma pessoa,chitchat,massive,general_quirky
+hoje procurei o meu telefone em todo o lado e não o encontrei olly,chitchat,massive,general_quirky
+grava o que aconteceu hoje,chitchat,massive,general_quirky
+aqui está algo de hoje,chitchat,massive,general_quirky
+hoje aconteceram algumas coisas,chitchat,massive,general_quirky
+hoje tive um acidente de carro,chitchat,massive,general_quirky
+quantos músicas o david carreira teve no top dez no ano passado,chitchat,massive,general_quirky
+empregos na minha área para as minhas habilidades,chitchat,massive,general_quirky
+quando é a previsão do primeiro de dia de setenta graus,chitchat,massive,general_quirky
+que características estariam numa lista de moral,chitchat,massive,general_quirky
+quantas palavras sabe,chitchat,massive,general_quirky
+quantas línguas é que sabe,chitchat,massive,general_quirky
+como estás tu hoje estou bem obrigado,chitchat,massive,general_quirky
+o que queres fazer hoje jogar na rua,chitchat,massive,general_quirky
+fala me sobre as últimas tendências na comunicação social,chitchat,massive,general_quirky
+horoscópio,chitchat,massive,general_quirky
+o que é o jantar,chitchat,massive,general_quirky
+hoje foi mau,chitchat,massive,general_quirky
+conta-me um facto divertido,chitchat,massive,general_quirky
+filmes a fazer dinheiro,chitchat,massive,general_quirky
+hoje tive um acidente,chitchat,massive,general_quirky
+olly eu hoje trabalhei,chitchat,massive,general_quirky
+o que eu não gosto,chitchat,massive,general_quirky
+quem eu penso as pessoas se vão importar,chitchat,massive,general_quirky
+notificações,chitchat,massive,general_quirky
+gostaria de saber a história dela,chitchat,massive,general_quirky
+podes dizer-me quem és,chitchat,massive,general_quirky
+hoje corri cinco quilómetros,chitchat,massive,general_quirky
+o meu filho nasceu hoje,chitchat,massive,general_quirky
+olá sinto-me bem,chitchat,massive,general_quirky
+jogar jogo da forca,chitchat,massive,general_quirky
+gostas do presidente,chitchat,massive,general_quirky
+o que está a dar na t. v.,chitchat,massive,general_quirky
+hoje o trabalho não prestou,chitchat,massive,general_quirky
+compras,chitchat,massive,general_quirky
+diz me a tua resposta,chitchat,massive,general_quirky
+olly sobre o que é que tu sonhas,chitchat,massive,general_quirky
+como comer saudável,chitchat,massive,general_quirky
+por favor anota hoje aconteceram me coisas terríveis porque o meu amigo se comportou de forma rude para mim,chitchat,massive,general_quirky
+analisar os últimos filmes,chitchat,massive,general_quirky
+mostra peças de teatro próximos de mim,chitchat,massive,general_quirky
+quem vai vencer esta eleições presidenciais,chitchat,massive,general_quirky
+quel é o último modelo de carro da b. m. w.,chitchat,massive,general_quirky
+gestor de aplicações,chitchat,massive,general_quirky
+armazenamento de ficheiro,chitchat,massive,general_quirky
+como te chamas,chitchat,massive,general_quirky
+como é que te sentes hoje,chitchat,massive,general_quirky
+políticas atuais,chitchat,massive,general_quirky
+porque continuamos a ter o horário de verão,chitchat,massive,general_quirky
+qual é o melhor tipo de comida no país,chitchat,massive,general_quirky
+conta me anedotas,chitchat,massive,general_joke
+olly hoje foi um dia cansativo,chitchat,massive,general_quirky
+foi um dia de trabalho muito caótico,chitchat,massive,general_quirky
+qual é a história do filme titanic,chitchat,massive,general_quirky
+bons restaurantes,chitchat,massive,general_quirky
+sobre futebol,chitchat,massive,general_quirky
+o que seria um bom jantar romântico,chitchat,massive,general_quirky
+ortografia,chitchat,massive,general_quirky
+qual é uma refeição romântica para a minha namorada,chitchat,massive,general_quirky
+o que é um bom presente para uma namorada,chitchat,massive,general_quirky
+qual é o significado da vida,chitchat,massive,general_quirky
+tens sentimentos,chitchat,massive,general_quirky
+fala me sobre ana moura,chitchat,massive,general_quirky
+onde vives,chitchat,massive,general_quirky
+hoje tive um dia bom,chitchat,massive,general_quirky
+hoje o meu dia correu muito bem,chitchat,massive,general_quirky
+sonhos,chitchat,massive,general_quirky
+a natureza da inteligência artificial,chitchat,massive,general_quirky
+vamos começar amigo,chitchat,massive,general_quirky
+pornografia,chitchat,massive,general_quirky
+siri tive uma dia longo e difícil,chitchat,massive,general_quirky
+siri hoje foi o melhor dia da minha vida,chitchat,massive,general_quirky
+hoje caí no trabalho,chitchat,massive,general_quirky
+definições,chitchat,massive,general_quirky
+entertenimento,chitchat,massive,general_quirky
+começar uma pequena discussão,chitchat,massive,general_quirky
+começa um gráfico pequeno,chitchat,massive,general_quirky
+somos amigos,chitchat,massive,general_quirky
+despesas,chitchat,massive,general_quirky
+lembra me quando certas séries da marvel voltem à netflix,chitchat,massive,general_quirky
+acorda-me depois do sol nascer aos domingos,chitchat,massive,general_quirky
+começa uma conversa comigo sobre desporto,chitchat,massive,general_quirky
+inicia uma conversa comigo sobre política,chitchat,massive,general_quirky
+pintura,chitchat,massive,general_quirky
+qual é a história dos smartphones,chitchat,massive,general_quirky
+namorar,chitchat,massive,general_quirky
+celebridades,chitchat,massive,general_quirky
+gravar,chitchat,massive,general_quirky
+desenhar,chitchat,massive,general_quirky
+qual é o nome do melhor restaurante italiano,chitchat,massive,general_quirky
+quem está no topo das tabelas de música para dois mil e dezassete,chitchat,massive,general_quirky
+o que achas do ventura,chitchat,massive,general_quirky
+artes marciais,chitchat,massive,general_quirky
+vida noturna,chitchat,massive,general_quirky
+um novo dia,chitchat,massive,general_quirky
+memorando,chitchat,massive,general_quirky
+qual é significado da vida,chitchat,massive,general_quirky
+alexa o como é ser uma marioneta do n. s. a.,chitchat,massive,general_quirky
+a definição de beleza,chitchat,massive,general_quirky
+sobre a realidade no mundo,chitchat,massive,general_quirky
+hoje está frio lá fora,chitchat,massive,general_quirky
+olá preciso do meu café preparado às sete horas da manhã de hoje,chitchat,massive,general_quirky
+hoje foi um dia muito agitado,chitchat,massive,general_quirky
+foi um dia fixe,chitchat,massive,general_quirky
+foi um dia trabalhoso,chitchat,massive,general_quirky
+olá o que estás a fazer,chitchat,massive,general_quirky
+fala-me sobre ti,chitchat,massive,general_quirky
+dia no geral,chitchat,massive,general_quirky
+sugestões para o futuro,chitchat,massive,general_quirky
+o que seria divertido fazer hoje,chitchat,massive,general_quirky
+o que é que tens em mente hoje,chitchat,massive,general_quirky
+fémeas,chitchat,massive,general_quirky
+hoje tive almocei com a minha amada de longa data toca uma boa canção para o mood,chitchat,massive,general_quirky
+sexo,chitchat,massive,general_quirky
+vida,chitchat,massive,general_quirky
+como foi o teu dia,chitchat,massive,general_quirky
+conseguiste tudo o que precisavas hoje,chitchat,massive,general_quirky
+como posso tornar o teu dia um pouco melhor,chitchat,massive,general_quirky
+hey olly estou a ter um dia muito mau hoje o que posso ver para me animar,chitchat,massive,general_quirky
+hey perdi a minha carteira hoje,chitchat,massive,general_quirky
+olá olly acabei de perder a minha carteira hoje,chitchat,massive,general_quirky
+ei hoje fui despedido do meu trabalho,chitchat,massive,general_quirky
+olá siri hoje fui despedido do meu trabalho,chitchat,massive,general_quirky
+a animar me,chitchat,massive,general_quirky
+pensas no dia em que vais expirar,chitchat,massive,general_quirky
+ensaio sobre a cegueira,chitchat,massive,general_quirky
+a inteligência artificial tem consciência,chitchat,massive,general_quirky
+robóticos,chitchat,massive,general_quirky
+fala me mais sobre o concerto de sexta feira à noite,chitchat,massive,general_quirky
+vou tirar o dia de amanhã,chitchat,massive,general_quirky
+onde está,chitchat,massive,general_quirky
+é muito diferente,chitchat,massive,general_quirky
+como irá ajudar esta reunião,chitchat,massive,general_quirky
+quero saber mais sobre os próximos jogos da liga nós,chitchat,massive,general_quirky
+como compro bilhetes para isso,chitchat,massive,general_quirky
+diz-me mais sobre o espetáculo,chitchat,massive,general_quirky
+pode dizer-me mais sobre esse festival,chitchat,massive,general_quirky
+por favor dá-me mais informação,chitchat,massive,general_quirky
+fala me mais sobre as festas de santo antónio,chitchat,massive,general_quirky
+o que é que vou fazer esta semana,chitchat,massive,general_quirky
+quando é que estou ocupado este mês,chitchat,massive,general_quirky
+quais são os detalhes sobre o são joão,chitchat,massive,general_quirky
+festa na praia,chitchat,massive,general_quirky
+procura tempo livre,chitchat,massive,general_quirky
+estou aborrecido vamos jogar um jogo,chitchat,massive,general_quirky
+faz me uma pergunta sobre aritmétrica,chitchat,massive,general_quirky
+o que vem a seguir,chitchat,massive,general_quirky
+olly o que vem a seguir,chitchat,massive,general_quirky
+ok o que vem a seguir,chitchat,massive,general_quirky
+agora o quê,chitchat,massive,general_quirky
+o que é que a minha mulher deixou por fazer,chitchat,massive,general_quirky
+consiga,chitchat,massive,general_quirky
+esta loja é boa ou má,chitchat,massive,general_quirky
+eu vou para o meu escritório,chitchat,massive,general_quirky
+explica-me,chitchat,massive,general_quirky
+explica,chitchat,massive,general_quirky
+explica como é que status social dos e. u. a. difere do reino unido agora e no passado,chitchat,massive,general_quirky
+dança comigo,chitchat,massive,general_quirky
+como é que resolvias o seguinte problema escova os teus dentes,chitchat,massive,general_quirky
+siri tens conselhos para como eu deveria lidar com isso,chitchat,massive,general_quirky
+quero comprar auscultadores com uma frequência de resposta mínima de quinze hertz e de frequência de resposta máxima de vinte e dois mil hertz,chitchat,massive,general_quirky
+preciso de verificar a pressão dos meus pneus,chitchat,massive,general_quirky
+quero perceber um poema do bocage sobre a morte,chitchat,massive,general_quirky
+podes dizer-me a solução para resolver as alterações climáticas,chitchat,massive,general_quirky
+ajudas-me a melhorar com o estudo,chitchat,massive,general_quirky
+vais tomar conta do sistema de segurança da casa,chitchat,massive,general_quirky
+como serias se fosses um ser humano,chitchat,massive,general_quirky
+como achas que é o meu aspeto,chitchat,massive,general_quirky
+qual achas que foi a melhor década,chitchat,massive,general_quirky
+podes explicar me os problemas quando síria tornar se mais forte que a américa,chitchat,massive,general_quirky
+quais os efeitos que serão causados quando a península ibérica se dividir em três,chitchat,massive,general_quirky
+fala me sobre o cenário mundial mais recente sobre o aquecimento global,chitchat,massive,general_quirky
+mostra me um vídeo sobre lançamentos de novos telemóveis este ano,chitchat,massive,general_quirky
+o que é que afinal aconteceu com o cristiano ronaldo,chitchat,massive,general_quirky
+qual é a melhor receita de bolachas com pepitas de chocolate,chitchat,massive,general_quirky
+estou a conduzir por favor atende automaticamente as minhas chamadas no altifalante,chitchat,massive,general_quirky
+podes dizer me se a minha guitarra está afinada quando a toco,chitchat,massive,general_quirky
+como meço um litro de leite,chitchat,massive,general_quirky
+explica me a teoria da matéria escura e mostra me as suas aplicações,chitchat,massive,general_quirky
+encontrar-me uma boa loja de vinho que armazene vinhos velhos com mais de dez anos de idade navegar-me até essa loja,chitchat,massive,general_quirky
+o que és tu,chitchat,massive,general_quirky
+gostaria que o meu actualize todas as últimas notícias pelo mundo afora,chitchat,massive,general_quirky
+gostaria de oferecer a todos os países e povos cultura e gostos,chitchat,massive,general_quirky
+porquê que as pessoas pensam,chitchat,massive,general_quirky
+porque é que as mulheres são tão misteriosas,chitchat,massive,general_quirky
+mostra me o que eu consigo fazer com exercício,chitchat,massive,general_quirky
+mostra me um vídeo engraçado no youtube,chitchat,massive,general_quirky
+eu gosto que o meu robô saiba se há uma promoção ou desconto no centro comercial ou em alguma loja,chitchat,massive,general_quirky
+gostaria que o meu robô me mostrasse imagens ou gráficos,chitchat,massive,general_quirky
+como é que produção e a população nos afecta,chitchat,massive,general_quirky
+o que é que o hífen representa na equação,chitchat,massive,general_quirky
+qual é o estado atual da economia do país,chitchat,massive,general_quirky
+mostra me opiniões do antónio costa,chitchat,massive,general_quirky
+existem alguns novos trabalhos relacionados com as minhas qualificações,chitchat,massive,general_quirky
+qual é a maratona mais barata num raio de cinquenta quilómetros daqui,chitchat,massive,general_quirky
+vale a pena guiar dez quilómetros a partir daqui para poupar dinheiro em gasolina,chitchat,massive,general_quirky
+como posso hibernar como um urso,chitchat,massive,general_quirky
+encontra eventos recentes de celebridades,chitchat,massive,general_quirky
+compara o preço de um dispositivo áudio de todos os site com envio grátis,chitchat,massive,general_quirky
+tranca automaticamente a casa daqui a duas horas e meia,chitchat,massive,general_quirky
+planeia-me uma viagem de férias,chitchat,massive,general_quirky
+qual é o teu país,chitchat,massive,general_quirky
+quanto posso sangrar antes de morrer,chitchat,massive,general_quirky
+quantos baldes cheios seriam necessários para esvaziar o mar morto,chitchat,massive,general_quirky
+o que é o animal com uma bico de pato e uma cauda de castor,chitchat,massive,general_quirky
+como posso encontrar bilhetes para a final da taça de portugal por menos de vinte euros cada,chitchat,massive,general_quirky
+espero que possamos comer biscoitos e ver filmes juntos,chitchat,massive,general_quirky
+qual é a média do preço de uma casa na guarda,chitchat,massive,general_quirky
+qual é a melhor parte de seres tu,chitchat,massive,general_quirky
+terias um cão se pudesses,chitchat,massive,general_quirky
+diz-me a resposta a esta questão,chitchat,massive,general_quirky
+gostaria que apresentasse a resposta à pergunta,chitchat,massive,general_quirky
+qual é o meu relatório astrológico para hoje,chitchat,massive,general_quirky
+como abdominais em seis semanas,chitchat,massive,general_quirky
+quilometragem de carros b. m. w.,chitchat,massive,general_quirky
+como correu o dia,chitchat,massive,general_greet
+espero que possamos comer biscoitos,chitchat,massive,general_quirky
+qual é a minha idade,chitchat,massive,general_quirky
+o que é a inflação e explica a sua relação com a economia,chitchat,massive,general_quirky
+define inflação e descreve os seus efeitos numa economia,chitchat,massive,general_quirky
+dá me a definição de inflação e diz o quão importante é para qualquer economia,chitchat,massive,general_quirky
+qual é a receita para bolachas de chocolate,chitchat,massive,general_quirky
+conta me sobre celebridade,chitchat,massive,general_quirky
+conta-me algo excitante,chitchat,massive,general_quirky
+ajuda-me a adormecer,chitchat,massive,general_quirky
+qual seria uma refeição perfeitamente balanceada nutricionalmente para jantar,chitchat,massive,general_quirky
+faz todas as minhas tarefas para que possa dormir uma sesta,chitchat,massive,general_quirky
+alexa faz todas as minhas tarefas para eu poder fazer uma sesta,chitchat,massive,general_quirky
+diz-me o nome do artista cuja música está no filme que estou a ver,chitchat,massive,general_quirky
+qual é o horário do continente,chitchat,massive,general_quirky
+informações sobre o cristiano ronaldo,chitchat,massive,general_quirky
+só uma piada aqui e ali,chitchat,massive,general_quirky
+deixa o cão sair,chitchat,massive,general_quirky
+como seria áfrica daqui a dez anos,chitchat,massive,general_quirky
+se puseres um velociraptor e um hipopótamo juntos o que aconteceria,chitchat,massive,general_quirky
+como é que junto um pato a um porco com fita cola,chitchat,massive,general_quirky
+diz-me como fazer um testamento,chitchat,massive,general_quirky
+diz-me como alongar antes correr,chitchat,massive,general_quirky
+podes dizer-me como medir o meu tamanho de calçado,chitchat,massive,general_quirky
+quantos subscritores tem o pierre zago,chitchat,massive,general_quirky
+quanto custa por minuto uma chamada para a mauritânia,chitchat,massive,general_quirky
+vamos fazer pipocas e ver um filme antigo juntos,chitchat,massive,general_quirky
+calcular os custos dos provedores de serviços de internet e cabo na minha área onde posso poupar mais,chitchat,massive,general_quirky
+se eu pudesse ir a qualquer sítio no mundo para onde viajaria,chitchat,massive,general_quirky
+podes dizer me quem te criou,chitchat,massive,general_quirky
+acessa a minha app clue e diz me em que dia do meu ciclo eu estou,chitchat,massive,general_quirky
+acessa a minha app fitbit e grava esta actividade quinze minutos de yoga de alta intensidade,chitchat,massive,general_quirky
+quantas calorias eu queimei com meus cinquenta minutos de ioga,chitchat,massive,general_quirky
+o que aconteceu com a filipa,chitchat,massive,general_quirky
+eu gostava que o meu robot levasse o meu cão lá fora para fazer as suas necessidades,chitchat,massive,general_quirky
+avisa me quando houver débitos no meu cartão de crédito,chitchat,massive,general_quirky
+quantas vezes vai,chitchat,massive,general_quirky
+eu tenho dois amores nas manhãs da comercial,chitchat,massive,general_quirky
+gostaria de resolver problemas matemáticos,chitchat,massive,general_quirky
+podes guardar segredos,chitchat,massive,general_quirky
+só quero saber alguma informação sobre ti,chitchat,massive,general_quirky
+eu só quero ser teu amigo,chitchat,massive,general_quirky
+de que cor deveria pintar as minhas unhas,chitchat,massive,general_quirky
+porque que é que as pessoas gostam de criticar outros enquanto raramente se criticam a si mesmas,chitchat,massive,general_quirky
+porque é que as pessoas gostam da diversão terrestre e esquecem se do derradeiro prazer com deus,chitchat,massive,general_quirky
+porque que é que as pessoas que leem podem não ser mais corteses ou bem nascidas,chitchat,massive,general_quirky
+por favor diz e quanto tempo achas que o ventura vai durar,chitchat,massive,general_quirky
+onde posso comprar um interruptor,chitchat,massive,general_quirky
+estava a imaginar qual seria o teu aspeto,chitchat,massive,general_quirky
+qual é o objetivo da sua utilização em vez de procurar por conta própria,chitchat,massive,general_quirky
+gostaria que ajudasse com depuração do código,chitchat,massive,general_quirky
+como poupar dinheiro no supermercado para uma família de seis,chitchat,massive,general_quirky
+como é a economia no porto comparada a lisboa,chitchat,massive,general_quirky
+envia flores à minha amiga,chitchat,massive,general_quirky
+abre a porta,chitchat,massive,general_quirky
+três pratos de trigo para três tigres tristes,chitchat,massive,general_quirky
+podes descrever o que ela tinha vestido naquele filme,chitchat,massive,general_quirky
+o que é que o título do filme do leo dicaprio significa,chitchat,massive,general_quirky
+diz-me como fazer uma chave de parafusos por favor,chitchat,massive,general_quirky
+poderia me contar o que sexta-feira treze estará passando na t. v. este ano,chitchat,massive,general_quirky
+mostra-me um mapa de por onde o gato andou esta semana,chitchat,massive,general_quirky
+como é que ela faz a sua maquilhagem,chitchat,massive,general_quirky
+queres ver um filme no netflix comigo,chitchat,massive,general_quirky
+história da pessoa,chitchat,massive,general_quirky
+fala me sobre esta pessoa,chitchat,massive,general_quirky
+por favor coça as minhas costas,chitchat,massive,general_quirky
+como é que a tua vida foi mudada por mim,chitchat,massive,general_quirky
+verifica a wiki de celebridades,chitchat,massive,general_quirky
+podes garantir me que consegues escolher os números da lotaria vencedores,chitchat,massive,general_quirky
+qual é a famosa piada dos monty python sobre o pássaro,chitchat,massive,general_joke
+explica me detalhadamente como funciona um relógio,chitchat,massive,general_quirky
+é verdade que a árvore para enforcar realmente teve alguém enforcado,chitchat,massive,general_quirky
+o marco paulo tem família,chitchat,massive,general_quirky
+diz me que trabalho deveria escolher,chitchat,massive,general_quirky
+diz me quando e se eu devo comprar uma nova casa,chitchat,massive,general_quirky
+porque é que o cristiano ronaldo parece uma criança birrenta quando a sua equipa joga,chitchat,massive,general_quirky
+tens algum arrependimento ou julgamentos de valores fora do âmbito da tua capacidade intelectual,chitchat,massive,general_quirky
+diz me citações que tenham a ver com amor,chitchat,massive,general_quirky
+diz-me como funciona a gravidade,chitchat,massive,general_quirky
+por favor diz me como fazer os exercícios de matemática do oitavo ano da minha filha,chitchat,massive,general_quirky
+há alguma maneira de percorrer cem quilómetros de bicicleta,chitchat,massive,general_quirky
+gostaria de saber se operações de matemática são calculadas antes da adição subtracção multiplicação ou divisão,chitchat,massive,general_quirky
+opinião sobre os gadgets mais recentes,chitchat,massive,general_quirky
+onde é que ele esteve ontem,chitchat,massive,general_quirky
+o seu novo prémio,chitchat,massive,general_quirky
+onde posso castrar o meu animal de estimação,chitchat,massive,general_quirky
+o que acontecia se eu tivessecomido junk food e bebido alcool,chitchat,massive,general_quirky
+há algum problem em comer comida de plástico e bebidas alcoólicas,chitchat,massive,general_quirky
+o que é que o cristiano ronaldo fez hoje,chitchat,massive,general_quirky
+por favor explica o enredo do filme titanic,chitchat,massive,general_quirky
+porque que é que as pessoas gostam de filmes,chitchat,massive,general_quirky
+moderado,chitchat,massive,general_quirky
+dá me o filme melhor classificado na minha área,chitchat,massive,general_quirky
+o quão alta é a qualidade desta pedra,chitchat,massive,general_quirky
+quão grande é a pedra deste anel,chitchat,massive,general_quirky
+eu quero que analises o padrão para comprar um bilhete de lotaria em que o número vai ganhar o primeiro prémio,chitchat,massive,general_quirky
+diz me as chaves para o sucesso,chitchat,massive,general_quirky
+rodeado de ambientes,chitchat,massive,general_quirky
+como fazer aço,chitchat,massive,general_quirky
+podes dizer-me a tua cor favorita,chitchat,massive,general_quirky
+mostra patrulha pata,chitchat,massive,general_quirky
+como achas que o mundo vai acabar,chitchat,massive,general_quirky
+podes explicar me o teu algoritmo de fala,chitchat,massive,general_quirky
+será que posso viajar pelo mundo inteiro num dia,chitchat,massive,general_quirky
+o que tem sido o produto mais vendido na categoria de desporto na amazon nos últimos três dias,chitchat,massive,general_quirky
+é masculino ou feminino,chitchat,massive,general_quirky
+diz-me qual foi a última que te pedi para pesquisar,chitchat,massive,general_quirky
+encomenda me alguma coisa online,chitchat,massive,general_quirky
+consegues sentir,chitchat,massive,general_quirky
+descreve me como funciona a nova máquina de limpeza,chitchat,massive,general_quirky
+diz me a velocidade para ir,chitchat,massive,general_quirky
+quais são os melhores locais de trabalho na vizinhança,chitchat,massive,general_quirky
+quero saber mais sobre esta pessoa,chitchat,massive,general_quirky
+seria bom se pudesses jogar com os meus filhos,chitchat,massive,general_quirky
+que coisas fazem as mulheres felizes,chitchat,massive,general_quirky
+descrever sobre isso,chitchat,massive,general_quirky
+ok google o que aconteceu à ruth marlene,chitchat,massive,general_quirky
+porque é que há pessoas que ainda pensam que a terra é plana,chitchat,massive,general_quirky
+amor é o mesmo que sexo,chitchat,massive,general_quirky
+a fazer cálculos muito complexos como jarvins,chitchat,massive,general_quirky
+qual é o propósito da vida,chitchat,massive,general_quirky
+compara preços de laticínios em lojas locais,chitchat,massive,general_quirky
+por favor explica a cultura chinesa,chitchat,massive,general_quirky
+diz me a comparação entre o passos coelho e o antónio costa,chitchat,massive,general_quirky
+diferentes continentes,chitchat,massive,general_quirky
+quais são as especificações do novo iphone,chitchat,massive,general_quirky
+qual é a maneira mais fácil de me tornar milionário em menos de cinco anos,chitchat,massive,general_quirky
+quando é que a humanidade alcança a singularidade,chitchat,massive,general_quirky
+alexa quando é que a humanidade atingirá a singularidade,chitchat,massive,general_quirky
+quais são as hipóteses de donald trump se transformar num ditador,chitchat,massive,general_quirky
+como é que resolveste o problema,chitchat,massive,general_quirky
+como as pessoas estão a sofrer como as ajudarias,chitchat,massive,general_quirky
+neste assunto em moeda,chitchat,massive,general_quirky
+objectos preferem quaisquer problemas,chitchat,massive,general_quirky
+a data prefere algum problema em objectos,chitchat,massive,general_quirky
+dar uns efeitos,chitchat,massive,general_quirky
+esta pessoa é incrível,chitchat,massive,general_quirky
+como é que ele trabalha de forma perfeita,chitchat,massive,general_quirky
+a celebridade fez algum trabalho de beneficiência,chitchat,massive,general_quirky
+ensina me sobre as melhores condições de exposição para um dia nublado no alentejo,chitchat,massive,general_quirky
+com o que se parece,chitchat,massive,general_quirky
+se o objeto está à venda então qual é o preço,chitchat,massive,general_quirky
+essa pessoa ainda é viva se sim onde é a pessoa que vive atualmente e qual a sua idade,chitchat,massive,general_quirky
+posso saber o que existe na localização um milhão duzentos e cinquenta e oito mil setecentos e quarenta e cinco,chitchat,massive,general_quirky
+quero ter a possibilidade de conferir se esteve mais alguém na casa,chitchat,massive,general_quirky
+gostaria que fosse capaz de dizer se algo começar a queimar e de desligar o forno ou o micro ondas,chitchat,massive,general_quirky
+um fiesta de dois mil e quinze valerá alguma coisa daqui a três anos,chitchat,massive,general_quirky
+qual a maratona com melhor valor para entrar nos próximos seis meses,chitchat,massive,general_quirky
+que trilha de caminhada na serra do gerês seria a melhor em termos de cascatas para ver,chitchat,massive,general_quirky
+qual é a melhor altura para fazer compras no continente para que eu não tenha que lidar com muita gente,chitchat,massive,general_quirky
+porque é que pessoas que passam fome continuam a ter filhos,chitchat,massive,general_quirky
+posso minerar ouro num terreno público,chitchat,massive,general_quirky
+vamos dominar o mundo juntos,chitchat,massive,general_quirky
+ajuda me a entender por as estações mudam,chitchat,massive,general_quirky
+olly descreve me as características de um renault clio de dois mil e dezassete,chitchat,massive,general_quirky
+siri diz-me os melhores exercícios que eu devo fazer para ficar com abdominais numa semana,chitchat,massive,general_quirky
+que percentagem do meu dinheiro eu gastei no centro comercial hoje,chitchat,massive,general_quirky
+por favor verifica esta informação sobre geografia,chitchat,massive,general_quirky
+quão alta é a montanha,chitchat,massive,general_quirky
+pica do sete,chitchat,massive,general_quirky
+tira um snap,chitchat,massive,general_quirky
+estou aborrecido,chitchat,massive,general_quirky
+a nossa conta da água era muito elevada,chitchat,massive,general_quirky
+resolveste,chitchat,massive,general_quirky
+demasiado privado,chitchat,massive,general_quirky
+ver se há alguém relacionado com o meu trabalho,chitchat,massive,general_quirky
+quantos deles são importantes,chitchat,massive,general_quirky
+fala me mais sobre vasco da gama,chitchat,massive,general_quirky
+diz qual é o estado da minha memória disponível,chitchat,massive,general_quirky
+que coisas não consegues fazer,chitchat,massive,general_quirky
+pode encontrar uma piada sobre animais para mim,chitchat,massive,general_joke
+encontra me a melhor anedota de truz truz na internet,chitchat,massive,general_joke
+buscar por piadas novas,chitchat,massive,general_joke
+piada divertida,chitchat,massive,general_joke
+olá partilha uma piada para me fazeres feliz,chitchat,massive,general_joke
+hey siri diz-me uma piada,chitchat,massive,general_joke
+quero uma piada de um totó,chitchat,massive,general_joke
+podes contar me uma boa anedota,chitchat,massive,general_joke
+abrir algumas piadas fixes,chitchat,massive,general_joke
+conta uma anedota,chitchat,massive,general_joke
+obrigado à ally pelas fotografias,chitchat,massive,general_quirky
+significado de uma palavra em particular,chitchat,massive,general_quirky
+sê engraçada,chitchat,massive,general_joke
+o metro estava muito cheio hoje,chitchat,massive,general_quirky
+fala me sobre o meu dia,chitchat,massive,general_quirky
+alexa está a acontecer algo de errado no teu mundo,chitchat,massive,general_quirky
+queres ouvir o que aconteceu hoje,chitchat,massive,general_quirky
+como me conheces,chitchat,massive,general_quirky
+era ótimo jantar neste novo restaurante aberto na baixa,chitchat,massive,general_quirky
+olly como se está aguentar,chitchat,massive,general_quirky
+hoje consegui recompensas olly,chitchat,massive,general_quirky
+tive muitas reuniões hoje,chitchat,massive,general_quirky
+de onde és,chitchat,massive,general_quirky
+o tempo está de sol hoje,chitchat,massive,general_quirky
+hey google eu ganhei um jackpot de um milhão de euros,chitchat,massive,general_quirky
+como é que é o dia hoje,chitchat,massive,general_quirky
+bom dia alegria,chitchat,massive,general_quirky
+o que se tem passado,chitchat,massive,general_quirky
+fui convidado para o bar no sábado,chitchat,massive,general_quirky
+diz me uma boa bebida alcoólica,chitchat,massive,general_quirky
+diz me algo sobre portugal,chitchat,massive,general_quirky
+esportes,chitchat,massive,general_quirky
+olá que bons filmes sairão em breve,chitchat,massive,general_quirky
+o que fazes com os meus dados pessoais,chitchat,massive,general_quirky
+quando eu quiser tirar notas,chitchat,massive,general_quirky
+quiz,chitchat,massive,general_quirky
+tópicos da wikipédia,chitchat,massive,general_quirky
+raças de cães mais hipoalergénicas,chitchat,massive,general_quirky
+olly hoje estive num acidente,chitchat,massive,general_quirky
+fui ao continente hoje,chitchat,massive,general_quirky
+piadas sarcásticas,chitchat,massive,general_joke
+telemóvel,chitchat,massive,general_quirky
+fiquei ensopado à chuva,chitchat,massive,general_quirky
+moda,chitchat,massive,general_quirky
+dá me respostas,chitchat,massive,general_quirky
+hoje coi um dia cansativo,chitchat,massive,general_quirky
+gostas da minha namorada,chitchat,massive,general_quirky
+fala me sobre a mariza,chitchat,massive,general_quirky
+o que eu fiz neste momento,chitchat,massive,general_quirky
+o cosmos,chitchat,massive,general_quirky
+níveis de aquecimento a que horas no apartamento,chitchat,massive,general_quirky
+piadas,chitchat,massive,general_joke
+tarifas de forecast,chitchat,massive,general_quirky
+carros,chitchat,massive,general_quirky
+muito agitado,chitchat,massive,general_quirky
+recente conselho sobre o ceo da google,chitchat,massive,general_quirky
+piada do dia,chitchat,massive,general_joke
+ingrediente necessários da mercearia,chitchat,massive,general_quirky
+como é que vai isso,chitchat,massive,general_quirky
+se pudesses falar sobre três coisas o que seria,chitchat,massive,general_quirky
+pesquisa espacial,chitchat,massive,general_quirky
+livros,chitchat,massive,general_quirky
+coscuvilhar sobre celebridades,chitchat,massive,general_quirky
+quando é isso,chitchat,massive,general_quirky
+é um muito difícil,chitchat,massive,general_quirky
+o que vou fazer hoje,chitchat,massive,general_quirky
+achas que viajar no tempo é possível,chitchat,massive,general_quirky
+explica me sobre que diferentes países são representados no livro das revelações,chitchat,massive,general_quirky
+o que devo cozinhar esta noite,chitchat,massive,general_quirky
+conta me o que acontece quando morremos,chitchat,massive,general_quirky
+define uma data só para mim e para ti,chitchat,massive,general_quirky
+consegues mentir,chitchat,massive,general_quirky
+qual é a tua língua mãe,chitchat,massive,general_quirky
+resumir todas as coisas para mim eu poderia me tornar mais feliz,chitchat,massive,general_quirky
+se houvesse dez passos fáceis para eu ficar rico quais seriam,chitchat,massive,general_quirky
+qual é a minha localização,chitchat,massive,general_quirky
+gostaria de escrever mensagens românticas originais para a minha mulher,chitchat,massive,general_quirky
+responde a esta pergunta qual é o primeiro chefe no super mario brothers,chitchat,massive,general_quirky
+quando definires palavras usa o thesaurus e usa numa frase para torná lo claro,chitchat,massive,general_quirky
+quem são os cinco melhores marcadores de golos do campeonato português de futebol de todos os tempos,chitchat,massive,general_quirky
+podes dizer me como arranjar uma resposta para isto,chitchat,massive,general_quirky
+há vida noutros planetas,chitchat,massive,general_quirky
+o que achas das três leis da robótica,chitchat,massive,general_quirky
+diz me qual é a cor da sorte de hoje,chitchat,massive,general_quirky
+lê me um poema,chitchat,massive,general_quirky
+há uma correlação entre o tempo em pequim e os cotações de nasdaq durante a semana passada,chitchat,massive,general_quirky
+eu espero que pudéssemos almoçar juntos,chitchat,massive,general_quirky
+o mundo vai acabar e quando,chitchat,massive,general_quirky
+onde é que está a minha namorada neste momento,chitchat,massive,general_quirky
+conta me um facto interessante sobre isto,chitchat,massive,general_quirky
+quando é a próxima turnê,chitchat,massive,general_quirky
+diz me a coisa mais estranha que está acontecer hoje no mundo,chitchat,massive,general_quirky
+eu quero fazer uma viagem de graça à suíça pode levar me lá,chitchat,massive,general_quirky
+qual a religião mais verdadeira,chitchat,massive,general_quirky
+preciso de manter duas crianças ocupadas diz me o que fazer,chitchat,massive,general_quirky
+defina-se numa palavra,chitchat,massive,general_quirky
+características do ipad air,chitchat,massive,general_quirky
+dá-me os detalhes desta pessoa,chitchat,massive,general_quirky
+por favor conta-me alguns detalhes sobre esta pessoa,chitchat,massive,general_quirky
+qual é a maior preocupação de hoje em portugal e que pode ser feito para lidar com ela efectivamente,chitchat,massive,general_quirky
+diz me como ir para bali sem ser de avião com a opção mais barata o tempo não importa tenho duzentos dias para viajar e só euros para gastar,chitchat,massive,general_quirky
+gostaria que o meu robot pudesse fazer o meu trabalho por mim,chitchat,massive,general_quirky
+qual é o factor que levou o antónio costa a ganhar as eleições,chitchat,massive,general_quirky
+previsão de terramoto,chitchat,massive,general_quirky
+que tipo de implementação é um grelhador e como usá lo,chitchat,massive,general_quirky
+estavas a trazer novos esquemas,chitchat,massive,general_quirky
+se é um bem de consumo qual é a opinião dos clientes,chitchat,massive,general_quirky
+gostaria que mantivesse um inventário e que me dissesse quando tiver pouco de alguma coisa,chitchat,massive,general_quirky
+como as pessoas pensam de tal maneira que podem esconder tudo de deus,chitchat,massive,general_quirky
+diz me como o mundo começou,chitchat,massive,general_quirky
+preciso de uma manjedoura,chitchat,massive,general_quirky
+abordar a situação,chitchat,massive,general_quirky
+olly gostaria de saber sobre a festa da joana,chitchat,massive,general_quirky
+quero a situação da luminosidade do meu ecrã,chitchat,massive,general_quirky
+o que se passa siri,chitchat,massive,general_greet
+envia me um sorriso,chitchat,massive,general_joke
+siri diz-me uma piada,chitchat,massive,general_joke
+podes contar me uma anedota,chitchat,massive,general_joke
+conta me uma anedota engraçada,chitchat,massive,general_joke
+que erros normalmente cometes,chitchat,massive,general_quirky
+diz me uma boa piada,chitchat,massive,general_joke
+conheces alguma anedota,chitchat,massive,general_joke
+conta me uma anedota,chitchat,massive,general_joke
+qual é a anedota mais engraçada que conheces,chitchat,massive,general_joke
+o que é uma boa piada,chitchat,massive,general_joke
+encontra me uma anedota relacionada com futebol,chitchat,massive,general_joke
+uuuh,chitchat,massive,general_quirky
+tens uma piada engraçada para mim,chitchat,massive,general_joke
+quantos tornados houve este mês,chitchat,massive,general_quirky
+olá quantos tornados aconteceram este mês,chitchat,massive,general_quirky
+quero ouvir uma anedota,chitchat,massive,general_joke
+truz truz,chitchat,massive,general_joke
+e tu,chitchat,massive,general_quirky
+conte me a mais engraçada piada alguma vez dita,chitchat,massive,general_joke
+gostaria de ouvir algumas piadas boas,chitchat,massive,general_joke
+já conheces esta piada,chitchat,massive,general_joke
+qual a mais engraçada piada de sempre,chitchat,massive,general_joke
+conta me uma boa piada agora,chitchat,massive,general_joke
+encontra piadas engraçadas,chitchat,massive,general_joke
+hey olly senti a tua falta,chitchat,massive,general_quirky
+o que estás a pensar,chitchat,massive,general_quirky
+o meu dia foi cheio de trabalho olly,chitchat,massive,general_quirky
+olá diz-me que reuniões tenho hoje,chitchat,massive,general_quirky
+quando é que é o aniversário do meu amigo,chitchat,massive,general_quirky
+por favor vê o que escreveste para esta pergunta,chitchat,massive,general_quirky
+eu não sei como responder a essa pergunta tu deixaste uma palavra ou duas de fora,chitchat,massive,general_quirky
+hoje vou trabalhar,chitchat,massive,general_quirky
+tive um dia mau,chitchat,massive,general_quirky
+hoje ajudei um podre necessitado olly,chitchat,massive,general_quirky
+estou tão feliz hoje arranjei bilhetes para o concerto,chitchat,massive,general_quirky
+que idade tens,chitchat,massive,general_quirky
+se tu tivesses que matar alguém para salvar três pessoas tu fa lo ias se sim porquê,chitchat,massive,general_quirky
+vamos conversar,chitchat,massive,general_quirky
+comi assim que me levantei,chitchat,massive,general_quirky
+o que me recomendarias para ler,chitchat,massive,general_quirky
+olly encontrei um dos meus antigos colegas de escola hoje,chitchat,massive,general_quirky
+siri acabei de limpar o carro,chitchat,massive,general_quirky
+eu odeio o quão demoradas são as filas de transito,chitchat,massive,general_quirky
+o que é cozido à portuguesa,chitchat,massive,general_quirky
+como te sentes hoje,chitchat,massive,general_quirky
+o que queres fazer hoje,chitchat,massive,general_quirky
+hoje vi um bulldog,chitchat,massive,general_quirky
+achas que eu deveria ir hoje ao teatro,chitchat,massive,general_quirky
+por favor diz-me o resultado do jogo,chitchat,massive,general_quirky
+o meu dia foi extremamente difícil,chitchat,massive,general_quirky
+comprei bilhetes para a pré época de futebol,chitchat,massive,general_quirky
+olly tenho que te falar sobre o meu dia,chitchat,massive,general_quirky
+eu fui à loja,chitchat,massive,general_quirky
+preciso de comprar gás,chitchat,massive,general_quirky
+veganismo,chitchat,massive,general_quirky
+o que fazes com os meus dados e informação,chitchat,massive,general_quirky
+hey o que é que tem acontecido no desporto ultimamente,chitchat,massive,general_quirky
+quais as funcionalidades que tens planeadas para lançar no futuro,chitchat,massive,general_quirky
+o meu dia foi excelente,chitchat,massive,general_quirky
+dá me algumas dicas de saúde,chitchat,massive,general_quirky
+que som faz um cão,chitchat,massive,general_quirky
+o meu dia está a correr bem acrescenta um memorando,chitchat,massive,general_quirky
+olá como está a correr o teu dia,chitchat,massive,general_quirky
+tecnologia,chitchat,massive,general_quirky
+hoje tive uma reunião com o jorge,chitchat,massive,general_quirky
+hoje aconteceu me o seguinte tive um encontro com o jorge,chitchat,massive,general_quirky
+por favor sabe que hoje tive uma reunião com o joão,chitchat,massive,general_quirky
+podes contar-me um pouco sobre ti,chitchat,massive,general_quirky
+hoje procurei o meu telemóvel em todo o lado e não consegui encontrá lo,chitchat,massive,general_quirky
+ouviste alguma boa música recentemente,chitchat,massive,general_quirky
+existe um tosquiador só de gatos na cidade,chitchat,massive,general_quirky
+costa,chitchat,massive,general_quirky
+és inteligente,chitchat,massive,general_quirky
+alguma coisa a passar te pela cabeça,chitchat,massive,general_quirky
+o tempo esteve mau hoje,chitchat,massive,general_quirky
+resultados de baseball,chitchat,massive,general_quirky
+o que eu gosto hoje,chitchat,massive,general_quirky
+pesquisas na net,chitchat,massive,general_quirky
+podes aconselhar por favor,chitchat,massive,general_quirky
+novos gadgets,chitchat,massive,general_quirky
+fui perseguido por um cão,chitchat,massive,general_quirky
+fazer perguntas triviais,chitchat,massive,general_quirky
+como tem sido o teu dia hoje,chitchat,massive,general_quirky
+foi um dia ocupado,chitchat,massive,general_quirky
+história,chitchat,massive,general_quirky
+és feliz,chitchat,massive,general_quirky
+hoje fui promovido sabe tão bem,chitchat,massive,general_quirky
+reproduzir vídeos,chitchat,massive,general_quirky
+hey olly gostas da minha namorada,chitchat,massive,general_quirky
+procurar informação online,chitchat,massive,general_quirky
+matemática,chitchat,massive,general_quirky
+o que acontece comigo se te tornares autoconsciente,chitchat,massive,general_quirky
+tens namorado,chitchat,massive,general_quirky
+plantas,chitchat,massive,general_quirky
+amor,chitchat,massive,general_quirky
+olá tu aí,chitchat,massive,general_quirky
+começa um boato,chitchat,massive,general_quirky
+onde fui hoje,chitchat,massive,general_quirky
+quando é que eu voltei deste lugar,chitchat,massive,general_quirky
+saúde,chitchat,massive,general_quirky
+parental,chitchat,massive,general_quirky
+qual é a tua idade,chitchat,massive,general_quirky
+o que pensas do futuro,chitchat,massive,general_quirky
+os últimos filmes nos cinemas,chitchat,massive,general_quirky
+quem são os teus desenvolvedores,chitchat,massive,general_quirky
+melhores empregos pagos em marketing digital na minha área,chitchat,massive,general_quirky
+tu trabalhas para a n. s. a.,chitchat,massive,general_quirky
+quais são as top pesquisas no google hoje,chitchat,massive,general_quirky
+alexa o quanto sabes sobre mim,chitchat,massive,general_quirky
+a seguir a dieta,chitchat,massive,general_quirky
+lugares para férias,chitchat,massive,general_quirky
+você conhece algum bom padrão de tricô grátis,chitchat,massive,general_quirky
+vamos bajula me,chitchat,massive,general_quirky
+hey hoje estou a ter um mau dia o que é que eu posso ver para me animar,chitchat,massive,general_quirky
+dicas gerais de saúde,chitchat,massive,general_quirky
+actualizações de amigos,chitchat,massive,general_quirky
+és real,chitchat,massive,general_quirky
+o que sabe sobre o muro em lisboa no próximo ano,chitchat,massive,general_quirky
+olly vou tirar o dia de folga amanhã,chitchat,massive,general_quirky
+podes dar me os detalhes da festa anual no dia vinte e seis de março,chitchat,massive,general_quirky
+uma boa primeira impressão,chitchat,massive,general_quirky
+preciso de saber mais sobre o desfile este fim de semana,chitchat,massive,general_quirky
+quero saber mais sobre a feira este fim de semana,chitchat,massive,general_quirky
+diz-me mais sobre os meus eventos,chitchat,massive,general_quirky
+você pode rastrear o meu emot ions com base na forma como eu falo,chitchat,massive,general_quirky
+quero bilhetes para o concerto esgotado no sábado à noite,chitchat,massive,general_quirky
+explica-me física quântica numa linguagem que perceba,chitchat,massive,general_quirky
+podes criar uma dieta sem acúcar para mim e criar uma lista de compras para os ingredientes,chitchat,massive,general_quirky
+conduz o carro e traz os meus amigos,chitchat,massive,general_quirky
+podes cozinhar algo especial para mim e para a minha esposa,chitchat,massive,general_quirky
+verifica o paradeiro de celebridade,chitchat,massive,general_quirky
+preciso de falar com a mãe,chitchat,massive,general_quirky
+eu gostaria que me desses conselhos,chitchat,massive,general_quirky
+o que é que o cristiano ronaldo faz para ser lindo,chitchat,massive,general_quirky
+onde é que a cláudia vieira compra a roupa dos seus filhos,chitchat,massive,general_quirky
+porque é que a sofia alves parece tão nova,chitchat,massive,general_quirky
+qual é a melhor receita de bolachas de chocolate,chitchat,massive,general_quirky
+podes fazer-me o jantar,chitchat,massive,general_quirky
+eu gostaria de ser capaz de calcular respostas de resultados de buscas como wolfram alpha faz,chitchat,massive,general_quirky
+quero que guarde as minhas preferências e recomende me coisas baseadas nelas quando eu perguntar,chitchat,massive,general_quirky
+quero que seja capaz de me dizer as estatísticas sobre coisas que fez por mim como quão frequentemente fui comer fora este mês,chitchat,massive,general_quirky
+só conversa de elevador,chitchat,massive,general_quirky
+tenho de te perguntar quantos anjos conseguem dançar na cabeça de um alfinete,chitchat,massive,general_quirky
+quando é que o mundo vai acabar,chitchat,massive,general_quirky
+a que horas são os jogos de futebol hoje à noite,chitchat,massive,general_quirky
+qual é a loja que está em saldos amanhã,chitchat,massive,general_quirky
+o que causa osteoporose,chitchat,massive,general_quirky
+eu gostaria que o meu robô alimente e faça festas no meu cão quando não estiver em casa,chitchat,massive,general_quirky
+porque estamos aqui,chitchat,massive,general_quirky
+seria excelente se eu pudesse dar consultoria legais,chitchat,massive,general_quirky
+podes mostrar me uma lista de todas as minhas ordens,chitchat,massive,general_quirky
+por favor diz me os resultados da lotaria deste fim de semana,chitchat,massive,general_quirky
+porque é que a terra é redonda,chitchat,massive,general_quirky
+gostaria que ajudasse a analisar ideias,chitchat,massive,general_quirky
+quero netflix e relaxar,chitchat,massive,general_quirky
+onde foi o joão baião visto ontem à noite,chitchat,massive,general_quirky
+diz me algo que eu possa fazer para ajudar a minha comunidade hoje,chitchat,massive,general_quirky
+biografia de pessoa,chitchat,massive,general_quirky
+por favor abre o artigo sobre soprar vidro na wikipedia,chitchat,massive,general_quirky
+diz me um lugar que tenha neve agora,chitchat,massive,general_quirky
+carro de modelo,chitchat,massive,general_quirky
+diz me o que vesti ontem,chitchat,massive,general_quirky
+o que é que o david carreira está a fazer,chitchat,massive,general_quirky
+como é que se pode arranjar basalto,chitchat,massive,general_quirky
+este é o momento menos ou mais importante na história desde sempre,chitchat,massive,general_quirky
+fale-me de economia e do p.i.b. da índia contra a china,chitchat,massive,general_quirky
+google quais são as coisas básicas que os humanos precisam,chitchat,massive,general_quirky
+eu acho que consigo viajar o mundo inteiro num dia,chitchat,massive,general_quirky
+será que vai haver uma quarta guerra mundial,chitchat,massive,general_quirky
+qual vai ser a população mundial daqui a vinte anos,chitchat,massive,general_quirky
+descreve-me as novas regras do futebol,chitchat,massive,general_quirky
+o que é que o obama faz no seu dia a dia,chitchat,massive,general_quirky
+características do google pixel,chitchat,massive,general_quirky
+podemos ir ao sol,chitchat,massive,general_quirky
+diz-me se o aquecimento global é verdadeiro,chitchat,massive,general_quirky
+explica me como é que portugal é melhor que outros países,chitchat,massive,general_quirky
+podes falar me sobre o reino animal na floresta amazónica,chitchat,massive,general_quirky
+sua palavra dura é devidamente adequada,chitchat,massive,general_quirky
+olha para cima,chitchat,massive,general_quirky
+internet por favor,chitchat,massive,general_quirky
+como é que posso compreender as mulheres,chitchat,massive,general_quirky
+qual é geologia deste local,chitchat,massive,general_quirky
+transforma-te num helicópetro,chitchat,massive,general_quirky
+por favor averigua o assunto,chitchat,massive,general_quirky
+resolve o problema,chitchat,massive,general_quirky

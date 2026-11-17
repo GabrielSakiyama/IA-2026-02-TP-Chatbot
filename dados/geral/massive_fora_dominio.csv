@@ -1,0 +1,1501 @@
+texto,intencao,origem,massive_intencao
+preciso de definir um alarme quantos alarmes tenho definidos,fora_dominio,massive,alarm_query
+que alarmes estão ligados agora,fora_dominio,massive,alarm_query
+diz me as horas do alarme que definiste,fora_dominio,massive,alarm_query
+que alarmes tenho marcados para amanhã,fora_dominio,massive,alarm_query
+o alarme para as portas de trás instalado e pronto para usar,fora_dominio,massive,alarm_query
+como estão os alarmes para amanhã,fora_dominio,massive,alarm_query
+tenho alarmes definidos antes das seis da manhã,fora_dominio,massive,alarm_query
+verifica se o alarme padrão está definido,fora_dominio,massive,alarm_query
+diz-me quando vão tocar os próximos alarmes,fora_dominio,massive,alarm_query
+por favor diz-me a hora do alarme da manhã nos dias úteis,fora_dominio,massive,alarm_query
+há algum alarme agora,fora_dominio,massive,alarm_query
+olly tenho um alarme programado para amanhã,fora_dominio,massive,alarm_query
+tenho algum alarme definido,fora_dominio,massive,alarm_query
+verificar se programei algum alarme para a manhã,fora_dominio,massive,alarm_query
+tenho algum alarme definido para amanhã,fora_dominio,massive,alarm_query
+depois toca em ok,fora_dominio,massive,alarm_query
+dá me os horários dos alarmes para os próximos dois dias,fora_dominio,massive,alarm_query
+diz-me se há algum alarme para hoje,fora_dominio,massive,alarm_query
+cancela alarme de dia dez de março de dois mil e dezassete,fora_dominio,massive,alarm_remove
+não me acordar amanhã,fora_dominio,massive,alarm_remove
+silenciar,fora_dominio,massive,alarm_remove
+suspender permanentemente todos os alarmes de hoje,fora_dominio,massive,alarm_remove
+remover alarme de terça-feira às nove da manhã,fora_dominio,massive,alarm_remove
+apagar o meu alarme para as oito da manhã,fora_dominio,massive,alarm_remove
+cancela o meu alarme das três da tarde,fora_dominio,massive,alarm_remove
+desativa o meu alarme das três da tarde,fora_dominio,massive,alarm_remove
+por favor remove o alarme definido para quarta-feira chamado futsal,fora_dominio,massive,alarm_remove
+remover todos os alarmes definidos hoje,fora_dominio,massive,alarm_remove
+meia-noite removido,fora_dominio,massive,alarm_remove
+define um alarme para as duas da tarde,fora_dominio,massive,alarm_set
+diz-me quando forem dez horas,fora_dominio,massive,alarm_set
+programar o alarme para daqui a doze semanas a partir de hoje às oito da manhã,fora_dominio,massive,alarm_set
+preciso de uma chamada de despertar às seis da manhã,fora_dominio,massive,alarm_set
+definir um alarme para daqui a cinco minutos,fora_dominio,massive,alarm_set
+acorda -me ao amanhecer,fora_dominio,massive,alarm_set
+pode pôr o meu alarme para as sete e meia da manhã,fora_dominio,massive,alarm_set
+envia-me um aviso para despertar amanhã às sete da manhã,fora_dominio,massive,alarm_set
+olly preciso de um alarme para as cinco e meia da manhã amanhã,fora_dominio,massive,alarm_set
+por favor define um alarme para as dez da noite,fora_dominio,massive,alarm_set
+definir um alarme para as quatro da tarde,fora_dominio,massive,alarm_set
+ligar o meu alarme,fora_dominio,massive,alarm_set
+definir um alarme,fora_dominio,massive,alarm_set
+preciso de um alarme para as nove da noite,fora_dominio,massive,alarm_set
+definir alarme oito da manhã,fora_dominio,massive,alarm_set
+por favor define um lembrete para as três da tarde de sábado,fora_dominio,massive,alarm_set
+põe um alarme para as nove da manhã,fora_dominio,massive,alarm_set
+acorda-me às cinco e trinta,fora_dominio,massive,alarm_set
+define um alarme para as oito da noite,fora_dominio,massive,alarm_set
+o miguel vai-me enviar um email amanhã pode por favor configurar um alarme quinze minutos depois de receber esse email,fora_dominio,massive,alarm_set
+amanhã às sete da manhã toca o despertador,fora_dominio,massive,alarm_set
+define um alarme para as aulas de dança duas horas antes de as aulas começarem,fora_dominio,massive,alarm_set
+define o meu alarme para as sete da manhã,fora_dominio,massive,alarm_set
+define alarme para as quatorze horas de amanhã,fora_dominio,massive,alarm_set
+define despertar na quinta-feira às sete da manhã,fora_dominio,massive,alarm_set
+baixa o volume em cinquenta por cento,fora_dominio,massive,audio_volume_down
+muito alto,fora_dominio,massive,audio_volume_down
+estás muito alto,fora_dominio,massive,audio_volume_down
+está muito alto podes baixar a música por favor,fora_dominio,massive,audio_volume_down
+diminui o volume para dez por cento,fora_dominio,massive,audio_volume_down
+tira o som à coluna por favor,fora_dominio,massive,audio_volume_mute
+podes tirar o som da minha coluna,fora_dominio,massive,audio_volume_mute
+por ocultação,fora_dominio,massive,audio_volume_mute
+para de fazer barulho durante quarenta minutos,fora_dominio,massive,audio_volume_mute
+ajusta silenciosamente,fora_dominio,massive,audio_volume_mute
+não fales hoje,fora_dominio,massive,audio_volume_mute
+por favor fica em silêncio até eu te dizer o contrário,fora_dominio,massive,audio_volume_mute
+estou numa reunião por favor não fales,fora_dominio,massive,audio_volume_mute
+silencia por favor,fora_dominio,massive,audio_volume_mute
+não faças nenhum barulho até o alarme da manhã,fora_dominio,massive,audio_volume_mute
+por favor silencia durante cinco minutos,fora_dominio,massive,audio_volume_mute
+por favor não fales durante as próximas duas horas,fora_dominio,massive,audio_volume_mute
+controlo de volume,fora_dominio,massive,audio_volume_mute
+desliga o som,fora_dominio,massive,audio_volume_mute
+muda o volume para o máximo,fora_dominio,massive,audio_volume_other
+mostra as definições de volume,fora_dominio,massive,audio_volume_other
+o volume da música que está a tocar agora deve ser aumentado,fora_dominio,massive,audio_volume_up
+volume mais alto por favor,fora_dominio,massive,audio_volume_up
+aumenta o volume do meu som,fora_dominio,massive,audio_volume_up
+aumenta a música por favor,fora_dominio,massive,audio_volume_up
+por favor aumenta o volume da coluna,fora_dominio,massive,audio_volume_up
+baixa o leitor de música em cinquenta por cento do seu nível atual,fora_dominio,massive,audio_volume_up
+toca mais alto,fora_dominio,massive,audio_volume_up
+aumenta o som,fora_dominio,massive,audio_volume_up
+por favor liga as minhas colunas para o máximo,fora_dominio,massive,audio_volume_up
+podes por favor gritar a resposta para mim,fora_dominio,massive,audio_volume_up
+ok google preciso de ouvir som nas minhas colunas,fora_dominio,massive,audio_volume_up
+quais as reuniões disponíveis em março,fora_dominio,massive,calendar_query
+por favor diz me quando é o casamento do joão,fora_dominio,massive,calendar_query
+quais os eventos que existem na próxima semana,fora_dominio,massive,calendar_query
+olly qual é a minha agenda para o resto da semana,fora_dominio,massive,calendar_query
+segunda feira à tarde está livre,fora_dominio,massive,calendar_query
+a minha agenda está livre hoje às quatro da tarde,fora_dominio,massive,calendar_query
+qual é o nome do evento,fora_dominio,massive,calendar_query
+quanto tempo falta até à minha próxima consulta no médico,fora_dominio,massive,calendar_query
+quantos lembretes eu tenho para amanhã,fora_dominio,massive,calendar_query
+qual a minha próxima marcação,fora_dominio,massive,calendar_query
+que reuniões tenho na próxima quinta-feira,fora_dominio,massive,calendar_query
+quando é que a minha hipoteca vence,fora_dominio,massive,calendar_query
+quando é o meu próximo lembrete,fora_dominio,massive,calendar_query
+o que está a seguir no meu calendário,fora_dominio,massive,calendar_query
+quais os meus planos para hoje,fora_dominio,massive,calendar_query
+tenho algum compromisso na próxima semana,fora_dominio,massive,calendar_query
+alexa tenho alguma vaga na minha agenda para amanhã,fora_dominio,massive,calendar_query
+preciso ir buscar as crianças a algum sítio hoje,fora_dominio,massive,calendar_query
+eu criei algum lembrete para a reunião de amanhã às cinco da tarde,fora_dominio,massive,calendar_query
+mostra os meus eventos do mês,fora_dominio,massive,calendar_query
+repetir os meus lembretes de ontem,fora_dominio,massive,calendar_query
+quais eventos eu tenho entre às oito da manhã e às cinco da tarde hoje,fora_dominio,massive,calendar_query
+o que está mais na lista,fora_dominio,massive,calendar_query
+o que tenho agendado para hoje,fora_dominio,massive,calendar_query
+qual é o cronograma para esta data,fora_dominio,massive,calendar_query
+quando está agendado o casamento,fora_dominio,massive,calendar_query
+algum evento próximo,fora_dominio,massive,calendar_query
+a marcação de amanhã é no escritório na baixa,fora_dominio,massive,calendar_query
+fazer uma lista de todos os eventos de halloween a acontecer em montalegre,fora_dominio,massive,calendar_query
+a que horas é a próxima reunião,fora_dominio,massive,calendar_query
+a que horas começa a reunião com a galp na sexta-feira,fora_dominio,massive,calendar_query
+diz me o alinhamento do concerto com as horas de começo,fora_dominio,massive,calendar_query
+qual a minha agenda de eventos para amanhã,fora_dominio,massive,calendar_query
+este evento está agendado,fora_dominio,massive,calendar_query
+olly fala me sobre meus eventos,fora_dominio,massive,calendar_query
+tenho alguma marcação,fora_dominio,massive,calendar_query
+tenho alguns lembretes definidos,fora_dominio,massive,calendar_query
+tenho algum lembrete para hoje,fora_dominio,massive,calendar_query
+tenho alguns compromissos esta semana,fora_dominio,massive,calendar_query
+tenho algum evento a decorrer este fim-de-semana,fora_dominio,massive,calendar_query
+tenho algum evento agendado para hoje,fora_dominio,massive,calendar_query
+onde é o jogo do sport lisboa e benfica na próxima semana,fora_dominio,massive,calendar_query
+quais são as minhas notificações,fora_dominio,massive,calendar_query
+estou de folga no dia de todos os santos,fora_dominio,massive,calendar_query
+preciso confirmar todas as reuniões para hoje pode a pessoa convidar,fora_dominio,massive,calendar_query
+tenho algum compromisso para três de janeiro,fora_dominio,massive,calendar_query
+a que horas é a minha consulta no oftalmologista no dia vinte e três,fora_dominio,massive,calendar_query
+informar me sobre reuniões,fora_dominio,massive,calendar_query
+a que horas é a minha consulta médica esta semana,fora_dominio,massive,calendar_query
+eventos do dia,fora_dominio,massive,calendar_query
+tenho algum compromisso este fim de semana,fora_dominio,massive,calendar_query
+que se passa hoje das duas às quatro da tarde,fora_dominio,massive,calendar_query
+eu tinha algum compromisso marcado para sábado,fora_dominio,massive,calendar_query
+dá me a agenda para os eventos de hoje,fora_dominio,massive,calendar_query
+é hoje o prazo de entrega da minha tese,fora_dominio,massive,calendar_query
+mostra me as reuniões realizadas na semana passada,fora_dominio,massive,calendar_query
+podes ler-me os meus lembretes seguintes,fora_dominio,massive,calendar_query
+há alguma coisa importante para hoje,fora_dominio,massive,calendar_query
+diz-me quais são os meus próximos eventos,fora_dominio,massive,calendar_query
+quem está convocado para a reunião de amanhã,fora_dominio,massive,calendar_query
+que está no meu calendário para este mês,fora_dominio,massive,calendar_query
+tenho uma reunião hoje,fora_dominio,massive,calendar_query
+tenho alguma coisa agendada para a uma da tarde da próxima segunda feira,fora_dominio,massive,calendar_query
+tenho uma reunião no sábado dia vinte e cinco de março,fora_dominio,massive,calendar_query
+essa semana é a semana do pagamento,fora_dominio,massive,calendar_query
+tenho algum lembrete hoje,fora_dominio,massive,calendar_query
+o que está agendado no meu calendário hoje,fora_dominio,massive,calendar_query
+o que é que está planeado para hoje,fora_dominio,massive,calendar_query
+que eventos são esta semana,fora_dominio,massive,calendar_query
+quem vai à festa,fora_dominio,massive,calendar_query
+diz me acerca dos últimos eventos à volta da cidade,fora_dominio,massive,calendar_query
+quantas reuniões tive com o sr. rodrigues nos últimos três meses,fora_dominio,massive,calendar_query
+a que horas o majestic café fecha entre o almoço e o jantar,fora_dominio,massive,calendar_query
+compromissos esta quarta-feira,fora_dominio,massive,calendar_query
+qual o local onde o casamento do joão vai ser realizado,fora_dominio,massive,calendar_query
+tenho algumas reuniões na tarde de sexta feira,fora_dominio,massive,calendar_query
+olá google qual é a agenda para a data,fora_dominio,massive,calendar_query
+quantos lembretes eu tenho pendentes,fora_dominio,massive,calendar_query
+o que me pode dizer sobre o baile de sexta-feira,fora_dominio,massive,calendar_query
+cancele minha reunião amanhã,fora_dominio,massive,calendar_remove
+por favor apaga o meu encontro ao almoço de vinte e três de março,fora_dominio,massive,calendar_remove
+vai o evento ano e elimina-o,fora_dominio,massive,calendar_remove
+remover evento de segunda-feira,fora_dominio,massive,calendar_remove
+cancelar festa do samuel,fora_dominio,massive,calendar_remove
+eliminar eventos do calendário,fora_dominio,massive,calendar_remove
+apagar a minha próxima atividade,fora_dominio,massive,calendar_remove
+apagar próximo evento,fora_dominio,massive,calendar_remove
+preciso de apagar tudo do meu calendário por favor,fora_dominio,massive,calendar_remove
+eliminar todos os eventos marcados,fora_dominio,massive,calendar_remove
+por favor elimina o próximo evento no meu calendário,fora_dominio,massive,calendar_remove
+minha reunião sexta-feira,fora_dominio,massive,calendar_remove
+por favor apagar todos os eventos do meu calendário,fora_dominio,massive,calendar_remove
+tire minhas férias de junho do calendário,fora_dominio,massive,calendar_remove
+olly cancela todos meus compromissos para hoje,fora_dominio,massive,calendar_remove
+remover todas as marcações no calendário,fora_dominio,massive,calendar_remove
+retire o pagamento do meu carro do dia quinze do meu calendário,fora_dominio,massive,calendar_remove
+apagar reunião agendada com o joão no dia vinte e um de março,fora_dominio,massive,calendar_remove
+remover este evento da minha notificação de calendário,fora_dominio,massive,calendar_remove
+limpar todos os eventos no calendário para março,fora_dominio,massive,calendar_remove
+retirar a data do jantar marcado para esta sexta-feira às nove da noite,fora_dominio,massive,calendar_remove
+remover o aniversário da emma dos eventos,fora_dominio,massive,calendar_remove
+apagar todos os meus eventos no calendário,fora_dominio,massive,calendar_remove
+apaga todas as minhas marcações com o doutor silva esta semana,fora_dominio,massive,calendar_remove
+remover lembrete de reunião para terça feira,fora_dominio,massive,calendar_remove
+libertar todos os dados do calendário,fora_dominio,massive,calendar_remove
+cancelar minha ligação diária das cinco da tarde,fora_dominio,massive,calendar_remove
+libertar a minha agenda para a próxima semana,fora_dominio,massive,calendar_remove
+apagar o evento da uma da tarde do meu calendário,fora_dominio,massive,calendar_remove
+apagar,fora_dominio,massive,calendar_remove
+podes retirar o próximo evento do meu calendário,fora_dominio,massive,calendar_remove
+eliminar tudo,fora_dominio,massive,calendar_remove
+agenda de concerto,fora_dominio,massive,calendar_remove
+apagar os meus eventos agendados,fora_dominio,massive,calendar_remove
+cancelar a minha reunião de dia quatorze,fora_dominio,massive,calendar_remove
+apagar festa de aniversário,fora_dominio,massive,calendar_remove
+remover todos os eventos programados do calendário,fora_dominio,massive,calendar_remove
+por favor cancelar o meu próximo corte de cabelo,fora_dominio,massive,calendar_remove
+apagar todos os eventos no meu calendário,fora_dominio,massive,calendar_remove
+limpar tudo no meu calendário,fora_dominio,massive,calendar_remove
+remover tudo do calendário,fora_dominio,massive,calendar_remove
+por favor pões a festa de aniversário da joana no dia vinte e dois às dezanove horas,fora_dominio,massive,calendar_set
+terminei o uma vez,fora_dominio,massive,calendar_set
+podes adicionar ao meu calendário um vento para a próxima sexta feira,fora_dominio,massive,calendar_set
+definir um evento de ação de graças para sexta-feira,fora_dominio,massive,calendar_set
+tornar a marcação para o aniversário da paula no dia dezoito de março recorrente,fora_dominio,massive,calendar_set
+expectativas,fora_dominio,massive,calendar_set
+lembrar-me da reunião com o meu professor hoje às cinco da tarde,fora_dominio,massive,calendar_set
+inserir uma reunião com o jerónimo para terça feira,fora_dominio,massive,calendar_set
+criar lembrete de alarme para o calendário,fora_dominio,massive,calendar_set
+coloca me na terça dia vinte e um às dez com a ana,fora_dominio,massive,calendar_set
+olly adicionar jantar de amanhã ao calendário,fora_dominio,massive,calendar_set
+lembrar me amanhã às duas da tarde,fora_dominio,massive,calendar_set
+boa,fora_dominio,massive,calendar_set
+relembra-me se eu me esquecer da minha rotina de caminhada noturna,fora_dominio,massive,calendar_set
+adicionar ao meu calendário jantar de moda da mãe para cinco de maio,fora_dominio,massive,calendar_set
+evento,fora_dominio,massive,calendar_set
+marcar uma reunião com o joão,fora_dominio,massive,calendar_set
+lembra-me que hoje preciso de ir buscar as minhas roupas à lavandaria,fora_dominio,massive,calendar_set
+lembre de enviar a apresentação hoje às treze horas,fora_dominio,massive,calendar_set
+lembrar me disto no futuro,fora_dominio,massive,calendar_set
+no dia vinte e três de março tenho de ir ao encontro da minha tia,fora_dominio,massive,calendar_set
+definir lembrete de calendário ao meio dia intitulado almoço de reunião,fora_dominio,massive,calendar_set
+lembretes para pagamentos do cartão,fora_dominio,massive,calendar_set
+lembrar de marcar uma reunião com os jogadores amanhã à noite pelas sete,fora_dominio,massive,calendar_set
+lembrar me de ir buscar o marco ao aeroporto às seis da tarde,fora_dominio,massive,calendar_set
+lembre me da minha consulta com o dentista em duas horas,fora_dominio,massive,calendar_set
+ei ligue os lembretes de amanhã para a reunião das dez da manhã,fora_dominio,massive,calendar_set
+estabelecer evento recorrente em calendário,fora_dominio,massive,calendar_set
+preciso do almoço nas próximas semanas põe no calendário,fora_dominio,massive,calendar_set
+guardar este evento,fora_dominio,massive,calendar_set
+agendar uma conversa com o adão na quinta feira à tarde,fora_dominio,massive,calendar_set
+adicionar um lembrete para a minha reunião de hoje,fora_dominio,massive,calendar_set
+quaisquer sugestões sobre qual o melhor momento para uma reunião de uma hora esta semana,fora_dominio,massive,calendar_set
+definir isto antes do evento,fora_dominio,massive,calendar_set
+na próxima quinta-feira preciso de ser lembrado de ligar ao banco,fora_dominio,massive,calendar_set
+definir evento no calendário,fora_dominio,massive,calendar_set
+evento repetitivo adicionado ao meu calendário,fora_dominio,massive,calendar_set
+definir um lembrete em quinze minutos para mudar as roupas da lavadora,fora_dominio,massive,calendar_set
+vamos colocar algo no calendário para terça feira,fora_dominio,massive,calendar_set
+lembrar-me para ficar pronto às dezassete horas por favor,fora_dominio,massive,calendar_set
+definir um lembrete às três da tarde para pegar a jo,fora_dominio,massive,calendar_set
+lembrar-me o meu próximo evento,fora_dominio,massive,calendar_set
+lembrar-me disto amanhã,fora_dominio,massive,calendar_set
+quando volto a encontrar-me com o jorge,fora_dominio,massive,calendar_set
+definir um lembrete no próximo mês para mudança de óleo,fora_dominio,massive,calendar_set
+olly cria um encontro ao almoço para a próxima terça-feira ao meio dia com a joana na dielmar,fora_dominio,massive,calendar_set
+inscrever me na festa de aniversário da sara no dia doze,fora_dominio,massive,calendar_set
+podes dar me um timer de dez minutos,fora_dominio,massive,calendar_set
+por favor exibir que tenho uma reunião às dezassete horas,fora_dominio,massive,calendar_set
+conduzir reunião na quinta feira,fora_dominio,massive,calendar_set
+preciso agendar uma reunião com o nando na segunda feira às nove da manhã,fora_dominio,massive,calendar_set
+marcar uma reunião com rita em primeiro de abril às dez da manhã,fora_dominio,massive,calendar_set
+olly há uma boa banda a actuar esta noite às nove no hard club eu quero ir,fora_dominio,massive,calendar_set
+fazer uma marcação no próximo sábado às cinco na biblioteca e criar um lembrete,fora_dominio,massive,calendar_set
+o evento do calendário tem várias pessoas,fora_dominio,massive,calendar_set
+adicionar um lembrete às quintas feiras às onze e meia da manhã e chamar lhe aulas de dança,fora_dominio,massive,calendar_set
+marcar uma reunião com a barbara às quinze horas de terça-feira,fora_dominio,massive,calendar_set
+alexa lê a lista de tarefas de hoje,fora_dominio,massive,calendar_set
+lembrar-me da reunião,fora_dominio,massive,calendar_set
+enviar-me um alerta uma hora antes do meu próximo encontro,fora_dominio,massive,calendar_set
+lembra-me na localização,fora_dominio,massive,calendar_set
+escreve na minha agenda eu tenho evento na próxima sexta-feira,fora_dominio,massive,calendar_set
+adicionar ao calendário exercício físico de segunda a sexta das cinco às seis da manhã,fora_dominio,massive,calendar_set
+último lembrete da reunião,fora_dominio,massive,calendar_set
+põe lembrete para ligar ao pedro amanhã,fora_dominio,massive,calendar_set
+criar evento recorrente no meu calendário quarta-feira à noite às cinco da tarde uma reunião com o filipe,fora_dominio,massive,calendar_set
+lembrar me para lavar as janelas,fora_dominio,massive,calendar_set
+ponha-me os seus dados para conhecer a minha agenda,fora_dominio,massive,calendar_set
+lembrar-me,fora_dominio,massive,calendar_set
+por favor inserir no meu calendário uma consulta com o doutor brandão para esta sexta feira às seis da tarde,fora_dominio,massive,calendar_set
+criar um lembrete para enviar uma mensagem de feliz aniversário amanhã às dez horas,fora_dominio,massive,calendar_set
+verificar se estou livre na tarde de quinta-feira e se assim for acrescentar um lembrete para ir ao festival da francesinha,fora_dominio,massive,calendar_set
+lembrar-me de pagar a conta da eletricidade este fim-de-semana às nove da manhã,fora_dominio,massive,calendar_set
+lembrar-me a reunião na terça,fora_dominio,massive,calendar_set
+lembrar-me da minha reunião na quarta-feira às nove da manhã,fora_dominio,massive,calendar_set
+criar um lembrete para a ginástica todas as quartas-feiras às quinze horas,fora_dominio,massive,calendar_set
+definir lembrete para este domingo e próximos dois domingos que tenho yoga ao meio dia,fora_dominio,massive,calendar_set
+lembrar me de ir buscar mais comida para o cão à loja de animais amanhã às sete e vinte da tarde,fora_dominio,massive,calendar_set
+adicionar todos os eventos da aptrad em março no meu calendário,fora_dominio,massive,calendar_set
+adiciona uma notificação para jogo desportivo,fora_dominio,massive,calendar_set
+envia uma compromisso no calendário à joana,fora_dominio,massive,calendar_set
+atitude,fora_dominio,massive,calendar_set
+pode definir a casa da minha irmã como local deste evento,fora_dominio,massive,calendar_set
+por favor agendar uma reunião como o bruno barros na contabilidade,fora_dominio,massive,calendar_set
+adicione uma nota para participar,fora_dominio,massive,calendar_set
+cria uma notificação para onze de março de que tenho uma entrevista marcada com o sr. rodrigues,fora_dominio,massive,calendar_set
+por favor organizar uma reunião com os trabalhadores da minha empresa,fora_dominio,massive,calendar_set
+adicionar consulta médica no dia quinze,fora_dominio,massive,calendar_set
+adicionar aniversário a todos os anos,fora_dominio,massive,calendar_set
+adicionar o pagamento do meu carro no dia vinte em meu calendário,fora_dominio,massive,calendar_set
+mostrar-me os eventos no meu calendário de trabalho para a próxima semana,fora_dominio,massive,calendar_set
+mencionar o evento na agenda com outras pessoas,fora_dominio,massive,calendar_set
+marcar uma reunião com o ricardo araújo às duas e trinta da tarde na sexta-feira,fora_dominio,massive,calendar_set
+o local é o meu escritório,fora_dominio,massive,calendar_set
+agendar evento para todas as quartas feiras,fora_dominio,massive,calendar_set
+lembrar me após um mês,fora_dominio,massive,calendar_set
+por favor marcar uma reunião para debater o terrorismo com o rui no próximo dia de reunião disponível,fora_dominio,massive,calendar_set
+marcar no vinte e um de abril de cada ano como aniversário do pai,fora_dominio,massive,calendar_set
+adicionar aula de ioga ao meio dia na minha agenda para os próximos três domingos,fora_dominio,massive,calendar_set
+dizer-me mais tarde sobre,fora_dominio,massive,calendar_set
+lembra-me da reunião cinco minutos antes da hora,fora_dominio,massive,calendar_set
+lembrar de enviar e-mail para a minha irmã,fora_dominio,massive,calendar_set
+notificar-me dos aniversários de todos meus amigos do facebook,fora_dominio,massive,calendar_set
+criar notificação para pagar a conta da electricidade e lembrar me no sábado às nove da manhã,fora_dominio,massive,calendar_set
+lembra de me movimentar para não haver ganho de peso,fora_dominio,massive,calendar_set
+por favor avisa-me com duas horas de antecedência antes da reunião dos próximos sábados,fora_dominio,massive,calendar_set
+criar um novo evento apenas com estas pessoas,fora_dominio,massive,calendar_set
+fazer uma reunião com amigo,fora_dominio,massive,calendar_set
+adicionar uma reunião no escritório com o jorge para as três da tarde na terça feira,fora_dominio,massive,calendar_set
+lembra-me de encontrar o joaquim para o almoço amanhã,fora_dominio,massive,calendar_set
+lembrar me sobre a minha reunião de amanhã às dez em ponto,fora_dominio,massive,calendar_set
+reserva meu próximo dia livre no calendário para eu cortar o cabelo no slash,fora_dominio,massive,calendar_set
+pedro quer encontrar nos domingos às onze podes lembrar me nos sábados à noite todas as semanas,fora_dominio,massive,calendar_set
+lembra te de me lembrares acerca do que precisa de ser lembrado dessa reunião,fora_dominio,massive,calendar_set
+me lembrar da reunião de amanhã,fora_dominio,massive,calendar_set
+cozinhar,fora_dominio,massive,cooking_query
+explique e receita de arroz,fora_dominio,massive,cooking_recipe
+lista receitas de biryani famosas,fora_dominio,massive,cooking_recipe
+a que temperatura cozinha porco,fora_dominio,massive,cooking_recipe
+exibir resultados para cozinhar lasanha da internet,fora_dominio,massive,cooking_recipe
+indica-me a receita para fazer massa,fora_dominio,massive,cooking_recipe
+como cozinhar arroz de açafrão,fora_dominio,massive,cooking_recipe
+como se cozinha feijão-frade,fora_dominio,massive,cooking_recipe
+dá-me receitas,fora_dominio,massive,cooking_recipe
+como faço arroz ao vapor,fora_dominio,massive,cooking_recipe
+exibir quais os ingredientes,fora_dominio,massive,cooking_recipe
+pode dizer-me como cozinhar bolachas com pepitas de chocolate,fora_dominio,massive,cooking_recipe
+que ingrediente pode ser usado para substituir vinho branco,fora_dominio,massive,cooking_recipe
+como cozinho bife,fora_dominio,massive,cooking_recipe
+diz-me como fazer tacos,fora_dominio,massive,cooking_recipe
+exibe como cozinhar lasanha,fora_dominio,massive,cooking_recipe
+reúne todos os ingredientes necessários para cozinhar com medidas exactas e equipamentos necessários,fora_dominio,massive,cooking_recipe
+com o que é que posso substituir manteiga,fora_dominio,massive,cooking_recipe
+como cozinho almôndegas,fora_dominio,massive,cooking_recipe
+mostrar um video sobre cozinhar frango frito,fora_dominio,massive,cooking_recipe
+preciso de ajuda para fazer panquecas,fora_dominio,massive,cooking_recipe
+quanto tempo é que eu tenho de ferver um ovo,fora_dominio,massive,cooking_recipe
+quanto tempo devo cozinhar um hambúrguer de cada lado,fora_dominio,massive,cooking_recipe
+qual é uma receita fácil de cozinhar,fora_dominio,massive,cooking_recipe
+pesquisar menus sem glúten,fora_dominio,massive,cooking_recipe
+o que é que leva um bolo red velvet,fora_dominio,massive,cooking_recipe
+como faço bolachas,fora_dominio,massive,cooking_recipe
+dá-me uma receita de biscoitos,fora_dominio,massive,cooking_recipe
+encontra-me uma receita de esparguete,fora_dominio,massive,cooking_recipe
+preciso de ajuda para fazer frango assado no forno,fora_dominio,massive,cooking_recipe
+encontra-me uma receita para estrogonofe de carne de vaca,fora_dominio,massive,cooking_recipe
+como preparar melhor salmão ou bacalhau,fora_dominio,massive,cooking_recipe
+procura a receita de tarte de maçã,fora_dominio,massive,cooking_recipe
+se eu telefonar ao joão no porto às dezoito horas que horas serão lá,fora_dominio,massive,datetime_convert
+diz me as horas em qualquer lugar,fora_dominio,massive,datetime_convert
+são cinco da manhã em berlim que horas são agora,fora_dominio,massive,datetime_convert
+quando são dez da noite aqui que horas são em brisbane,fora_dominio,massive,datetime_convert
+podes mudar o fuso horário para estados unidos,fora_dominio,massive,datetime_convert
+converte as horas atuais de g. m. t. para e. s. t.,fora_dominio,massive,datetime_convert
+qual é a diferença horária entre aqui e lá,fora_dominio,massive,datetime_convert
+mudar padrão da montanha para pacífico,fora_dominio,massive,datetime_convert
+que horas são no relógio,fora_dominio,massive,datetime_query
+que data é na próxima segunda-feira,fora_dominio,massive,datetime_query
+qual é o horário central atual,fora_dominio,massive,datetime_query
+que horas são na suiça,fora_dominio,massive,datetime_query
+são horas diferentes em lisboa,fora_dominio,massive,datetime_query
+que data foi nas duas quartas-feiras anteriores ao dia de hoje,fora_dominio,massive,datetime_query
+sê o meu relógio,fora_dominio,massive,datetime_query
+que horas são agora no fuso horário pacífico,fora_dominio,massive,datetime_query
+em que dia da semana é o dia dos namorados,fora_dominio,massive,datetime_query
+mostra que horas são,fora_dominio,massive,datetime_query
+relógio despertador,fora_dominio,massive,datetime_query
+horas agora,fora_dominio,massive,datetime_query
+que horas são agora no porto,fora_dominio,massive,datetime_query
+é dia vinte de março hoje,fora_dominio,massive,datetime_query
+por favor diz me a data,fora_dominio,massive,datetime_query
+diz-me a data atual,fora_dominio,massive,datetime_query
+é meio-dia em paris,fora_dominio,massive,datetime_query
+olá olly que data é hoje,fora_dominio,massive,datetime_query
+por favor diz me as horas em londres,fora_dominio,massive,datetime_query
+data e hora atual por favor,fora_dominio,massive,datetime_query
+qual é a atual hora oriental,fora_dominio,massive,datetime_query
+hey siri que horas são,fora_dominio,massive,datetime_query
+dá me as horas em lisboa agora mesmo,fora_dominio,massive,datetime_query
+qual é o mês e o ano atuais,fora_dominio,massive,datetime_query
+horas agora por favor,fora_dominio,massive,datetime_query
+que horas são agora em chennai,fora_dominio,massive,datetime_query
+que horas são em tóquio japão,fora_dominio,massive,datetime_query
+que horas são em lisboa agora,fora_dominio,massive,datetime_query
+que horas são agora mesmo,fora_dominio,massive,datetime_query
+em que semana do ano começa a estação do verão,fora_dominio,massive,datetime_query
+o natal de mil novecentos e setenta e dois foi num fim de semana,fora_dominio,massive,datetime_query
+são dez,fora_dominio,massive,datetime_query
+io que horas são,fora_dominio,massive,datetime_query
+diz-me a hora e data,fora_dominio,massive,datetime_query
+lembrar-me as horas,fora_dominio,massive,datetime_query
+diz-me as horas em lisboa,fora_dominio,massive,datetime_query
+diz-me as horas na índia,fora_dominio,massive,datetime_query
+que horas são na costa leste dos estados unidos,fora_dominio,massive,datetime_query
+que dia é no dia vinte e dois de abril,fora_dominio,massive,datetime_query
+adicionar este email aos meus contactos,fora_dominio,massive,email_addcontact
+adicionar hardware lowes aos meus emails de contacto localizados em madalena gaia,fora_dominio,massive,email_addcontact
+por favor adiciona o email do joão silva aos meus contactos joãosilva arroba gmail ponto com,fora_dominio,massive,email_addcontact
+fazer deste e-mail um novo contacto,fora_dominio,massive,email_addcontact
+você pode procurar e adicionar email antifo do joão nos meus contatos de novo,fora_dominio,massive,email_addcontact
+basta adicionar um novo email nos meus contactos do miguel,fora_dominio,massive,email_addcontact
+adicionar miguel à minha lista de contactos,fora_dominio,massive,email_addcontact
+reportar emails recentes,fora_dominio,massive,email_query
+o rodrigo já me enviou um email,fora_dominio,massive,email_query
+quantos novos emails recebi eu hoje,fora_dominio,massive,email_query
+algum novo email,fora_dominio,massive,email_query
+mostrar meu último email,fora_dominio,massive,email_query
+alguém me enviou algum email novo na última hora,fora_dominio,massive,email_query
+eu recebi um email do paulo,fora_dominio,massive,email_query
+existem alguns emails que ainda não tenha lido,fora_dominio,massive,email_query
+quem me enviou recentemente um e-mail e sobre o que me escreveu,fora_dominio,massive,email_query
+o que há de novo na minha caixa de entrada de emails,fora_dominio,massive,email_query
+quantos emails não lidos tenho,fora_dominio,massive,email_query
+verificar se há novos emails google,fora_dominio,massive,email_query
+tenho alguns emails da júlia pinheiro,fora_dominio,massive,email_query
+mostra-me um email novo,fora_dominio,massive,email_query
+algum email novo na minha caixa de entrada,fora_dominio,massive,email_query
+eu tenho alguma mensagem nova na caixa de entrada,fora_dominio,massive,email_query
+avise me se houver alguns novos emails de carlos,fora_dominio,massive,email_query
+alexa verifica o meu email,fora_dominio,massive,email_query
+verificar emails,fora_dominio,massive,email_query
+se for de um lugar muito familiar marca-o como importante,fora_dominio,massive,email_query
+verificar todos os emails de albano silva,fora_dominio,massive,email_query
+verificar se o meu email de spam tem phishing,fora_dominio,massive,email_query
+verificar se tenho novos emails por favor,fora_dominio,massive,email_query
+podem verificar o meu email e ver se há novas mensagens,fora_dominio,massive,email_query
+mostrar me quaisquer emails recebidos na última hora,fora_dominio,massive,email_query
+arquivar as minhas mensagens lidas,fora_dominio,massive,email_query
+que email foi enviado às três e trinta da tarde,fora_dominio,massive,email_query
+há novos emails,fora_dominio,massive,email_query
+pode verificar se o joão já respondeu ao meu email,fora_dominio,massive,email_query
+existem novos emails na minha caixa de entrada joão agora mesmo,fora_dominio,massive,email_query
+que correio é que eu tenho,fora_dominio,massive,email_query
+alguns emails recebidos nos últimos quinze minutos,fora_dominio,massive,email_query
+olly recebi algum e-mail da mãe ultimamente,fora_dominio,massive,email_query
+recebi algum novo email,fora_dominio,massive,email_query
+verificar email,fora_dominio,massive,email_query
+existem novos emails do meu pai,fora_dominio,massive,email_query
+mostrar me emails recentes,fora_dominio,massive,email_query
+tenho um novo email de sandro,fora_dominio,massive,email_query
+recebi alguns emails na última hora,fora_dominio,massive,email_query
+chegaram alguns emails para mim nas últimas cinco horas,fora_dominio,massive,email_query
+existem emails não lidos na minha caixa de entrada,fora_dominio,massive,email_query
+emails recentes,fora_dominio,massive,email_query
+verificar o meu email se tem novos emails da última hora,fora_dominio,massive,email_query
+lê a última mensagem,fora_dominio,massive,email_query
+alguns emails com prioridade elevada,fora_dominio,massive,email_query
+a minha mãe enviou me um email,fora_dominio,massive,email_query
+checar emails recentes de alguem,fora_dominio,massive,email_query
+verificar meu email,fora_dominio,massive,email_query
+por favor verifique o novo email do andré,fora_dominio,massive,email_query
+eu recebi alguns emails de trabalho do josé,fora_dominio,massive,email_query
+recebi alguma resposta do joão,fora_dominio,massive,email_query
+quais são alguns emails recentes na minha caixa de entrada por favor,fora_dominio,massive,email_query
+digam-me quem enviou ontem o e-mail sobre o chefe,fora_dominio,massive,email_query
+encontrar todos os mails da magda com a palavra feriados no título,fora_dominio,massive,email_query
+por favor verifique se há um novo email na caixa de entrada,fora_dominio,massive,email_query
+o que é que a clínica disse sobre os meus exames,fora_dominio,massive,email_query
+há alguma mensagem de evento disponível nos últimos dois dias,fora_dominio,massive,email_query
+alguém enviou-me um email hoje,fora_dominio,massive,email_query
+recebi algum email de ronaldo nos últimos dias,fora_dominio,massive,email_query
+email do carlos para melhoria do linux,fora_dominio,massive,email_query
+quando é o aniversário da maria,fora_dominio,massive,email_querycontact
+o trabalhador da minha empresa tem número de telefone de casa,fora_dominio,massive,email_querycontact
+procurar em contactos,fora_dominio,massive,email_querycontact
+qual o número de telefone da maria mendes,fora_dominio,massive,email_querycontact
+qual o número de telefone do motorista de táxi que está nos meus contactos,fora_dominio,massive,email_querycontact
+qual é o número de telefone da rita,fora_dominio,massive,email_querycontact
+procurar contacto,fora_dominio,massive,email_querycontact
+ler número de contacto do alex na lista telefónica,fora_dominio,massive,email_querycontact
+qual é o email do leónidas,fora_dominio,massive,email_querycontact
+abrir contactos e encontrar o antónio ferreira,fora_dominio,massive,email_querycontact
+posso saber informações sobre um contacto,fora_dominio,massive,email_querycontact
+qual é o contacto do joão,fora_dominio,massive,email_querycontact
+fala-me sobre a maria s.,fora_dominio,massive,email_querycontact
+encontra por favor o número de contacto do júlio e diz-me,fora_dominio,massive,email_querycontact
+mostrar o número do escritório do joaquim,fora_dominio,massive,email_querycontact
+mostra a informação de contacto do joão,fora_dominio,massive,email_querycontact
+enviar olá no watsapp à vitória,fora_dominio,massive,email_querycontact
+enviar um email a este contacto,fora_dominio,massive,email_sendemail
+olly envie um email para a mãe lembrando ela de me encontrar para no almoço de hoje,fora_dominio,massive,email_sendemail
+abrir uma resposta a este email,fora_dominio,massive,email_sendemail
+envia uma resposta ao miguel com a resposta quatrocentros e trinta do email que ele enviou hoje de manhã,fora_dominio,massive,email_sendemail
+enviar um email à jéssica,fora_dominio,massive,email_sendemail
+repsonder a todos que eu estou chegando,fora_dominio,massive,email_sendemail
+responde a este email por favor,fora_dominio,massive,email_sendemail
+responder,fora_dominio,massive,email_sendemail
+eu preciso de uma cadeia de email para a minha mãe estou a planear uma viagem para a ver perguntar lhe como estará o tempo para saber o que colocar na mala,fora_dominio,massive,email_sendemail
+podes enviar um email ao meu amigo rui a dizer que estou ocupado amanhã,fora_dominio,massive,email_sendemail
+enviar um email a todos os meus colaboradores da empresa,fora_dominio,massive,email_sendemail
+envia um email para o meu novo endereço,fora_dominio,massive,email_sendemail
+enviar uma resposta ao meu último email,fora_dominio,massive,email_sendemail
+envia um email profissional à laura acerca da alteração do horário da reunião,fora_dominio,massive,email_sendemail
+enviar para o contato um email a seguir,fora_dominio,massive,email_sendemail
+enviar email a marisa,fora_dominio,massive,email_sendemail
+enviar email ao jaime sobre o jogo de softebol jaime precisamos de nos refrescar antes de irmos,fora_dominio,massive,email_sendemail
+escrever uma resposta para o email da minha mãe,fora_dominio,massive,email_sendemail
+através de telefones móveis,fora_dominio,massive,email_sendemail
+reunir uma lista de restaurantes locais e enviá-los por e-mail para o meu marido,fora_dominio,massive,email_sendemail
+responder com,fora_dominio,massive,email_sendemail
+enviar um email à bruna quero encontrar-me com ela amanhã às quatorze horas,fora_dominio,massive,email_sendemail
+envia um email ao carlos a perguntar como estará o tempo esta semana,fora_dominio,massive,email_sendemail
+reponder a todos os e-mails recebidos entre as dez da noite e as nove da manhã,fora_dominio,massive,email_sendemail
+crie um email para tomas no gmail ponto com,fora_dominio,massive,email_sendemail
+abre o email da minha irmã de ontem clica para responder e liga a ativação de voz para a minha resposta,fora_dominio,massive,email_sendemail
+enviar email à natália no seu aniversário,fora_dominio,massive,email_sendemail
+este é um novo endereço de email para ser adicionado aos contactos,fora_dominio,massive,email_sendemail
+encaminhar endereço de email para o meu novo email,fora_dominio,massive,email_sendemail
+enviar email ao chefe para reunir sobre avaliação de desempenho,fora_dominio,massive,email_sendemail
+enviar email à família com os detalhes da festa,fora_dominio,massive,email_sendemail
+enviar um email para francisco no trabalho,fora_dominio,massive,email_sendemail
+pode enviar um email para,fora_dominio,massive,email_sendemail
+enviar resposta ao miguel,fora_dominio,massive,email_sendemail
+envie um email para o josé sobre a reunião,fora_dominio,massive,email_sendemail
+email para a carolina como estás pode enviar-me actualizações sobre o último projecto,fora_dominio,massive,email_sendemail
+encaminhar o conteúdo mostrado para blahblah arroba blah ponto com com e-mail,fora_dominio,massive,email_sendemail
+preparar envio de uma mensagem de resposta,fora_dominio,massive,email_sendemail
+diz à minha família que este é um email,fora_dominio,massive,email_sendemail
+enviar o seguinte email para irmão olá venha jantar hoje à noite,fora_dominio,massive,email_sendemail
+pode enviar uma mensagem de volta para joana por email,fora_dominio,massive,email_sendemail
+enviar email para filha dizendo eu amo-te,fora_dominio,massive,email_sendemail
+enviar novo email para ana ana arroba gmail ponto com,fora_dominio,massive,email_sendemail
+enviar um email à minha família contando-lhes sobre os meus planos para o próximo aniversário,fora_dominio,massive,email_sendemail
+quero responder ao meu último email,fora_dominio,massive,email_sendemail
+enviar ao jorge um email sobre o relatório financeiro de dois mil e dezassete,fora_dominio,massive,email_sendemail
+criar um e-mail para um colega de trabalho com os meus documentos recentemente guardados,fora_dominio,massive,email_sendemail
+enviar isso,fora_dominio,massive,email_sendemail
+envia um email a jota jota arroba gmail ponto com,fora_dominio,massive,email_sendemail
+enviar mail de alerta para sandra,fora_dominio,massive,email_sendemail
+enviar um e-mail à carolina sobre a reunião de orçamento,fora_dominio,massive,email_sendemail
+responder ao email por nome,fora_dominio,massive,email_sendemail
+envie um email para o chefe dizendo que chegarei atrasado,fora_dominio,massive,email_sendemail
+ligar o aspirador diariamente entre as dez e as onze da manhã,fora_dominio,massive,iot_cleaning
+ativar o aspirador,fora_dominio,massive,iot_cleaning
+abrir o aspirador,fora_dominio,massive,iot_cleaning
+limpar é bom poeira é ruim faça agora sua mágica e limpe meu tapete,fora_dominio,massive,iot_cleaning
+ligar o meu aspirador,fora_dominio,massive,iot_cleaning
+aspirar a sala comum em dez minutos,fora_dominio,massive,iot_cleaning
+ajuda-me a ligar o aspirador robot,fora_dominio,massive,iot_cleaning
+limpar o apartamento,fora_dominio,massive,iot_cleaning
+alexa limpar o apartamento,fora_dominio,massive,iot_cleaning
+quero limpar o meu quarto ligar o aspirador e ir para o meu quarto,fora_dominio,massive,iot_cleaning
+google eu preciso da sala de estar aspirada pode ligar o aspirador de pó,fora_dominio,massive,iot_cleaning
+preciso de uma bebida,fora_dominio,massive,iot_coffee
+faz me um cafe por favor,fora_dominio,massive,iot_coffee
+olly café pronto a fazer às sete horas da manhã,fora_dominio,massive,iot_coffee
+faça-me um café,fora_dominio,massive,iot_coffee
+faz me uma chávena de café,fora_dominio,massive,iot_coffee
+fazer café às seis horas da manhã,fora_dominio,massive,iot_coffee
+queria um café agora,fora_dominio,massive,iot_coffee
+pedir um café da loja starbucks,fora_dominio,massive,iot_coffee
+quero que a cafeteira faça-me um café,fora_dominio,massive,iot_coffee
+podes fazer-me café,fora_dominio,massive,iot_coffee
+preciso de um café mais forte,fora_dominio,massive,iot_coffee
+olly pode começar a fermentação,fora_dominio,massive,iot_coffee
+como é que eu ponho a minha máquina de café para fazer café,fora_dominio,massive,iot_coffee
+preciso de café por favor de preferência quente,fora_dominio,massive,iot_coffee
+fazer um capuccino,fora_dominio,massive,iot_coffee
+alexa liga a máquina de café e fazer um café,fora_dominio,massive,iot_coffee
+mudar as luzes da sala comum para vermelho,fora_dominio,massive,iot_hue_lightchange
+mudança da cor da luzes,fora_dominio,massive,iot_hue_lightchange
+mudar luzes do azul para o amarelo,fora_dominio,massive,iot_hue_lightchange
+olly mudar as luzes para azul,fora_dominio,massive,iot_hue_lightchange
+luzes azuis,fora_dominio,massive,iot_hue_lightchange
+ajustar a luz quando eu chegar a casa,fora_dominio,massive,iot_hue_lightchange
+mudar as luzes da casa para cor-de-rosa,fora_dominio,massive,iot_hue_lightchange
+mudar as luzes para azul,fora_dominio,massive,iot_hue_lightchange
+olá podes mudar para azul aqui,fora_dominio,massive,iot_hue_lightchange
+mudar as cores da luz na casa,fora_dominio,massive,iot_hue_lightchange
+põe cores escuras em vez de claras dentro de casa,fora_dominio,massive,iot_hue_lightchange
+tornar a iluminação um pouco mais calorosa aqui,fora_dominio,massive,iot_hue_lightchange
+gostarias de ver,fora_dominio,massive,iot_hue_lightchange
+não gosto destas cores na casa,fora_dominio,massive,iot_hue_lightchange
+pode mudar as luzes para branco,fora_dominio,massive,iot_hue_lightchange
+por favor mude a cor das luzes do meu quarto surpreenda-me-me,fora_dominio,massive,iot_hue_lightchange
+mudar as luzes para quente,fora_dominio,massive,iot_hue_lightchange
+tornar a luz da sala comum cor-de-laranja,fora_dominio,massive,iot_hue_lightchange
+as luzes estão demasiado brilhantes,fora_dominio,massive,iot_hue_lightdim
+ajustar as luzes para um nível mais baixo,fora_dominio,massive,iot_hue_lightdim
+diminuir as luzes por favor,fora_dominio,massive,iot_hue_lightdim
+diminuir as luzes na casa de banho,fora_dominio,massive,iot_hue_lightdim
+diminuir as luzes na sala de estar,fora_dominio,massive,iot_hue_lightdim
+diminuir todas as luzes,fora_dominio,massive,iot_hue_lightdim
+luzes mais escuras,fora_dominio,massive,iot_hue_lightdim
+põe as luzes com menos brilho,fora_dominio,massive,iot_hue_lightdim
+diminui as luzes de cima,fora_dominio,massive,iot_hue_lightdim
+minimizar as luzes,fora_dominio,massive,iot_hue_lightdim
+quero dormir,fora_dominio,massive,iot_hue_lightoff
+pode apagar as luzes,fora_dominio,massive,iot_hue_lightoff
+desligar as luzes do quarto dois,fora_dominio,massive,iot_hue_lightoff
+desligar a luz da cozinha,fora_dominio,massive,iot_hue_lightoff
+desligar a luz da casa de banho,fora_dominio,massive,iot_hue_lightoff
+está muito claro aqui podes mudar a luz para desligada,fora_dominio,massive,iot_hue_lightoff
+desligar a luz no quarto,fora_dominio,massive,iot_hue_lightoff
+desligar luzes do quarto,fora_dominio,massive,iot_hue_lightoff
+desliga candeeiro sala de estar,fora_dominio,massive,iot_hue_lightoff
+desliga luzes,fora_dominio,massive,iot_hue_lightoff
+sandle,fora_dominio,massive,iot_hue_lightoff
+desligar as luzes do escritório,fora_dominio,massive,iot_hue_lightoff
+desligar as luzes da cozinha,fora_dominio,massive,iot_hue_lightoff
+desligar luz do quarto,fora_dominio,massive,iot_hue_lightoff
+desligar as luzes na sala de estar,fora_dominio,massive,iot_hue_lightoff
+por favor desligue a luz do meio do quarto,fora_dominio,massive,iot_hue_lightoff
+alexa luzes desligadas,fora_dominio,massive,iot_hue_lightoff
+aumenta a intensidade das luzes,fora_dominio,massive,iot_hue_lighton
+colocar as luzes na definição mais elevada,fora_dominio,massive,iot_hue_lighton
+ligar as luzes de discoteca,fora_dominio,massive,iot_hue_lighton
+alexa aumenta o brilho da luz é difícil de ver aqui em baixo,fora_dominio,massive,iot_hue_lightup
+olá olly aumentar um pouco as luzes,fora_dominio,massive,iot_hue_lightup
+aumenta as luzes na sala comum,fora_dominio,massive,iot_hue_lightup
+ligar as luzes,fora_dominio,massive,iot_hue_lightup
+definir as luzes para uma intensidade maior,fora_dominio,massive,iot_hue_lightup
+muda as cores da luz em casa,fora_dominio,massive,iot_hue_lightup
+aumentar as luzes da sala de estar em cinquenta porcento,fora_dominio,massive,iot_hue_lightup
+não consigo ver vamos colocar um pouco mais claro,fora_dominio,massive,iot_hue_lightup
+aumentar a luz,fora_dominio,massive,iot_hue_lightup
+desliga a tomada da arrozeira,fora_dominio,massive,iot_wemo_off
+desligar tomada,fora_dominio,massive,iot_wemo_off
+desligar tomada wemo,fora_dominio,massive,iot_wemo_off
+alexa desligar a tomada inteligente,fora_dominio,massive,iot_wemo_off
+desliga tomada,fora_dominio,massive,iot_wemo_off
+desligar a t. v.,fora_dominio,massive,iot_wemo_off
+na tomada,fora_dominio,massive,iot_wemo_on
+liga quando tudo o resto liigado desliga,fora_dominio,massive,iot_wemo_on
+ligar a ficha da arrozeira,fora_dominio,massive,iot_wemo_on
+faça ligar a tomada inteligente wemo,fora_dominio,massive,iot_wemo_on
+ligar a ficha da shelly,fora_dominio,massive,iot_wemo_on
+liga o carregador inteligente,fora_dominio,massive,iot_wemo_on
+quero começar uma lista nova,fora_dominio,massive,lists_createoradd
+olly adiciona fraldas à lista de cosmética,fora_dominio,massive,lists_createoradd
+inserir este artigo,fora_dominio,massive,lists_createoradd
+criar uma lista de mercearias mensais a comprar,fora_dominio,massive,lists_createoradd
+definir lista,fora_dominio,massive,lists_createoradd
+ajuda-me a definir uma lista,fora_dominio,massive,lists_createoradd
+adiciona comprar mercearias à minha lista de afazeres,fora_dominio,massive,lists_createoradd
+anote na minha lista de afazeres para ligar para o corretor de imóveis,fora_dominio,massive,lists_createoradd
+precisamos de leite,fora_dominio,massive,lists_createoradd
+juntar café à minha lista de mercearias,fora_dominio,massive,lists_createoradd
+juntar leite á minha lista de compras,fora_dominio,massive,lists_createoradd
+eu quero fazer uma lista e isto deve ser guardado automaticamente como um arquivo de texto com a lista de títulos,fora_dominio,massive,lists_createoradd
+adiciona reunião com arquiteto na minha lista de novo projeto,fora_dominio,massive,lists_createoradd
+criar nova lista chamada mercearia por favor,fora_dominio,massive,lists_createoradd
+quero tarte de batata doce de uma pastelaria local,fora_dominio,massive,lists_createoradd
+coloca isto numa lista,fora_dominio,massive,lists_createoradd
+reabrir mercearias e juntar leite,fora_dominio,massive,lists_createoradd
+exibir uma lista nova,fora_dominio,massive,lists_createoradd
+quero ter uma nova lista de reprodução de músicas,fora_dominio,massive,lists_createoradd
+fazer uma nova lista de compras,fora_dominio,massive,lists_createoradd
+por favor pões leite na lista de mercearias,fora_dominio,massive,lists_createoradd
+atualizar a minha lista com sapatos,fora_dominio,massive,lists_createoradd
+adiciona serviço do carro na minha lista de coisas a fazer hoje,fora_dominio,massive,lists_createoradd
+nova lista,fora_dominio,massive,lists_createoradd
+dá-me os detalhes do pedido de compra,fora_dominio,massive,lists_query
+lê a minha lista de compras para hoje,fora_dominio,massive,lists_query
+repete a minha lista de compras por favor,fora_dominio,massive,lists_query
+qual é a lista de coisas que eu preciso de comprar hoje,fora_dominio,massive,lists_query
+olly resta mais alguma coisa na lista,fora_dominio,massive,lists_query
+tenho enviado os relatórios do p. d. a.,fora_dominio,massive,lists_query
+o que está na minha lista de televisão,fora_dominio,massive,lists_query
+ler todos os artigos para hoje,fora_dominio,massive,lists_query
+quais são todas as listas que eu tenho disponíveis,fora_dominio,massive,lists_query
+por favor indicar que listas fiz eu,fora_dominio,massive,lists_query
+podes dizer-me o que tenho na lista,fora_dominio,massive,lists_query
+tenho eu uma lista de contactos para a festa que estou a organizar,fora_dominio,massive,lists_query
+o que é que consta nesta lista específica,fora_dominio,massive,lists_query
+o que consta da minha lista de afazeres hoje,fora_dominio,massive,lists_query
+tenho a minha lista de roupas,fora_dominio,massive,lists_query
+tenho alguma coisa na minha lista de afazeres para o meu companheiro,fora_dominio,massive,lists_query
+o que é que eu tenho na minha lista de compras,fora_dominio,massive,lists_query
+informa-me dos artigos na lista,fora_dominio,massive,lists_query
+exibir a lista,fora_dominio,massive,lists_query
+diz-me o nome das minhas listas,fora_dominio,massive,lists_query
+quero ouvir a minha lista,fora_dominio,massive,lists_query
+que listas estão abertas,fora_dominio,massive,lists_query
+tenho trabalho de reparação hoje,fora_dominio,massive,lists_query
+podes abrir a minha app de registos e verificar as mercearias por favor,fora_dominio,massive,lists_query
+o que inclui a lista,fora_dominio,massive,lists_query
+repassa a minha lista de tarefas comigo,fora_dominio,massive,lists_query
+o que é que consta da minha lista,fora_dominio,massive,lists_query
+os ovos estão na minha lista de compras,fora_dominio,massive,lists_query
+quais são os títulos dos registos nos contactos,fora_dominio,massive,lists_query
+o que é que eu preciso para a minha estadia,fora_dominio,massive,lists_query
+abrir listas remover lista,fora_dominio,massive,lists_remove
+se houver evento de show então remova o,fora_dominio,massive,lists_remove
+eliminar maçãs da minha lista de mercearia,fora_dominio,massive,lists_remove
+eliminar o meu registo de impostos de mil novecentos e noventa,fora_dominio,massive,lists_remove
+eliminar maçãs da minha lista de compras,fora_dominio,massive,lists_remove
+apaga esse da minha lista,fora_dominio,massive,lists_remove
+eliminar lista de compras,fora_dominio,massive,lists_remove
+remover seguro do carro da lista de contas,fora_dominio,massive,lists_remove
+tira os ovos da lista,fora_dominio,massive,lists_remove
+retirar a fátima dos contactos,fora_dominio,massive,lists_remove
+elimina a lista google,fora_dominio,massive,lists_remove
+eliminar a minha lista,fora_dominio,massive,lists_remove
+retirar a última música tocada,fora_dominio,massive,lists_remove
+por favor elimina a minha lista de álbuns favoritos,fora_dominio,massive,lists_remove
+olly remove o artigo da minha lista,fora_dominio,massive,lists_remove
+remover lista de reprodução,fora_dominio,massive,lists_remove
+esqueçe esta lista,fora_dominio,massive,lists_remove
+por favor remove lista,fora_dominio,massive,lists_remove
+elimina a minha lista de afazeres por favor,fora_dominio,massive,lists_remove
+não preciso da lista de compras apaga a lista,fora_dominio,massive,lists_remove
+limpar lista de coisas a fazer este fim de semana,fora_dominio,massive,lists_remove
+eliminar a minha lista de afazeres,fora_dominio,massive,lists_remove
+depende do ponto de vista,fora_dominio,massive,lists_remove
+já não quero esta lista,fora_dominio,massive,lists_remove
+remove a agenda de quarta-feira,fora_dominio,massive,lists_remove
+salta esta música,fora_dominio,massive,music_dislikeness
+não toques esta música outra vez,fora_dominio,massive,music_dislikeness
+que música maravilhosa podes guardar o que eu acabei de dizer,fora_dominio,massive,music_likeness
+lembra me que eu gosto desta músca,fora_dominio,massive,music_likeness
+esta é uma boa música por favor anota no ficheiro,fora_dominio,massive,music_likeness
+gosto muito de rock and roll,fora_dominio,massive,music_likeness
+lembra te desta música,fora_dominio,massive,music_likeness
+guarda esta música,fora_dominio,massive,music_likeness
+esta é uma música cinco estrelas,fora_dominio,massive,music_likeness
+desenhar petabits,fora_dominio,massive,music_likeness
+gosto das músicas dos dama por favor toca as,fora_dominio,massive,music_likeness
+guardar a opinião que acabei de postar para esta música,fora_dominio,massive,music_likeness
+guardar opinião,fora_dominio,massive,music_likeness
+gosto desta música qual é podes repeti la uma vez,fora_dominio,massive,music_likeness
+esta é uma das melhores músicas para mim,fora_dominio,massive,music_likeness
+classifica cinco,fora_dominio,massive,music_likeness
+olly eu realmente gosto desta música,fora_dominio,massive,music_likeness
+essa música é a minha favorita,fora_dominio,massive,music_likeness
+gosto muito de música ska,fora_dominio,massive,music_likeness
+diz me o nome e género desta música,fora_dominio,massive,music_query
+oque está a tocar,fora_dominio,massive,music_query
+encontra-me a música que está a tocar,fora_dominio,massive,music_query
+qual a duração da música,fora_dominio,massive,music_query
+é possível para ti fornecer os gostos da minha música,fora_dominio,massive,music_query
+quais são os meus tipos de música favoritos,fora_dominio,massive,music_query
+olly que músicas costumo ouvir depois do trabalho,fora_dominio,massive,music_query
+como é esta música,fora_dominio,massive,music_query
+quem canta esta música,fora_dominio,massive,music_query
+verifica o nome da música atual,fora_dominio,massive,music_query
+olly qual é um bom álbum de rap que tenha saído este ano,fora_dominio,massive,music_query
+como repetir a música,fora_dominio,massive,music_query
+quem cantou isto,fora_dominio,massive,music_query
+em que ano foi gravada esta música,fora_dominio,massive,music_query
+data de gravação da canção a tocar,fora_dominio,massive,music_query
+excelente,fora_dominio,massive,music_query
+qual é a música tema em frasier,fora_dominio,massive,music_query
+qual é a letra da música só gosto de ti dos heróis do mar,fora_dominio,massive,music_query
+cual é o artista da música que está a tocar agora,fora_dominio,massive,music_query
+diz me uma lista de reprodução,fora_dominio,massive,music_query
+por favor verifica e repete esta música mais uma vez,fora_dominio,massive,music_settings
+gravar definições,fora_dominio,massive,music_settings
+passa para a próxima música na lista,fora_dominio,massive,music_settings
+põe a esta música em repetição,fora_dominio,massive,music_settings
+por favor não embaralha as músicas no leitor de música apenas deixa a tocar continuamente,fora_dominio,massive,music_settings
+diz me o nível de volume na música atual,fora_dominio,massive,music_settings
+há alguma notícia sobre a presidência,fora_dominio,massive,news_query
+dê-me as últimas notícias sobre o iphone,fora_dominio,massive,news_query
+como está a reagir a imprensa com as potenciais ligações de marcelo rebelo de sousa com a rússia,fora_dominio,massive,news_query
+selecionar histórias do trump,fora_dominio,massive,news_query
+podes dar-me um briefing rápido,fora_dominio,massive,news_query
+mostrar notícias do meio ambiente,fora_dominio,massive,news_query
+dê-me as últimas actualizações sobre nova iorque,fora_dominio,massive,news_query
+como a imprensa está reagindo aos potenciais laços de trump com a rússia,fora_dominio,massive,news_query
+listar histórias actuais de automóveis,fora_dominio,massive,news_query
+o que está a acontecer no parlamento,fora_dominio,massive,news_query
+quero saber sobre as últimas notícias do mundo hoje,fora_dominio,massive,news_query
+alexa o que está acontecendo hoje,fora_dominio,massive,news_query
+quais são as principais notícias do público,fora_dominio,massive,news_query
+atualizar,fora_dominio,massive,news_query
+qual é a notícia mais recente na c. n. n.,fora_dominio,massive,news_query
+lê-me as manchetes,fora_dominio,massive,news_query
+olly artigos de primeira página dos jornais,fora_dominio,massive,news_query
+receber notificações de hora em hora sobre desporto,fora_dominio,massive,news_query
+popular no reddit,fora_dominio,massive,news_query
+mantenha me atualizado sobre o que está a acontecer na áfrica do sul atualmente,fora_dominio,massive,news_query
+notícias c. n. n.,fora_dominio,massive,news_query
+mostre-me as notícias da c. n. n. de hoje,fora_dominio,massive,news_query
+o que há de novo nas noticias,fora_dominio,massive,news_query
+notícias sobre o desastre de comboio,fora_dominio,massive,news_query
+o que está a acontecer ao redor do mundo,fora_dominio,massive,news_query
+diga me as notícias internacionais,fora_dominio,massive,news_query
+quais foram os números vencedores do euromilhões ontem à noite,fora_dominio,massive,news_query
+quais são as últimas sondagens sobre a opinião pública de antónio costa,fora_dominio,massive,news_query
+o que aconteceu nas notícias da c. n. n. hoje,fora_dominio,massive,news_query
+o que está a acontecer em coimbra,fora_dominio,massive,news_query
+quem está a comendar a fórmula um agora,fora_dominio,massive,news_query
+por favor providencie as notícias mais importantes do mundo,fora_dominio,massive,news_query
+quero saber tudo o que está a se falar sobre a ruptura da barragem na califórnia,fora_dominio,massive,news_query
+por favor informe-me das últimas notícias de negócios,fora_dominio,massive,news_query
+quais foram as últimas notícias do jornal da fox,fora_dominio,massive,news_query
+google avisa-me quando houver novidades sobre marcelo rebelo de sousa,fora_dominio,massive,news_query
+mostre-me as notícias da c. n. n.,fora_dominio,massive,news_query
+mostrar as notícias de hoje mais recentes no mundo,fora_dominio,massive,news_query
+falar-me sobre a nova política externa de antónio costa,fora_dominio,massive,news_query
+quais foram as notícias para quatro de março de dois mil e dezassete,fora_dominio,massive,news_query
+olly tendências de tópicos quentes de notícias,fora_dominio,massive,news_query
+mostra as noticias mais recentes,fora_dominio,massive,news_query
+principais notícias da r. t. p. internacional,fora_dominio,massive,news_query
+quais são as últimas noticias,fora_dominio,massive,news_query
+mostra as últimas informações da b. b. c.,fora_dominio,massive,news_query
+google pesquisar o assunto,fora_dominio,massive,news_query
+dê-me as manchetes da sky news,fora_dominio,massive,news_query
+posso obter uma recapitulação sobre as últimas notícias em curso no mundo,fora_dominio,massive,news_query
+dá me notícias da sic,fora_dominio,massive,news_query
+posso obter uma lista de notícias do jornal de negócios,fora_dominio,massive,news_query
+notícias politicas,fora_dominio,massive,news_query
+dá nos notícias das eleições presidenciais,fora_dominio,massive,news_query
+actualize-me sobre a corrida à candidatura presidencial,fora_dominio,massive,news_query
+noticias mais recentes,fora_dominio,massive,news_query
+leia as últimas manchetes da n. y. times ponto com,fora_dominio,massive,news_query
+coloca-o no meu dispositivo,fora_dominio,massive,news_query
+fale-me sobre marcelo rebelo de sousa,fora_dominio,massive,news_query
+irá marcelo rebelo de sousa visitar a rússia em breve,fora_dominio,massive,news_query
+o que está a acontecer no mundo hoje,fora_dominio,massive,news_query
+notícias do observador,fora_dominio,massive,news_query
+mostra-me as noticias,fora_dominio,massive,news_query
+nano tecnologia,fora_dominio,massive,news_query
+o que há de novo hoje,fora_dominio,massive,news_query
+olly liga o noticiário,fora_dominio,massive,news_query
+a notícia mais recente sobre clima e tempo,fora_dominio,massive,news_query
+o que vai acontecer amanhã,fora_dominio,massive,news_query
+quais notícias tens hoje,fora_dominio,massive,news_query
+notícias da sic,fora_dominio,massive,news_query
+avisa me quando houver alguma nova notícia sobre o brexit,fora_dominio,massive,news_query
+ache-me informações sobre as acções de hoje,fora_dominio,massive,news_query
+continua a ler the hunger games por favor,fora_dominio,massive,play_audiobook
+retoma o meu audiolivro do fernando pessoa,fora_dominio,massive,play_audiobook
+inicia novamente o meu livro de estudo bíblico,fora_dominio,massive,play_audiobook
+põe o audiolivro dos lusíadas,fora_dominio,massive,play_audiobook
+continua o último audiolivro,fora_dominio,massive,play_audiobook
+continua o último capítulo do audiolivro que estava a ouvir,fora_dominio,massive,play_audiobook
+continua o audiolivro o círculo,fora_dominio,massive,play_audiobook
+continua donde parei em amor de perdição,fora_dominio,massive,play_audiobook
+áudio,fora_dominio,massive,play_audiobook
+toca o principezinho,fora_dominio,massive,play_audiobook
+inicia reprodução de amor de perdição de onde eu parei da última vez,fora_dominio,massive,play_audiobook
+retomar meu áudio livro do início do último capítulo que eu comecei,fora_dominio,massive,play_audiobook
+olly continua os lusíadas,fora_dominio,massive,play_audiobook
+reproduz o meu audiolivro favorito do tarzan,fora_dominio,massive,play_audiobook
+ler isso outra vez,fora_dominio,massive,play_audiobook
+retomar a canção do álbum dos beatles,fora_dominio,massive,play_audiobook
+pausa o audiolivro,fora_dominio,massive,play_audiobook
+reproduz o audiolivro amor de perdição,fora_dominio,massive,play_audiobook
+quero finalmente ler os lusíadas,fora_dominio,massive,play_audiobook
+vamos ouvir noventa segundos de ciência,fora_dominio,massive,play_audiobook
+por favor reproduza um resumo de pontos importantes,fora_dominio,massive,play_audiobook
+retoma a reprodução de o crime do padre amaro,fora_dominio,massive,play_audiobook
+olly joga poker comigo,fora_dominio,massive,play_game
+queres jogar verdade ou consequência,fora_dominio,massive,play_game
+começar a jogar road rash,fora_dominio,massive,play_game
+vamos lançar o dado,fora_dominio,massive,play_game
+vamos jogar pinball,fora_dominio,massive,play_game
+quero jogar xadrez,fora_dominio,massive,play_game
+queres jogar um jogo comigo,fora_dominio,massive,play_game
+super mario,fora_dominio,massive,play_game
+iniciar candy crush,fora_dominio,massive,play_game
+abre o papa pear saga,fora_dominio,massive,play_game
+joga este jogo,fora_dominio,massive,play_game
+começa a jogar paciência spider,fora_dominio,massive,play_game
+quero jogar pedra papel e tesoura vamos jogar,fora_dominio,massive,play_game
+abrir xadrez,fora_dominio,massive,play_game
+abra o fifa dezessete,fora_dominio,massive,play_game
+por favor abre o xadrez e joga comigo,fora_dominio,massive,play_game
+toca andorinhas de ana moura,fora_dominio,massive,play_music
+toca capitão fausto,fora_dominio,massive,play_music
+entre as mil novecentos e noventa e dois mil são as únicas músicas que devem ser tocadas,fora_dominio,massive,play_music
+põe me algo pop,fora_dominio,massive,play_music
+toca a minha playlist mais recentemente usada,fora_dominio,massive,play_music
+liga a minha playlist de música eletrónica,fora_dominio,massive,play_music
+toca ruth marlene por favor,fora_dominio,massive,play_music
+abre a playlist,fora_dominio,massive,play_music
+coloca tudo vai passar da rita guerra para tocar a seguir,fora_dominio,massive,play_music
+toca r. and b.,fora_dominio,massive,play_music
+toca minha música de fado favorita,fora_dominio,massive,play_music
+por favor toca a música o barco vai de saída,fora_dominio,massive,play_music
+eu adoraria escutar call me da aretha franklin depois dessa música,fora_dominio,massive,play_music
+música pop nova,fora_dominio,massive,play_music
+põe a minha música favorita do último ano,fora_dominio,massive,play_music
+toque pandora baile anos noventa,fora_dominio,massive,play_music
+começar a tocar a minha lista de músicas,fora_dominio,massive,play_music
+toca a minha playlist pop por favor,fora_dominio,massive,play_music
+toca amar pelos dois de salvador sobral,fora_dominio,massive,play_music
+inicia a minha playlist dos favoritos,fora_dominio,massive,play_music
+toca minha playlist do marco paulo,fora_dominio,massive,play_music
+toca algum jazz,fora_dominio,massive,play_music
+podes pôr uma música de dance music,fora_dominio,massive,play_music
+toca os sucessos do top vinte e cinco,fora_dominio,massive,play_music
+abre a media e toca jingle bells,fora_dominio,massive,play_music
+toca qualquer coisa de cat stevens e fico feliz,fora_dominio,massive,play_music
+põe minhas músicas carregadas,fora_dominio,massive,play_music
+google music procura algo de madredeus para ouvir,fora_dominio,massive,play_music
+está muito sossegado aqui,fora_dominio,massive,play_music
+quero ouvir fernando daniel música voltas,fora_dominio,massive,play_music
+toca algum rap da velha guarda,fora_dominio,massive,play_music
+toca música clássica por favor,fora_dominio,massive,play_music
+toca a próxima música das minhas selecionadas,fora_dominio,massive,play_music
+põe marco paulo,fora_dominio,massive,play_music
+toca música da ana malhoa,fora_dominio,massive,play_music
+encontra me jazz suave,fora_dominio,massive,play_music
+toca assobio dos dead combo,fora_dominio,massive,play_music
+olly toca anel de rubi do rui veloso,fora_dominio,massive,play_music
+música led zeppelin houses of the holy,fora_dominio,massive,play_music
+quero ouvir a surfin u. s. a.,fora_dominio,massive,play_music
+toca marco paulo em modo aleatório,fora_dominio,massive,play_music
+depois desta canção toca esta canção por favor,fora_dominio,massive,play_music
+abre músicas do pedro abrunhosa,fora_dominio,massive,play_music
+tocar a música título,fora_dominio,massive,play_music
+toca a minha playlist motivacional,fora_dominio,massive,play_music
+toca alguma boa música da minha playlist,fora_dominio,massive,play_music
+abre a lista de rap,fora_dominio,massive,play_music
+toque a próxima música na sequência,fora_dominio,massive,play_music
+toca major tom do david bowie,fora_dominio,massive,play_music
+por favor toca apenas música triste no leitor de música,fora_dominio,massive,play_music
+a gaivota amália hoje,fora_dominio,massive,play_music
+música,fora_dominio,massive,play_music
+natal antiquado,fora_dominio,massive,play_music
+top vinte,fora_dominio,massive,play_music
+toca a música mais popular de um artista,fora_dominio,massive,play_music
+toca uma lista de músicas do avatar,fora_dominio,massive,play_music
+metal agora,fora_dominio,massive,play_music
+seleciona o ficheiro de música rai,fora_dominio,massive,play_music
+toca a primeira música do próximo álbum,fora_dominio,massive,play_music
+retomar canções fúnebres,fora_dominio,massive,play_music
+a seguir toca mentira,fora_dominio,massive,play_music
+toca a novamente por favor,fora_dominio,massive,play_music
+tocar minha playlist de rap,fora_dominio,massive,play_music
+podes pôr o meu ficheiro de música,fora_dominio,massive,play_music
+toca a minha playlist de música rock,fora_dominio,massive,play_music
+põe todas as músicas indie pop,fora_dominio,massive,play_music
+procura música clássica e põe a dar,fora_dominio,massive,play_music
+repetir a música,fora_dominio,massive,play_music
+toca música emo por favor,fora_dominio,massive,play_music
+comece a tocar haja o que houver agora,fora_dominio,massive,play_music
+toca músicas do titanic,fora_dominio,massive,play_music
+põe uma música de sua escolha,fora_dominio,massive,play_music
+mais recentes música eminem,fora_dominio,massive,play_music
+toca a música de marco paulo eu tenho dois amores,fora_dominio,massive,play_music
+rap,fora_dominio,massive,play_music
+toca eco de carolina deslandes,fora_dominio,massive,play_music
+rock clássico,fora_dominio,massive,play_music
+toca uma música,fora_dominio,massive,play_music
+eu quero escutar jazz,fora_dominio,massive,play_music
+repete a próxima música,fora_dominio,massive,play_music
+reproduz item um,fora_dominio,massive,play_music
+quero ouvir sucessos de música de dança atuais,fora_dominio,massive,play_music
+põe corrida,fora_dominio,massive,play_music
+inicia uma nova playlist da ruth marlene,fora_dominio,massive,play_music
+põe música reggae,fora_dominio,massive,play_music
+toca apenas músicas do luís represas por favor,fora_dominio,massive,play_music
+traz a minha última playlist do tidal,fora_dominio,massive,play_music
+tocar adele,fora_dominio,massive,play_music
+põe música funk,fora_dominio,massive,play_music
+toca toda a música de marco paulo,fora_dominio,massive,play_music
+quero ouvir eu tenho dois amores do marco paulo novamente,fora_dominio,massive,play_music
+selecciona o próximo episódio no podcast por favor,fora_dominio,massive,play_podcasts
+próximo episódio por favor,fora_dominio,massive,play_podcasts
+começar o podcast,fora_dominio,massive,play_podcasts
+reproduz o próximo episódio de radiolab,fora_dominio,massive,play_podcasts
+próxima última,fora_dominio,massive,play_podcasts
+vamos ouvir o podcast o estado da nação,fora_dominio,massive,play_podcasts
+vai para trás um episódio do podcast,fora_dominio,massive,play_podcasts
+põe a dar o podcast do rui unas por favor,fora_dominio,massive,play_podcasts
+avança por favor,fora_dominio,massive,play_podcasts
+vai para o próximo episódio do podcast a minha vida dava um filme,fora_dominio,massive,play_podcasts
+vai para o início do podcast,fora_dominio,massive,play_podcasts
+toca a próxima,fora_dominio,massive,play_podcasts
+valium,fora_dominio,massive,play_podcasts
+procura o podcast do dave ramsey que foi para o ar hoje,fora_dominio,massive,play_podcasts
+por favor salta para o próximo episódio do podcast,fora_dominio,massive,play_podcasts
+ir para o próximo episódio,fora_dominio,massive,play_podcasts
+próximo podcast,fora_dominio,massive,play_podcasts
+quero ouvir um podcast sobre desporto,fora_dominio,massive,play_podcasts
+abrir meu podcast mais tocado,fora_dominio,massive,play_podcasts
+olly volta para o podcast anterior,fora_dominio,massive,play_podcasts
+põe o próximo álbum,fora_dominio,massive,play_podcasts
+ouvir o podcast mais recente de ricardo araújo,fora_dominio,massive,play_podcasts
+põe o podcast um,fora_dominio,massive,play_podcasts
+põe o podcast do rui unas,fora_dominio,massive,play_podcasts
+deixa me ouvir o último podcast das manhãs da comercial,fora_dominio,massive,play_podcasts
+encontra um podcast acerca de animais,fora_dominio,massive,play_podcasts
+procura manhãs da comercial número três,fora_dominio,massive,play_podcasts
+põe a tocar amor combate no rádio do carro,fora_dominio,massive,play_radio
+toca a nova estação de rádio,fora_dominio,massive,play_radio
+tocar a estação de desportos,fora_dominio,massive,play_radio
+sucessos de música,fora_dominio,massive,play_radio
+toca a rádio miley cyrus,fora_dominio,massive,play_radio
+põe a rfm para mim agora,fora_dominio,massive,play_radio
+abrir iheartradio e tocar rock,fora_dominio,massive,play_radio
+ei olly liga o rádio,fora_dominio,massive,play_radio
+sintoniza numa estação de rádio com boas piadas,fora_dominio,massive,play_radio
+inicia a estação de rádio pop,fora_dominio,massive,play_radio
+sintoniza algum rádio,fora_dominio,massive,play_radio
+toca rádio com música rock,fora_dominio,massive,play_radio
+está na hora de ouvir boa música no rádio,fora_dominio,massive,play_radio
+música antena três,fora_dominio,massive,play_radio
+põe na estação antena três,fora_dominio,massive,play_radio
+quantos dos meus podcasts de desportos têm novos episódios que eu ainda não ouvi,fora_dominio,massive,play_radio
+toca pandora,fora_dominio,massive,play_radio
+toca,fora_dominio,massive,play_radio
+podes por favor pôr me a estação um f. m. na rádio por favor,fora_dominio,massive,play_radio
+sintoniza a rádio noventa e oito ponto nove,fora_dominio,massive,play_radio
+tocar rádio,fora_dominio,massive,play_radio
+quero ouvir a antena dois,fora_dominio,massive,play_radio
+toca fado,fora_dominio,massive,play_radio
+liga a estação rádio cávado cento e dois ponto quatro,fora_dominio,massive,play_radio
+posso ter as manhãs da comercial na rádio no quarto,fora_dominio,massive,play_radio
+consiga me clã na sirius,fora_dominio,massive,play_radio
+sintoniza na rádio noventa e cinco ponto cinco,fora_dominio,massive,play_radio
+muda para a estação oitenta e oito ponto quatro,fora_dominio,massive,play_radio
+olly quero ouvir a rádio comercial,fora_dominio,massive,play_radio
+ouvir rádio,fora_dominio,massive,play_radio
+abre a aplicação pandora e toca a estação rádio comercial,fora_dominio,massive,play_radio
+sintoniza em noventa e nove ponto cinco f. m.,fora_dominio,massive,play_radio
+inicia o rádio por favor,fora_dominio,massive,play_radio
+sintoniza a frequência noventa e sete ponto sete,fora_dominio,massive,play_radio
+toca rádio comercial,fora_dominio,massive,play_radio
+abre a app pandora e toca os top hits,fora_dominio,massive,play_radio
+preciso que ligues a rádio,fora_dominio,massive,play_radio
+toca minha estação de rádio favorita,fora_dominio,massive,play_radio
+liga o rádio e põe na rádio comercial,fora_dominio,massive,play_radio
+qual a taxa de cotação do dólar americano para o dólar neozelandês,fora_dominio,massive,qa_currency
+a libra está mais alta ou mais baixa que o dólar,fora_dominio,massive,qa_currency
+quanto euros por dólares americanos hoje,fora_dominio,massive,qa_currency
+qual a taxa de câmbio numa libra esterlina,fora_dominio,massive,qa_currency
+quanto é um dólar em euros,fora_dominio,massive,qa_currency
+notifica me quando o câmbio da libra esterlina para o dólar americano estiver como eu esperava,fora_dominio,massive,qa_currency
+qual é actualmente a taxa de câmbio entre o dólar e o euro,fora_dominio,massive,qa_currency
+quantos pesos para um dólar americano,fora_dominio,massive,qa_currency
+o que vale mais o dólar americano ou o euro,fora_dominio,massive,qa_currency
+por quanto podemos trocar o dólar americano por rúpias indianas,fora_dominio,massive,qa_currency
+qual a taxa de câmbio do dólar para o iene,fora_dominio,massive,qa_currency
+quanto ienes para cada dólar,fora_dominio,massive,qa_currency
+qual é a taxa de câmbio da moeda do méxico,fora_dominio,massive,qa_currency
+converter coroa tcheca em euro,fora_dominio,massive,qa_currency
+qual é a taxa de câmbio mais atual na china,fora_dominio,massive,qa_currency
+mostrar taxa de conversão do dólar americano para a rupia indiana,fora_dominio,massive,qa_currency
+converta um dólar americano para euro,fora_dominio,massive,qa_currency
+qual é a taxa de câmbio entre o dólar americano e o iene,fora_dominio,massive,qa_currency
+quanto é que a rupia indiana vai contra o dólar dos eua,fora_dominio,massive,qa_currency
+quanto é o dólar americano em libra,fora_dominio,massive,qa_currency
+qual é o valor do dólar em i. n. r.,fora_dominio,massive,qa_currency
+o que é um organismo,fora_dominio,massive,qa_definition
+alexa o que é um computador,fora_dominio,massive,qa_definition
+qual o significado da palavra hipócrita,fora_dominio,massive,qa_definition
+o que é uma casa de trabalho,fora_dominio,massive,qa_definition
+descrever a batata,fora_dominio,massive,qa_definition
+qual é a definição de subjugante,fora_dominio,massive,qa_definition
+sabes a definição de escola,fora_dominio,massive,qa_definition
+qual é a definição de textual,fora_dominio,massive,qa_definition
+podes dizer o que é uma poltrona,fora_dominio,massive,qa_definition
+qual a definição de pda,fora_dominio,massive,qa_definition
+defina isto,fora_dominio,massive,qa_definition
+o que significa a palavra labirinto,fora_dominio,massive,qa_definition
+qual é a definição de um fora de jogo,fora_dominio,massive,qa_definition
+preciso de informações sobre a nova máquina de lavar lg,fora_dominio,massive,qa_definition
+como descrever uma bola de ténis,fora_dominio,massive,qa_definition
+por favor descreva aquele objeto para mim,fora_dominio,massive,qa_definition
+oeste,fora_dominio,massive,qa_definition
+olá qual a definição de receita,fora_dominio,massive,qa_definition
+o que é marketing,fora_dominio,massive,qa_definition
+o que posso fazer com portátil,fora_dominio,massive,qa_definition
+gostaria de saber a descrição de um carro,fora_dominio,massive,qa_definition
+como é um gerânio,fora_dominio,massive,qa_definition
+define aceleração,fora_dominio,massive,qa_definition
+o que é uma preguiça,fora_dominio,massive,qa_definition
+o que significa esta palavra,fora_dominio,massive,qa_definition
+sinónimos,fora_dominio,massive,qa_definition
+o que é uma manga,fora_dominio,massive,qa_definition
+o que significa atónito,fora_dominio,massive,qa_definition
+o que é essa coisa,fora_dominio,massive,qa_definition
+identificador de objeto,fora_dominio,massive,qa_definition
+quando pode-se usar a definição de palavras,fora_dominio,massive,qa_definition
+descreve o que é uma cadeira,fora_dominio,massive,qa_definition
+defina organismo,fora_dominio,massive,qa_definition
+descreve-me com o que se parece uma bola,fora_dominio,massive,qa_definition
+o que é um grelhador weber,fora_dominio,massive,qa_definition
+ajuda microfone,fora_dominio,massive,qa_definition
+descreve-me um elefante,fora_dominio,massive,qa_definition
+o que é um cafetão,fora_dominio,massive,qa_definition
+onde fica diogo infante,fora_dominio,massive,qa_factoid
+quantas pessoas vivem no porto,fora_dominio,massive,qa_factoid
+diz-me como é que o brexit vai afetar cidadãos europeus a longo e médio prazo,fora_dominio,massive,qa_factoid
+como é feito o ferro,fora_dominio,massive,qa_factoid
+onde joacine katar moreira foi para a faculdade,fora_dominio,massive,qa_factoid
+olly qual a capital da califórnia,fora_dominio,massive,qa_factoid
+pesquisar sobre os seus interesses,fora_dominio,massive,qa_factoid
+como morreu michael jackson,fora_dominio,massive,qa_factoid
+podem muitas conchas vender-se à beira-mar,fora_dominio,massive,qa_factoid
+qual é o nome do homem mais alto,fora_dominio,massive,qa_factoid
+qual é o recorde mundial para o cabelo mais comprido,fora_dominio,massive,qa_factoid
+qual a idade de margarida carpinteiro,fora_dominio,massive,qa_factoid
+em que ano nasceu nicolau breyner,fora_dominio,massive,qa_factoid
+buscar em sua localidade,fora_dominio,massive,qa_factoid
+nome da capital da nigéria,fora_dominio,massive,qa_factoid
+keith richards está morto,fora_dominio,massive,qa_factoid
+em que ano albano jerónimo nasceu,fora_dominio,massive,qa_factoid
+diga-me a distância entre o sol e a lua,fora_dominio,massive,qa_factoid
+quão velho é george clooney,fora_dominio,massive,qa_factoid
+de que estado é david lynch,fora_dominio,massive,qa_factoid
+porque é que o céu é azul,fora_dominio,massive,qa_factoid
+quem matou lincoln,fora_dominio,massive,qa_factoid
+diz-me qual é a maior montanha no mundo,fora_dominio,massive,qa_factoid
+qual a idade de marcelo rebelo de sousa,fora_dominio,massive,qa_factoid
+quanto dinheiro ganha bill gates,fora_dominio,massive,qa_factoid
+qual é a população da rússia,fora_dominio,massive,qa_factoid
+quão alto é o empire state building,fora_dominio,massive,qa_factoid
+pessoa por aniversário,fora_dominio,massive,qa_factoid
+onde rui pedro oliveira nasceu,fora_dominio,massive,qa_factoid
+pesquisar a região,fora_dominio,massive,qa_factoid
+quão longe é coimbra,fora_dominio,massive,qa_factoid
+mostra me a biografia do josé cid,fora_dominio,massive,qa_factoid
+quanto vale o cristiano ronaldo,fora_dominio,massive,qa_factoid
+conceber os compostos químicos necessários para criar açúcar que não cause diabetes ou aumento de peso mas que não tenha um sabor químico,fora_dominio,massive,qa_factoid
+diz-me como é a geografia nesta região,fora_dominio,massive,qa_factoid
+quem é taylor swift,fora_dominio,massive,qa_factoid
+quão alto é ricardo araújo pereira,fora_dominio,massive,qa_factoid
+onde é o melhor destino de férias no algarve,fora_dominio,massive,qa_factoid
+quantas bases o nick swisher roubou na sua carreira,fora_dominio,massive,qa_factoid
+quando é o aniversário de josé eduardo pinto da costa,fora_dominio,massive,qa_factoid
+qual é a idade da britney spears,fora_dominio,massive,qa_factoid
+edifício mais alto,fora_dominio,massive,qa_factoid
+que é a ilha mais pequena do mundo,fora_dominio,massive,qa_factoid
+quando é o dia da implantação da república portuguesa,fora_dominio,massive,qa_factoid
+podes dar me aniversário de cristiano ronaldo,fora_dominio,massive,qa_factoid
+onde estão situadas as montanhas rochosas,fora_dominio,massive,qa_factoid
+listar os cinco melhores filmes de emma watson,fora_dominio,massive,qa_factoid
+qual é a taxa de criminalidade em braga,fora_dominio,massive,qa_factoid
+e sobre o ricardo pereira,fora_dominio,massive,qa_factoid
+quem ganhou os últimos cinco torneios de basquetebol da primeira liga,fora_dominio,massive,qa_factoid
+ignorar determinadas palavras-passe,fora_dominio,massive,qa_factoid
+qual a idade de chuck norris,fora_dominio,massive,qa_factoid
+o que vai ser a cura do cancro,fora_dominio,massive,qa_factoid
+qual é o décimo sexto presidente,fora_dominio,massive,qa_factoid
+encontra-me a namorada perfeita,fora_dominio,massive,qa_factoid
+quando é o aniversário de adam gilchrist,fora_dominio,massive,qa_factoid
+onde é que o maradona vive agora,fora_dominio,massive,qa_factoid
+qual a capital de portugal,fora_dominio,massive,qa_factoid
+calcule a lei de ohm baseado nesses valores,fora_dominio,massive,qa_factoid
+onde nasceu o presidente costa,fora_dominio,massive,qa_factoid
+diz-me um facto geográfico nesta região,fora_dominio,massive,qa_factoid
+quantos anos tem o hugh jackman,fora_dominio,massive,qa_factoid
+quão longo é o tejo,fora_dominio,massive,qa_factoid
+quantos países existem a norte do alasca,fora_dominio,massive,qa_factoid
+quantos anos tem cristiano ronaldo,fora_dominio,massive,qa_factoid
+quando a cristiana kopke nasceu,fora_dominio,massive,qa_factoid
+qual é o país que acabaria convertendo maior parte do dinheiro de mil dólares americanos,fora_dominio,massive,qa_factoid
+qual é a circunferência da terra,fora_dominio,massive,qa_factoid
+onde fica yellowstone,fora_dominio,massive,qa_factoid
+onde está a barbearia mais próxima,fora_dominio,massive,qa_factoid
+onde é o sítio,fora_dominio,massive,qa_factoid
+diz me sobre a maria de medeiros,fora_dominio,massive,qa_factoid
+quantas pessoas moram em braga,fora_dominio,massive,qa_factoid
+que tipo de tecido usam as pessoas do leste,fora_dominio,massive,qa_factoid
+qual é o tamanho de um cachalote,fora_dominio,massive,qa_factoid
+onde estão localizadas as cataratas do niágara,fora_dominio,massive,qa_factoid
+quanto tempo até lisboa,fora_dominio,massive,qa_factoid
+quantos filhos tem a sandra bullock,fora_dominio,massive,qa_factoid
+dois mais dois é igual a quanto,fora_dominio,massive,qa_maths
+quanto é cinco dividido por um,fora_dominio,massive,qa_maths
+eu tenho dólares para o mês quanto posso gastar por dia este mês,fora_dominio,massive,qa_maths
+abrir calculadora,fora_dominio,massive,qa_maths
+diz-me a resposta para este problema duzentos e quarenta e seis mais seiscentos e cinquenta e quatro,fora_dominio,massive,qa_maths
+divide duzentos por quatro,fora_dominio,massive,qa_maths
+soma de cinco e dois,fora_dominio,massive,qa_maths
+qual é a raiz quadrada de nove,fora_dominio,massive,qa_maths
+quanto é doze dividido por quatro,fora_dominio,massive,qa_maths
+diz o qual é o valor do seno de trinta,fora_dominio,massive,qa_maths
+calculadora,fora_dominio,massive,qa_maths
+será bom comprar hoje acções da nike,fora_dominio,massive,qa_stock
+como vai a acção da coca-cola hoje,fora_dominio,massive,qa_stock
+acções da sonae,fora_dominio,massive,qa_stock
+verifica o preço das acções da e. d. p.,fora_dominio,massive,qa_stock
+mais preço de acção,fora_dominio,massive,qa_stock
+fala me sobre o preço das ações da navex,fora_dominio,massive,qa_stock
+dá-me o preço de abertura das acções dos computadores acer,fora_dominio,massive,qa_stock
+abrir acções,fora_dominio,massive,qa_stock
+preciso do preço das acções da amazon,fora_dominio,massive,qa_stock
+qual é o preço atual das acções da rolls royce,fora_dominio,massive,qa_stock
+qual é o preço de fechamento da apple,fora_dominio,massive,qa_stock
+dá me o preço de abertura das ações da intel hoje,fora_dominio,massive,qa_stock
+como está as acções do google,fora_dominio,massive,qa_stock
+taxa de câmbio para energia galp,fora_dominio,massive,qa_stock
+quanto vale a acção do starbucks,fora_dominio,massive,qa_stock
+qual o preço diário das acçoes da johnson and johnson,fora_dominio,massive,qa_stock
+qual o preço das acções do google,fora_dominio,massive,qa_stock
+detalhes de acções,fora_dominio,massive,qa_stock
+qual a força do dólar em comparação com o peso,fora_dominio,massive,qa_stock
+como vão as acções do google,fora_dominio,massive,qa_stock
+olly quanto custa os bilhetes nas obras maravilhosas,fora_dominio,massive,recommendation_events
+o que há de interessante na zona,fora_dominio,massive,recommendation_events
+encontre eventos perto de mim,fora_dominio,massive,recommendation_events
+olly procura eventos e encontros nas docas,fora_dominio,massive,recommendation_events
+que peças estão em exibição no teatro,fora_dominio,massive,recommendation_events
+que eventos estão a acontecer em braga nesta semana,fora_dominio,massive,recommendation_events
+o que há a acontecer na minha cidade,fora_dominio,massive,recommendation_events
+o que há para fazer em braga,fora_dominio,massive,recommendation_events
+mostre me concertos em lisboa,fora_dominio,massive,recommendation_events
+por favor mostra me os eventos de apresentação de cães a acontecer na minha cidade natal,fora_dominio,massive,recommendation_events
+pode me dizer que tipo de concerto eu posso ir esta noite no porto,fora_dominio,massive,recommendation_events
+olly recomenda um evento degustação de vinho este fim de semana em lisboa,fora_dominio,massive,recommendation_events
+olly diz me eventos fixes a acontecer aqui,fora_dominio,massive,recommendation_events
+diz me eventos interessantes nas docas,fora_dominio,massive,recommendation_events
+o que posso fazer esta noite na cidade,fora_dominio,massive,recommendation_events
+podes dizer me uma lista de eventos para este fim de semana em paranhos,fora_dominio,massive,recommendation_events
+qual montanha-russa é a melhor,fora_dominio,massive,recommendation_events
+procurando por acontecimentos recentes nesta data específica,fora_dominio,massive,recommendation_events
+o que se passa na minha zona,fora_dominio,massive,recommendation_events
+mostra me onde é que ou posso encontrar um hamburger,fora_dominio,massive,recommendation_events
+há algo a acontecer na cidade este fim de semana,fora_dominio,massive,recommendation_events
+o que se passa na zona,fora_dominio,massive,recommendation_events
+diz me todos os eventos a decorrer na minha cidade natal,fora_dominio,massive,recommendation_events
+o que está a acontecer em aveiro,fora_dominio,massive,recommendation_events
+eventos locais,fora_dominio,massive,recommendation_events
+o que está acontecer naquele evento,fora_dominio,massive,recommendation_events
+mostra me as lojas que há na zona,fora_dominio,massive,recommendation_locations
+olly quais são os restaurantes bem classificados nesta área,fora_dominio,massive,recommendation_locations
+onde é que há um bom bar de vinhos perto de mim,fora_dominio,massive,recommendation_locations
+por favor encontra a loja mais popular na área,fora_dominio,massive,recommendation_locations
+onde é a farmácia na penha de frança,fora_dominio,massive,recommendation_locations
+hey olly lista me lojas perto daqui,fora_dominio,massive,recommendation_locations
+encontra me uma bomba de gasolina perto daqui,fora_dominio,massive,recommendation_locations
+diz-me onde devo ir na volta pelo mundo e que lugares são mais importantes,fora_dominio,massive,recommendation_locations
+quanto são os impostos,fora_dominio,massive,recommendation_locations
+diz me um bom restaurante chinês,fora_dominio,massive,recommendation_locations
+onde há uma bomba de gasolina num raio de cinco quilómetros,fora_dominio,massive,recommendation_locations
+onde têm bom restaurante,fora_dominio,massive,recommendation_locations
+qual é a livraria mais próxima,fora_dominio,massive,recommendation_locations
+que restaurantes há perto de mim,fora_dominio,massive,recommendation_locations
+mostra me lojas,fora_dominio,massive,recommendation_locations
+onde posso arranjar um bom hambúrguer em cinco quilómetros,fora_dominio,massive,recommendation_locations
+mostra me restaurantes tailandeses perto de mim,fora_dominio,massive,recommendation_locations
+qual é o restaurante mexicano mais próximo em coimbra,fora_dominio,massive,recommendation_locations
+há restaurantes chineses em leiria,fora_dominio,massive,recommendation_locations
+onde é que eu posso encontrar cachorros quentes nesta área,fora_dominio,massive,recommendation_locations
+diga me onde posso ir às compras nesta zona,fora_dominio,massive,recommendation_locations
+que tipo de lojas há perto da minha localização,fora_dominio,massive,recommendation_locations
+estou à procura de vestidos de gala podes encontrar me lojas de roupa no raio de um quilómetro,fora_dominio,massive,recommendation_locations
+qual é o melhor restaurante na maia,fora_dominio,massive,recommendation_locations
+olly que filmes estão em exibição neste momento,fora_dominio,massive,recommendation_movies
+sugerir filmes e músicas que eu gostava mas não são necessariamente como os que eu já disse que gosto,fora_dominio,massive,recommendation_movies
+quais são os filmes em exibição na zona,fora_dominio,massive,recommendation_movies
+por favor verifica os filmes em exibição nos cinemas nas redondezas,fora_dominio,massive,recommendation_movies
+diz me uma comédia romântica em exibição nos cinemas de lisboa,fora_dominio,massive,recommendation_movies
+que filmes estão a passar perto de mim com classificações altas,fora_dominio,massive,recommendation_movies
+que filmes há parecidos com a guerra das estrelas,fora_dominio,massive,recommendation_movies
+o cinema da zona está a exibir que filme,fora_dominio,massive,recommendation_movies
+o leão da estrela,fora_dominio,massive,recommendation_movies
+filmes no top dez,fora_dominio,massive,recommendation_movies
+produtos mistos ou falsos no mercado,fora_dominio,massive,social_post
+tweet no media markt que não estou satisfeito com o seu serviço hoje,fora_dominio,massive,social_post
+twittar a la redoute acerca da limpeza da loja deles,fora_dominio,massive,social_post
+qual é a resposta do serviço ao cliente,fora_dominio,massive,social_post
+olly tuitar continente e dizer lhes que o seu serviço ao cliente é horrível,fora_dominio,massive,social_post
+quero tuitar uma reclamação para jumbo,fora_dominio,massive,social_post
+publica o estado para o seguinte,fora_dominio,massive,social_post
+enviar um tweet à edp,fora_dominio,massive,social_post
+publica estou feliz no facebook,fora_dominio,massive,social_post
+por favor fazer uma reclamação para levis,fora_dominio,massive,social_post
+enviada reclamação no twitter a,fora_dominio,massive,social_post
+post um tweet sobre o mau acompanhamento por uma empresa a.b.c. não satisfeito na minha conta,fora_dominio,massive,social_post
+twittar relatório de erro à samsung,fora_dominio,massive,social_post
+tweet uma reclamação ao baixa burguer,fora_dominio,massive,social_post
+tweet uma reclamação para a amazon sobre atraso na entrega,fora_dominio,massive,social_post
+enviar-me um tweet,fora_dominio,massive,social_post
+enviar um tweet à assistência ao cliente da google sobre o meu novo telefone nexus parar de funcionar,fora_dominio,massive,social_post
+tweet ao macdonalds reseda tem um péssimo serviço,fora_dominio,massive,social_post
+twittar registo de erro à samsung,fora_dominio,massive,social_post
+preciso que envies um tweet com a reclamção,fora_dominio,massive,social_post
+tweet para a conta de atendimento ao cliente da starbucks,fora_dominio,massive,social_post
+olly faz um twitta o apoio ao cliente da google a dizer que os produtos deles são inferiores,fora_dominio,massive,social_post
+diz-lhes que as suas linhas eram muito longas,fora_dominio,massive,social_post
+isto é um tweet para a vodafone se tiver o meu serviço de internet e telefone convosco e falhar como posso contactá-los,fora_dominio,massive,social_post
+publicar a minha reclamação at microsoft no twitter,fora_dominio,massive,social_post
+ligar para o celular do cliente através do email,fora_dominio,massive,social_post
+hoje é o aniversário do meu marido,fora_dominio,massive,social_post
+postar um novo estado no facebook dizendo que eu estou a aproveitar o bom tempo,fora_dominio,massive,social_post
+eu preciso escrever uma crítica negativa para yahoo,fora_dominio,massive,social_post
+põe esta fotografia no meu instagram,fora_dominio,massive,social_post
+diz à e. d. p. que estamos novamente sem luz,fora_dominio,massive,social_post
+por favor publique feliz aniversário estados unidos no facebook,fora_dominio,massive,social_post
+publicar uma atualização do estado do facebook,fora_dominio,massive,social_post
+twittar a temperatura atual,fora_dominio,massive,social_post
+tweet longo tempo de espera e empregados não profissionais,fora_dominio,massive,social_post
+envia tweet at nome da empresa que não recebi a minha encomenda a tempo,fora_dominio,massive,social_post
+publica este estado na minha conta de rede social,fora_dominio,massive,social_post
+envia um tweet à dell company sobre o serviço defeituoso do portátil,fora_dominio,massive,social_post
+dizer à meo que não gosto do serviço deles,fora_dominio,massive,social_post
+desejo a todos os meus amigos do facebook bom dia,fora_dominio,massive,social_post
+publica um novo estado no facebook é hora de celebrar,fora_dominio,massive,social_post
+publicar este video no facebook,fora_dominio,massive,social_post
+fui mencionado alguma vez no twitter,fora_dominio,massive,social_query
+mostra-me as notificações mais recentes,fora_dominio,massive,social_query
+quais as últimas novidades nas minhas redes sociais,fora_dominio,massive,social_query
+quantos gostos tenho no meu post de bolo sem ovo no youtube,fora_dominio,massive,social_query
+dizer me o que a maria colocou no seu facebook durante o fim de semana,fora_dominio,massive,social_query
+o que é mais popular no twitter,fora_dominio,massive,social_query
+resume as notícias do meu mural,fora_dominio,massive,social_query
+verifica os temas que estão na teddência no twitter,fora_dominio,massive,social_query
+últimas notícias do facebook,fora_dominio,massive,social_query
+lembrete de show ao vivo,fora_dominio,massive,social_query
+avisem-me se a linda publicar algo no meu facebook hoje,fora_dominio,massive,social_query
+a rita acabou de publicar no meu facebook,fora_dominio,massive,social_query
+alguém gostou da minha foto que acabei de publicar,fora_dominio,massive,social_query
+há alguma publicação do meu amigo miguel no facebook,fora_dominio,massive,social_query
+verificar meu último posto no instagram,fora_dominio,massive,social_query
+faz um pedido para levar do portofino,fora_dominio,massive,takeaway_order
+pedir algum frango frito da crispy mafya pelo uber eats,fora_dominio,massive,takeaway_order
+eu preciso pedir comida do pizzaria lisboa,fora_dominio,massive,takeaway_order
+quero mandar vir alguma comida chinesa hoje à noite quem é que entrega aqui,fora_dominio,massive,takeaway_order
+olá eu gostaria de pedir um hambúrguer,fora_dominio,massive,takeaway_order
+de que sítios perto posso pedir comida para levar,fora_dominio,massive,takeaway_order
+ei pedir entrega da pizzaria luzzo da rua santa marta,fora_dominio,massive,takeaway_order
+eu gostaria de pedir sushi para almoço,fora_dominio,massive,takeaway_order
+faz um pedido de sopa picante do restaurante king long,fora_dominio,massive,takeaway_order
+manda vir algo do joshua's,fora_dominio,massive,takeaway_order
+entrega ao domicílio do restaurante fu hua de uma sopa picante,fora_dominio,massive,takeaway_order
+podes pedir takeaway,fora_dominio,massive,takeaway_order
+ligue para o beco para pedir pastel de bacalhau,fora_dominio,massive,takeaway_order
+arranja-me comida,fora_dominio,massive,takeaway_order
+abre a internet,fora_dominio,massive,takeaway_order
+manda vir pizza,fora_dominio,massive,takeaway_order
+quero mandar vir alguma comida takeaway,fora_dominio,massive,takeaway_order
+peça tofu com o melhor preço no vegi restaurante,fora_dominio,massive,takeaway_order
+eles podem fazer takeaway,fora_dominio,massive,takeaway_query
+a telepizza tem takeaway,fora_dominio,massive,takeaway_query
+custo de entrega,fora_dominio,massive,takeaway_query
+onde é que posso pedir um shot de tequila e comida mexicana para levar,fora_dominio,massive,takeaway_query
+esse restaurante faz entrega ao domicílio,fora_dominio,massive,takeaway_query
+quem tem o tempo de entrega mais curto,fora_dominio,massive,takeaway_query
+verifique minha entrega,fora_dominio,massive,takeaway_query
+o restaurante tem um menu de comida takeaway,fora_dominio,massive,takeaway_query
+qual o tempo exato que demora até que entreguem a comida após se fazer o pedido,fora_dominio,massive,takeaway_query
+o restaurante chinês entrega ao domicílio,fora_dominio,massive,takeaway_query
+quando é que o meu pedido está pronto,fora_dominio,massive,takeaway_query
+olly descubra se o restaurante kfc faz entregas ao domicílio,fora_dominio,massive,takeaway_query
+como está o meu pedido,fora_dominio,massive,takeaway_query
+por favor você poderia me dizer se o greek tavern dionysos restaurante aceita pedidos para retirada de lá,fora_dominio,massive,takeaway_query
+status do meu pedido no restaurante,fora_dominio,massive,takeaway_query
+este restaurante tem entregas ao domicílio,fora_dominio,massive,takeaway_query
+posso pedir takeaway do pingo doce,fora_dominio,massive,takeaway_query
+quando é que a minha comida chinesa vai ser entregue,fora_dominio,massive,takeaway_query
+quando devo sair do escritório,fora_dominio,massive,transport_query
+você pode reservar um bilhete de comboio para lisboa,fora_dominio,massive,transport_query
+existem trem saindo de porto para lisboa ao meio-dia,fora_dominio,massive,transport_query
+como eu chego na mercearia,fora_dominio,massive,transport_query
+verifica a hora do comboio dez mil oitocentos e oitenta e sete da estação do rossio na terça-feira,fora_dominio,massive,transport_query
+a que horas é o próximo comboio para beja,fora_dominio,massive,transport_query
+diz me todas as distâncias locais e horários,fora_dominio,massive,transport_query
+qual é o primeiro metro para gaia,fora_dominio,massive,transport_query
+quando será os próximos três comboios para braga,fora_dominio,massive,transport_query
+qual é o tempo de viagem até ao teatro,fora_dominio,massive,transport_query
+quando é o próximo trem para moscavide,fora_dominio,massive,transport_query
+o caminho mais próximo para regressar a casa,fora_dominio,massive,transport_query
+qual é a hora marcada para o correio de lisboa chegar ao porto,fora_dominio,massive,transport_query
+a que horas há comboios em abrantes santarém,fora_dominio,massive,transport_query
+mostra-me uma lista com as viagens de comboio disponíveis para a localização a,fora_dominio,massive,transport_query
+mostra-me uma lista dos comboios que vão para portimão depois de amanhã,fora_dominio,massive,transport_query
+a que horas chega o comboio da guarda,fora_dominio,massive,transport_query
+verifica o horário do comboio dez oitocentos e oitenta e sete na estação do entroncamento na segunda-feira,fora_dominio,massive,transport_query
+quando parte o último comboio do trabalho,fora_dominio,massive,transport_query
+a que horas chega o intercidades a leiria,fora_dominio,massive,transport_query
+qual o horário do alfa pendular,fora_dominio,massive,transport_query
+quanto custa um bilhete de comboio para braga,fora_dominio,massive,transport_query
+onde fica o restaurante mexicano mais próximo,fora_dominio,massive,transport_query
+ei a que horas sai da estação o comboio quatro,fora_dominio,massive,transport_query
+me diga o preço do bilhete de comboio de cascais para lisboa,fora_dominio,massive,transport_query
+pegue para mim o horário do comboio na localização da estação,fora_dominio,massive,transport_query
+dá-me direções para o bar mais próximo,fora_dominio,massive,transport_query
+qual o horário do comboio aos domingos em beja,fora_dominio,massive,transport_query
+diz-me a hora do comboio que vai de coimbra para faro,fora_dominio,massive,transport_query
+quando é que o comboio de matosinhos para braga vai partir,fora_dominio,massive,transport_query
+a que distância fica ponte de sor de minha casa,fora_dominio,massive,transport_query
+quais são os horários dos comboios,fora_dominio,massive,transport_query
+usando as minhas apps,fora_dominio,massive,transport_taxi
+encontre um táxi para ir pra casa,fora_dominio,massive,transport_taxi
+podes ter por favor um uber em minha casa dentro de quinze minutos,fora_dominio,massive,transport_taxi
+agende um táxi para me apanhar na segunda ao meio-dia,fora_dominio,massive,transport_taxi
+reserva-me um táxi para abrantes dentro de meia-hora,fora_dominio,massive,transport_taxi
+configurar uber,fora_dominio,massive,transport_taxi
+procura boleia para o bar,fora_dominio,massive,transport_taxi
+chama um táxi daqui para o aeroporto,fora_dominio,massive,transport_taxi
+encontre um transporte para roma,fora_dominio,massive,transport_taxi
+procura um táxi para mim,fora_dominio,massive,transport_taxi
+poderia por favor reservar um táxi para mim indo para o local,fora_dominio,massive,transport_taxi
+procura um uber que me possa levar ao aeroporto agora,fora_dominio,massive,transport_taxi
+reserve para mim um táxi para depois da minha reunião de quinta,fora_dominio,massive,transport_taxi
+olly você poderia ligar para o táxi,fora_dominio,massive,transport_taxi
+me dê um carro,fora_dominio,massive,transport_taxi
+procura um comboio direto para guimarães,fora_dominio,massive,transport_ticket
+alexa reserve para mim um bilhete de comboio para essa tarde para castelo branco,fora_dominio,massive,transport_ticket
+compra-me um bilhete de avião,fora_dominio,massive,transport_ticket
+compra-me um bilhete de comboio,fora_dominio,massive,transport_ticket
+reserva um bilhete de comboio para lisboa,fora_dominio,massive,transport_ticket
+reserva uma viagem de lisboa a viseu com dez locais para visitar,fora_dominio,massive,transport_ticket
+preciso de ir para aveiro na noite de sexta-feira compra-me um bilhete por favor,fora_dominio,massive,transport_ticket
+reserve um bilhete de trem para lisboa saindo de porto daqui a dois dias,fora_dominio,massive,transport_ticket
+compra por favor um bilhete cp de cascais lisboa para a marinha grande leiria com partida a um de abril,fora_dominio,massive,transport_ticket
+compra um bilhete de comboio de hoje para aveiro,fora_dominio,massive,transport_ticket
+bilhete de comboio por favor,fora_dominio,massive,transport_ticket
+compra-me um bilhete de comboio para aveiro,fora_dominio,massive,transport_ticket
+mostra-me os bilhetes de comboio,fora_dominio,massive,transport_ticket
+abre a app dos comboios,fora_dominio,massive,transport_ticket
+marca me um bilhete urbano para as cinco da tarde para o porto,fora_dominio,massive,transport_ticket
+você poderia comprar para mim um bilhete de comboio por favor,fora_dominio,massive,transport_ticket
+olá olly eu gostaria de pegar trem para coimbra na quarta,fora_dominio,massive,transport_ticket
+compra um bilhete de comboio fim de semana de vinte e seis torres vedras para cascais,fora_dominio,massive,transport_ticket
+bilhete para porto,fora_dominio,massive,transport_ticket
+diz-me o estado atual do trânsito na minha localização,fora_dominio,massive,transport_traffic
+como está o transito olly,fora_dominio,massive,transport_traffic
+como estão as estradas neste momento,fora_dominio,massive,transport_traffic
+como está o trânsito hoje,fora_dominio,massive,transport_traffic
+como está o trânsito na avenida liberdade,fora_dominio,massive,transport_traffic
+relatório de transito,fora_dominio,massive,transport_traffic
+quanto tempo demora a chegar a casa,fora_dominio,massive,transport_traffic
+verifica como está o trânsito até casa por favor,fora_dominio,massive,transport_traffic
+há alguma zona em obras na nacional dois,fora_dominio,massive,transport_traffic
+estradas com pouco tráfego,fora_dominio,massive,transport_traffic
+como está o trânsito na alta de lisboa neste momento,fora_dominio,massive,transport_traffic
+há alguma zona em obras na cidade universitária,fora_dominio,massive,transport_traffic
+quanto tempo demoro até ao algarve,fora_dominio,massive,transport_traffic
+estado do trânsito,fora_dominio,massive,transport_traffic
+como está o trânsito de casa para o trabalho,fora_dominio,massive,transport_traffic
+diz me como vai estar o tempo esta semana,fora_dominio,massive,weather_query
+cheque o tempo para a cidade de braga,fora_dominio,massive,weather_query
+o sol vai brilhar no porto este fim de semana,fora_dominio,massive,weather_query
+olly preciso de protetor solar,fora_dominio,massive,weather_query
+vai estar solarengo na terça-feira da próxima semana,fora_dominio,massive,weather_query
+vou precisar de usar casaco na próxima quarta-feira,fora_dominio,massive,weather_query
+mostra me a temperatur a mais alta esta semana,fora_dominio,massive,weather_query
+posso sair de casa sem guarda chuva,fora_dominio,massive,weather_query
+está nublado hoje,fora_dominio,massive,weather_query
+vai ficar mais quente aqui na próxima semana,fora_dominio,massive,weather_query
+olly vou precisar de usar luvas hoje,fora_dominio,massive,weather_query
+devo levar um guarda-chuva comigo agora,fora_dominio,massive,weather_query
+quanta neve caiu em setúbal desde ontem,fora_dominio,massive,weather_query
+como está o tempo em fátima,fora_dominio,massive,weather_query
+hoje é um dia solarengo ou não,fora_dominio,massive,weather_query
+qual o tempo na nossa cidade,fora_dominio,massive,weather_query
+informações sobre o clima desta semana,fora_dominio,massive,weather_query
+como vai ser a previsão do tempo para segunda-feira ao meio-dia,fora_dominio,massive,weather_query
+sim ou não a temperatura estrá quente amanhã,fora_dominio,massive,weather_query
+qual é o tempo lá fora agora,fora_dominio,massive,weather_query
+qual é o tempo perto de mim esta semana,fora_dominio,massive,weather_query
+qual foi a previsão de tempo para hoje,fora_dominio,massive,weather_query
+vai estar ventoso amanhã,fora_dominio,massive,weather_query
+essa manhã permanecerá ensolarado,fora_dominio,massive,weather_query
+vai estar quente amanhã,fora_dominio,massive,weather_query
+previsão de tempo de hoje,fora_dominio,massive,weather_query
+devo vestir o casaco de chuva antes de sair,fora_dominio,massive,weather_query
+vai estar neve esta semana,fora_dominio,massive,weather_query
+quando está frio em portugal,fora_dominio,massive,weather_query
+por favor vê o tempo no porto,fora_dominio,massive,weather_query
+diz me o tempo na cidade de aveiro,fora_dominio,massive,weather_query
+por favor dá me a previsão de tempo para esta semana,fora_dominio,massive,weather_query
+tempo para amanhã,fora_dominio,massive,weather_query
+diz me qual foi a temperatura na nossa cidade à meia noite,fora_dominio,massive,weather_query
+tempo atual,fora_dominio,massive,weather_query
+vou precisar de botas de chuva,fora_dominio,massive,weather_query
+vai haver chuviscos amanhã de manhã,fora_dominio,massive,weather_query
+como será o tempo nos próximos sete dias,fora_dominio,massive,weather_query
+diz me o tempo para o próximo mês,fora_dominio,massive,weather_query
+vê se preciso de guarda-chuva agora,fora_dominio,massive,weather_query
+checar a aplicação weather para ver se,fora_dominio,massive,weather_query
+temperatura ao pôr do sol hoje,fora_dominio,massive,weather_query
+preciso de aplicar creme para queimaduras solares quando vou ao clube de golfe,fora_dominio,massive,weather_query
+diz me o tempo que está a fazer no porto neste momento,fora_dominio,massive,weather_query
+olly como vai ser o tempo esta semana,fora_dominio,massive,weather_query
+diz me a probabilidade de chuva em percentagem no porto hoje,fora_dominio,massive,weather_query
+diz me os detalhes do tempo para dia quinze de março,fora_dominio,massive,weather_query
+algum sinal de chuva,fora_dominio,massive,weather_query
+como que é o cinco dias de forecast na cidade de lisboa,fora_dominio,massive,weather_query
+preciso do meu chapéu hoje,fora_dominio,massive,weather_query
+ei está muito quente lá fora qual é a temperatura esta tarde,fora_dominio,massive,weather_query
+como está o tempo onde eu estou hoje,fora_dominio,massive,weather_query
+a que horas devo ir fazer uma caminhada,fora_dominio,massive,weather_query
+podes dizer me o tempo para segunda-feira,fora_dominio,massive,weather_query
+olly qual é o tempo de momento,fora_dominio,massive,weather_query
+qual vai ser o tempo hoje à noite,fora_dominio,massive,weather_query
+previsão do tempo,fora_dominio,massive,weather_query
+previsão do tempo para esta semana,fora_dominio,massive,weather_query
+devo trazer roupas quentes,fora_dominio,massive,weather_query
+está muito calor hoje não está,fora_dominio,massive,weather_query
+vai haver neve amanhã ao meio-dia,fora_dominio,massive,weather_query
+vai estar agradável na praia na sexta-feira,fora_dominio,massive,weather_query
+é suposto estar de chuva amanhã,fora_dominio,massive,weather_query
+vou precisar de pôr protetor solar hoje,fora_dominio,massive,weather_query
+preciso de protetor solar hoje,fora_dominio,massive,weather_query
+o tempo vai estar agradável este fim de semana,fora_dominio,massive,weather_query
+vai estar de chuva mais tarde,fora_dominio,massive,weather_query
+preciso de levar um casaco hoje,fora_dominio,massive,weather_query
+devo levar casaco para o trabalho,fora_dominio,massive,weather_query
+como está o dia la fora,fora_dominio,massive,weather_query
+quais são as chances de granizo esta semana,fora_dominio,massive,weather_query
+como vai estar o clima nos próximos sete dias,fora_dominio,massive,weather_query
+como foi o tempo esta semana,fora_dominio,massive,weather_query
+dá me o tempo para o porto às quinze horas,fora_dominio,massive,weather_query
+qual será a temperatura la fora amanhã,fora_dominio,massive,weather_query
