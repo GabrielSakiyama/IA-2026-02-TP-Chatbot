@@ -15,3 +15,5 @@ relatorio/*.synctex.gz
 relatorio/*.bbl
 relatorio/*.blg
 .vectordb/
+# copias de seguranca do nano
+.env.save*

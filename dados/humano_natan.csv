@@ -1,0 +1,17 @@
+texto,intencao,origem
+Quando eu poço começar o TCC?,inicio_tcc,humano
+Posso fazer o TCC com mais alguém ou é individual?,inicio_tcc,humano
+Tem registro do TCC em algum sistema?,inicio_tcc,humano
+Quem é a banca avaliadora do tcc?,banca,humano
+Como começar o TCC,inicio_tcc,humano
+Quais as regras do tcc? E tem professor ou orientador?,orientador,humano
+"Um professor quer me orientar no tcc, como posso fzr?",orientador,humano
+"Não tenho ideia de como começar meu tcc, estou perdido e muita coisa ao mesmo tempo",inicio_tcc,humano
+Como o orientador me conduz no tcc? Qual papel dele?,orientador,humano
+Como escolher orientador?,orientador,humano
+já posso começar meu tcc? to no quinto semestre,inicio_tcc,humano
+"Vou me formar nesse semestre, até quando tenho pra defender meu tcc?",prazos,humano
+Como assim antecendencia? quantos dias é isso?,prazos,humano
+O que acontece se extrapolar o prazo da entrega do tcc,prazos,humano
+Quanto tempo antes da apresentação do tcc pra enviar o texto,prazos,humano
+quais prazos do tcc,prazos,humano
