@@ -1,1 +1,551 @@
 texto,intencao,origem
+Quando eu poço começar o TCC?,inicio_tcc,humano
+Posso fazer o TCC com mais alguém ou é individual?,inicio_tcc,humano
+Tem registro do TCC em algum sistema?,inicio_tcc,humano
+Quem é a banca avaliadora do tcc?,banca,humano
+Como começar o TCC,inicio_tcc,humano
+Quais as regras do tcc? E tem professor ou orientador?,orientador,humano
+"Um professor quer me orientar no tcc, como posso fzr?",orientador,humano
+"Não tenho ideia de como começar meu tcc, estou perdido e muita coisa ao mesmo tempo",inicio_tcc,humano
+Como o orientador me conduz no tcc? Qual papel dele?,orientador,humano
+Como escolher orientador?,orientador,humano
+já posso começar meu tcc? to no quinto semestre,inicio_tcc,humano
+"Vou me formar nesse semestre, até quando tenho pra defender meu tcc?",prazos,humano
+Como assim antecendencia? quantos dias é isso?,prazos,humano
+O que acontece se extrapolar o prazo da entrega do tcc,prazos,humano
+Quanto tempo antes da apresentação do tcc pra enviar o texto,prazos,humano
+quais prazos do tcc,prazos,humano
+Qual é o modelo do tcc?,formatacao,humano
+Pode escrever em inglês o tcc?,formatacao,humano
+Realmente precisa seguir a abnt no tcc?,formatacao,humano
+Manda um modelo pronto do tcc,formatacao,humano
+Qual formatação do tcc,formatacao,humano
+Quantas pessoas costumam ficar na banca de TCC? O orientador também faz parte dela?,banca,humano
+"Me tira uma dúvida: quem escolhe a banca, sou eu ou o meu orientador?",banca,humano
+Tô bem nervoso com a minha defesa 😅 Quanto tempo ela costuma durar e como funciona? Eu apresento e depois a banca faz perguntas?,banca,humano
+Posso levar meus amigos ou minha família pra assistir à minha defesa? Ou ela é fechada?,banca,humano
+"E se a banca me reprovar, o que acontece? Dá pra apresentar de novo ou eu perco tudo?",banca,humano
+"passei na defesa!! e agora, qual o próximo passo? to meio perdido",deposito,humano
+onde eu anexo a versão final do tcc? não achei em lugar nenhum,deposito,humano
+"meu tcc vai ficar público em algum site da faculdade? tipo, qualquer um vai poder ver?",deposito,humano
+"a carga horária do tcc ainda não apareceu no meu histórico, isso é normal? to ficando preocupado",deposito,humano
+prazo da versão final?,deposito,humano
+"oi, tudo bem?",chitchat,humano
+"valeu, ajudou demais",chitchat,humano
+"pera, to falando com uma pessoa ou com um robô?",chitchat,humano
+"beleza, era isso. tchau",chitchat,humano
+"aff, esse tcc não acaba nunca",chitchat,humano
+"to fazendo estágio obrigatório, como eu entrego o relatório final do estágio?",fora_dominio,humano
+até quando dá pra trancar uma disciplina? perdi o prazo?,fora_dominio,humano
+"quero ser bolsista de iniciação científica, como eu escolho o orientador?",fora_dominio,humano
+as horas das atividades complementares já entraram no meu histórico? não to achando,fora_dominio,humano
+quando vai ser a colação de grau da minha turma?,fora_dominio,humano
+quando vai ser a minha defesa? ainda não me falaram nada,prazos,humano
+"quem marca a data da defesa, sou eu ou o orientador?",prazos,humano
+ainda dá tempo de defender esse semestre ou já era?,prazos,humano
+data da defesa?,prazos,humano
+Como inicio meu TCC?,inicio_tcc,humano
+Estou no meu último semestre ja posso começar a fazer o TCC?,inicio_tcc,humano
+Como faço o registro do meu TCC no Siscad? Vc pode me ajudar?,inicio_tcc,humano
+Posso escolher quem como orientador?,orientador,humano
+Um professor de outro curso pode me orientar?,orientador,humano
+COmo troco de Orienttador?,orientador,humano
+QUal o prazo para defender para formar nesse semestre?,prazos,humano
+qual antecedencia para mandar pra banca,prazos,humano
+e se eu perder o prazo... oq acontece?,prazos,humano
+PRECISA MSM SEGUIR ABNT?,formatacao,humano
+pode esccrever em inglês ?,formatacao,humano
+tem moldelo em latex?,formatacao,humano
+qual eh o número de pessoas da banca?,banca,humano
+quanto tempo dura a apresentacao,banca,humano
+a defesa é aberta?,banca,humano
+oq acontece se eu reporvar?,banca,humano
+onde eu entrego a versao final?,deposito,humano
+pewcisa anexa no siccad?,deposito,humano
+onde fica publicado o traabalhoo?,deposito,humano
+precisa corrigir o que a banca pediu antes de entregar?,deposito,humano
+passei e agora?,deposito,humano
+olá chatbot!,chitchat,humano
+Eai,chitchat,humano
+Muito Obrigado!!,chitchat,humano
+Valeuuu,chitchat,humano
+até mais!,chitchat,humano
+"tchau, obg",chitchat,humano
+vc é um robo?,chitchat,humano
+kkkk ajudou muito vlw,chitchat,humano
+Quem pode ser meu orientador de estagio?,fora_dominio,humano
+Qual cardapio do RU?,fora_dominio,humano
+qual o prazo para devolver um livro da biblioteca?,fora_dominio,humano
+qual a carga horário do meu curso Engenharia de Software?,fora_dominio,humano
+qual a carga horaria do estagio?,fora_dominio,humano
+quando abre o edital de IC?,fora_dominio,humano
+qual o relatorio da bolsa de IC da facom,fora_dominio,humano
+qual a data de colacao de grau?,fora_dominio,humano
+como posso trancar meu curso?,fora_dominio,humano
+posso ver meu historico escolar?,fora_dominio,humano
+posso ver se minha matriccula esta ativa?,fora_dominio,humano
+como eu arrumo o wifi eduroam que não conecta?,fora_dominio,humano
+esqueci minha senha do email instucional,fora_dominio,humano
+quem ganhou o jogo do flamengo ontem?,fora_dominio,humano
+Vc consegue me dizzer quando é o jogo da seleçao brasileira?,fora_dominio,humano
+vai chover hj?,fora_dominio,humano
+qnd devo comecar o tcc,inicio_tcc,humano
+o q preciso pra cadastrar o tcc,inicio_tcc,humano
+posso apresentar o tcc antes da colacao ?,prazos,humano
+em qual semestre posso iniciar o tcc,inicio_tcc,humano
+tenho que ter tema em mente,inicio_tcc,humano
+quem eu preciso falar pra saber o que fazer no tcc ?,inicio_tcc,humano
+qnd posso comecar o trabalho de conclusao de curso,inicio_tcc,humano
+onde registro o tema do tcc,inicio_tcc,humano
+orientador fora da universidade,orientador,humano
+orientador fora da minha instituicao ?,orientador,humano
+como escolho que vai me orientar,orientador,humano
+posso ter mais de um orientador ?,orientador,humano
+quem pode me ajudar no tcc,orientador,humano
+qnd entrego o trabalho,prazos,humano
+posso estender o tempo de entrega do trabalho,prazos,humano
+quem converso pra extender o prazo,prazos,humano
+mudar o prazo de entrega do trabalho,prazos,humano
+posso receber mudanca de tema do tcc,inicio_tcc,humano
+q norma devo seguir,formatacao,humano
+o q faco pra formatar,formatacao,humano
+tem template pronto pra ser usado,formatacao,humano
+como funciona a referencia,formatacao,humano
+tenho que usar a abnt,formatacao,humano
+recebo algo que comprove que entreguei o meu trabalho ?,deposito,humano
+alguem fora da univeridade pode estar na banca,banca,humano
+não deu certo de enviar o trabalho. o q faco,deposito,humano
+escolho quem vai analisar a apresentacao,banca,humano
+qualquer um pode ver a defesa ?,banca,humano
+Onde q envio o trabalho,deposito,humano
+deu errado o envio. Pq,deposito,humano
+Onde coloco o tabalho definitivo,deposito,humano
+pra quem eu dou o trabalho,deposito,humano
+posso trocar o arquivo,deposito,humano
+"salve, mane",chitchat,humano
+como ce ta,chitchat,humano
+td bem ?,chitchat,humano
+obg,chitchat,humano
+vlw,chitchat,humano
+carga horaria complementar,fora_dominio,humano
+como dilatar o prazo de conclusão do curso,fora_dominio,humano
+hora que passa o busao,fora_dominio,humano
+q horas abre o RU,fora_dominio,humano
+qual a porcentagem de falta que posso ter nas materias,fora_dominio,humano
+Qual opção do portal eu uso pra cadastrar meu TCC?,inicio_tcc,llm
+Registrar tema do TCC,inicio_tcc,llm
+Solicitar abertura do TCC,inicio_tcc,llm
+Abrir processo do TCC,inicio_tcc,llm
+O que preciso preencher no sistema pra registrar meu projeto?,inicio_tcc,llm
+quais informaçoes preciso colocar no cadastro do trabalho,inicio_tcc,llm
+tem algum formulario pra registrar o tcc na plataforma academica,inicio_tcc,llm
+como faço pra cadastrar a proposta inicial do meu tcc,inicio_tcc,llm
+"Quero tirar meu projeto do papel e registrar o TCC na faculdade, mas não encontro essa opção no sistema. Onde faço isso?",inicio_tcc,llm
+Como faço pra deixar meu tema registrado oficialmente?,inicio_tcc,llm
+Tem que abrir algum processo no sistema pra iniciar o TCC?,inicio_tcc,llm
+Como faço para cadastrar o tema do meu TCC na instituição?,inicio_tcc,llm
+"Tenho uma ideia para pesquisar, mas não sei como transformá-la em um projeto de TCC. Qual é o caminho para começar?",inicio_tcc,llm
+Como devo proceder para registrar um TCC realizado em grupo?,inicio_tcc,llm
+É necessário apresentar um projeto antes de registrar o TCC?,inicio_tcc,llm
+O registro do TCC é feito pelo portal acadêmico ou presencialmente na secretaria?,inicio_tcc,llm
+Como começo o TCC?,inicio_tcc,llm
+Quero iniciar meu TCC,inicio_tcc,llm
+Como formalizo meu TCC?,inicio_tcc,llm
+Como cadastro o tema do meu trabalho?,inicio_tcc,llm
+É possível iniciar o TCC antes de concluir o cadastro no sistema acadêmico?,inicio_tcc,llm
+"Pra começar o TCC, tenho que enviar uma proposta pra alguém?",inicio_tcc,llm
+to com uma ideia de pesquisa mas nao sei como transformar isso num projeto,inicio_tcc,llm
+Ainda não comecei nada e estou preocupado. Como faço para abrir o registro do TCC no portal do aluno?,inicio_tcc,llm
+"Estou meio perdido e preciso começar meu TCC, mas não sei qual é o primeiro passo. Por onde começo?",inicio_tcc,llm
+Como faço para dar início oficialmente ao meu TCC na universidade?,inicio_tcc,llm
+Cadastrar projeto de TCC,inicio_tcc,llm
+Preciso iniciar o TCC logo e estou confuso sobre como formalizar o tema que escolhi. O que preciso fazer primeiro?,inicio_tcc,llm
+Poderia explicar quais etapas devo seguir para iniciar o processo do TCC?,inicio_tcc,llm
+como registro meu tcc no sistema depois que defini o assunto,inicio_tcc,llm
+Onde registro que vou começar meu TCC?,inicio_tcc,llm
+"Quero começar meu trabalho, mas não sei se preciso fazer algum cadastro antes de desenvolver a pesquisa. Como funciona o início do TCC?",inicio_tcc,llm
+Poderia me informar onde registro o início do meu trabalho de conclusão de curso?,inicio_tcc,llm
+posso trocar de orientador se a gente não tiver uma boa comunicação,orientador,llm
+"Meu orientador espera que eu chegue às conversas com tudo resolvido, mas é justamente quando tenho dúvidas que preciso de ajuda. Como alinhar o que cada um deve fazer?",orientador,llm
+como saber se o professor tem disponibilidade pra me orientar,orientador,llm
+Função do orientador,orientador,llm
+meu orientador pode me ajudar a definir melhor o recorte do tema,orientador,llm
+Meu orientador está sugerindo um caminho que não combina com o que eu quero pesquisar. Até onde devo seguir as recomendações dele?,orientador,llm
+O orientador precisa ser da área exata do meu tema?,orientador,llm
+Como peço pra um professor ser meu orientador?,orientador,llm
+Quais são as responsabilidades do orientador durante o desenvolvimento do TCC?,orientador,llm
+é normal o orientador sugerir mudanças na pergunta de pesquisa,orientador,llm
+Como devo agir se eu e meu orientador tivermos opiniões diferentes sobre os rumos do trabalho?,orientador,llm
+O que devo fazer se o professor que desejo como orientador não puder me acompanhar?,orientador,llm
+Como posso me preparar para aproveitar melhor as reuniões de orientação?,orientador,llm
+Escolha do orientador,orientador,llm
+"Meu orientador quer mudar bastante o recorte do trabalho, mas eu queria manter minha proposta. Como conversar com ele sem criar um clima ruim?",orientador,llm
+Meu orientador pode mudar se eu não estiver me dando bem com ele?,orientador,llm
+E se o professor que eu quero já estiver orientando muita gente?,orientador,llm
+O que faz orientador?,orientador,llm
+Quantas vezes por mês é normal conversar com o orientador?,orientador,llm
+Existe algum procedimento para trocar de orientador caso a relação de orientação não esteja funcionando?,orientador,llm
+Meu orientador pode sugerir mudanças no tema?,orientador,llm
+qual a diferença entre orientador e coorientador no tcc,orientador,llm
+Tenho um tema bem específico e não sei se devo procurar um professor que pesquise exatamente isso ou alguém com quem já tenho mais afinidade.,orientador,llm
+Orientador indicado pelo curso,orientador,llm
+Como posso escolher um orientador cuja área de pesquisa seja adequada ao tema que pretendo desenvolver?,orientador,llm
+"Meu orientador quase não comenta minhas ideias, e estou ficando insegura sobre o que cabe a ele acompanhar. Qual é o papel dele durante o TCC?",orientador,llm
+"Estou em dúvida entre dois professores para orientar meu TCC, um entende mais do tema e o outro parece ter mais disponibilidade. Como escolho sem me arrepender?",orientador,llm
+Com que frequência é recomendável conversar com o orientador para discutir o andamento do trabalho?,orientador,llm
+Posso chamar um professor de outro curso pra me orientar?,orientador,llm
+Estou ansioso porque meu orientador demora para responder e não sei se posso pedir uma conversa mais frequente. Que tipo de acompanhamento é razoável esperar?,orientador,llm
+Quais critérios devo considerar ao avaliar se um professor tem o perfil certo para me orientar?,orientador,llm
+Posso trocar de orientador?,orientador,llm
+posso convidar um professor de outro curso pra ser meu orientador,orientador,llm
+É possível solicitar orientação a um docente de outro curso ou departamento?,orientador,llm
+A professora que eu queria como orientadora já orienta vários alunos. Vale a pena conversar com ela mesmo assim ou procuro outra pessoa?,orientador,llm
+qual é o papel do orientador durante o desenvolvimento do tcc,orientador,llm
+"Posso pedir para trocar de orientador se sinto que a comunicação não está funcionando? Não quero parecer ingrato, mas estou bem preocupado.",orientador,llm
+Como escolho um orientador pro meu TCC?,orientador,llm
+Qual é o último dia para cumprir as atividades do TCC antes do encerramento do semestre? Estou tentando montar meu cronograma.,prazos,llm
+as datas de entrega mudam pra quem ta fazendo tcc em dupla,prazos,llm
+quando vence o prazo pra entregar o relatorio parcial do tcc,prazos,llm
+Prazo para entregar capítulos?,prazos,llm
+O cronograma do TCC prevê alguma pausa durante as férias ou as atividades continuam nesse período?,prazos,llm
+Datas importantes do TCC?,prazos,llm
+Até que data posso solicitar uma prorrogação do prazo para concluir as atividades do TCC?,prazos,llm
+Até quando posso mandar a primeira parte do trabalho?,prazos,llm
+"Caso o prazo de uma etapa do TCC caia em um feriado, qual data devo considerar?",prazos,llm
+"Por gentileza, onde posso consultar o calendário acadêmico com os prazos relacionados ao TCC?",prazos,llm
+Há um prazo específico para concluir cada etapa do TCC ao longo do semestre?,prazos,llm
+até que dia posso enviar a primeira versão do texto,prazos,llm
+Meu prazo para concluir a etapa de pesquisa cai num feriado. Será que muda para o próximo dia útil?,prazos,llm
+Onde vejo as datas importantes do TCC deste ano?,prazos,llm
+Qual é o prazo pra enviar a versão preliminar?,prazos,llm
+Tem prazo pra receber o retorno do orientador?,prazos,llm
+Prazo da primeira etapa?,prazos,llm
+"Se eu perder uma data do cronograma, posso pedir prorrogação?",prazos,llm
+Com quanta antecedência os estudantes são informados sobre mudanças nas datas do cronograma do TCC?,prazos,llm
+As datas do TCC mudam nas férias?,prazos,llm
+"Se eu precisar de mais tempo para terminar a pesquisa, qual é a data-limite para pedir prorrogação?",prazos,llm
+A data-limite para cumprir as etapas do TCC já saiu? Estou preocupado porque não encontrei o cronograma atualizado.,prazos,llm
+se perder o prazo de uma etapa tem alguma data extra depois,prazos,llm
+Você poderia me informar até quando devo entregar o cronograma de atividades do TCC neste semestre?,prazos,llm
+Estou perdido com o calendário do TCC: até que dia preciso entregar o relatório parcial neste semestre?,prazos,llm
+as entregas intermediarias do tcc tem datas diferentes por curso,prazos,llm
+Você poderia confirmar quando termina o prazo para entregar a versão preliminar do TCC?,prazos,llm
+Qual a data limite pra entregar cada capítulo?,prazos,llm
+Perdi o prazo do relatório de andamento por causa de um problema de saúde. Ainda existe algum período para regularizar?,prazos,llm
+"Gostaria de saber qual é o prazo para apresentar o relatório parcial de andamento do TCC, por favor.",prazos,llm
+Qual prazo do TCC?,prazos,llm
+quando sai o calendario com as datas importantes do tcc,prazos,llm
+As datas-limite para as etapas intermediárias do TCC já foram divulgadas?,prazos,llm
+qual fonte e tamanho tenho que colocar?,formatacao,llm
+A folha de rosto e o sumário têm um modelo específico? Queria conferir se estou seguindo as normas certinho.,formatacao,llm
+Tô meio perdido com a formatação do TCC: quais margens e fonte preciso usar segundo as normas da faculdade?,formatacao,llm
+Capa do trabalho,formatacao,llm
+como faço a numeração das páginas?,formatacao,llm
+Referências bibliográficas,formatacao,llm
+as citações longas tem um formato diferente no tcc,formatacao,llm
+qual o espaçamento certo entre as linhas dos paragrafos,formatacao,llm
+Preciso colocar espaçamento duplo no trabalho inteiro ou as normas pedem outro espaçamento?,formatacao,llm
+as citações e referências seguem qual padrão?,formatacao,llm
+as normas são ABNT mesmo?,formatacao,llm
+Há um padrão específico para numerar páginas e organizar títulos e subtítulos?,formatacao,llm
+Tô terminando de organizar os capítulos e não sei qual é a estrutura padrão das seções e subseções do texto.,formatacao,llm
+"Existe alguma orientação de formatação específica para resumo, palavras-chave e abstract?",formatacao,llm
+Como devo configurar as margens e o alinhamento dos parágrafos no TCC?,formatacao,llm
+Você poderia explicar como formatar as referências bibliográficas conforme as normas adotadas pela instituição?,formatacao,llm
+Normas ABNT?,formatacao,llm
+Sumário automático,formatacao,llm
+Citações no texto,formatacao,llm
+como configuro o espaçamento entre linhas?,formatacao,llm
+Poderia me informar como estruturar os elementos pré-textuais e pós-textuais do TCC?,formatacao,llm
+tem regra pra margem e recuo de parágrafo?,formatacao,llm
+precisa colocar sumário automático ou posso fazer manual,formatacao,llm
+As referências bibliográficas devem seguir alguma ordem específica? Já estou confuso com tantos formatos diferentes.,formatacao,llm
+Tem algum modelo oficial de texto para o TCC? Estou com medo de montar tudo num formato diferente do exigido.,formatacao,llm
+Você poderia me informar qual modelo de formatação devo usar para redigir o TCC?,formatacao,llm
+Espaçamento entre linhas,formatacao,llm
+como devo organizar os titulos e subtitulos no texto,formatacao,llm
+Como faço citações diretas e indiretas no padrão ABNT? Estou preocupado de estar citando tudo errado.,formatacao,llm
+Qual é a forma correta de apresentar citações diretas e indiretas no texto?,formatacao,llm
+posso usar tabelas e imagens no trabalho e como formato elas,formatacao,llm
+Tem template oficial pra escrever o trabalho?,formatacao,llm
+A numeração das páginas começa desde a capa ou só aparece a partir de alguma seção? Não quero bagunçar o arquivo.,formatacao,llm
+Quais normas da ABNT se aplicam à estrutura e à apresentação do texto?,formatacao,llm
+tem algum modelo pronto de formatação pra seguir,formatacao,llm
+"Poderia esclarecer quais fontes, tamanhos de letra e espaçamentos são exigidos no trabalho?",formatacao,llm
+Margens e fonte,formatacao,llm
+a banca avalia só a apresentação ou também o conteudo do trabalho,banca,llm
+Tempo de apresentação,banca,llm
+se eu não souber responder uma pergunta da banca o que eu faço,banca,llm
+Defesa presencial ou online?,banca,llm
+o orientador também participa da banca avaliadora,banca,llm
+"Depois da apresentação, quanto tempo costuma durar a arguição da banca? Estou tentando me preparar para responder com calma.",banca,llm
+Como funciona a avaliação da banca?,banca,llm
+Dá pra pedir revisão da nota da defesa?,banca,llm
+Quanto tempo costuma durar a apresentação oral do trabalho?,banca,llm
+quanto tempo costuma durar a apresentação da defesa,banca,llm
+O que acontece se um membro da banca não puder comparecer à defesa?,banca,llm
+A defesa do TCC é aberta ao público ou apenas aos participantes convidados?,banca,llm
+Quais critérios a banca utiliza para avaliar a apresentação e o conteúdo do TCC?,banca,llm
+Como funciona a defesa?,banca,llm
+Estou com medo de travar durante a apresentação. Posso levar anotações para consultar?,banca,llm
+A banca pode reprovar mesmo se o orientador aprovar?,banca,llm
+Meu orientador participa da banca também?,banca,llm
+Resultado da banca,banca,llm
+Posso usar slides na defesa?,banca,llm
+Como a banca comunica o resultado da avaliação ao estudante?,banca,llm
+Minha defesa pode ser online?,banca,llm
+Estou nervoso com a defesa do TCC e não sei como controlar a ansiedade na hora. O que posso fazer?,banca,llm
+"Minha defesa é presencial, mas não sei se familiares podem assistir. Como funciona?",banca,llm
+Como responder questionamentos?,banca,llm
+Como é definida a composição da banca avaliadora do TCC?,banca,llm
+"Se um membro da banca fizer uma pergunta que eu não souber responder, como devo reagir?",banca,llm
+Quem costuma compor a banca avaliadora? Estou preocupado com quem vai assistir à minha apresentação.,banca,llm
+Como devo me preparar para responder às perguntas da banca?,banca,llm
+Pode ter alguém de outra faculdade na banca?,banca,llm
+A banca pode reprovar o TCC mesmo que o trabalho já tenha sido aprovado pelo orientador?,banca,llm
+Posso sugerir nomes de professores para compor a banca da minha defesa?,banca,llm
+Critérios de avaliação,banca,llm
+posso sugerir um professor externo pra minha banca,banca,llm
+Qual é o papel de cada membro da banca durante a defesa?,banca,llm
+Não entendi se preciso apresentar sozinho ou se meu grupo inteiro participa da defesa. Alguém pode esclarecer?,banca,llm
+Como devo cumprimentar os avaliadores e começar a defesa? Estou muito inseguro com esse momento.,banca,llm
+a banca pode fazer perguntas sobre partes que não estão no meu tcc,banca,llm
+Como entrego a versão?,deposito,llm
+o deposito final é feito pelo portal do aluno,deposito,llm
+enviei a versão definitiva e queria saber se foi recebida,deposito,llm
+Depósito da versão definitiva?,deposito,llm
+Não consigo acessar a área de entrega do TCC para depositar a versão final. Com quem falo?,deposito,llm
+Preciso protocolar o depósito?,deposito,llm
+Como posso confirmar que o depósito da versão final foi recebido corretamente?,deposito,llm
+Como envio o arquivo definitivo do meu TCC?,deposito,llm
+"Caso eu perceba um erro no arquivo depois de realizar o depósito, como posso solicitar a substituição da versão?",deposito,llm
+Quais documentos complementares preciso enviar junto com a versão final do TCC?,deposito,llm
+O depósito da versão final deve ser feito pelo estudante ou pode ser realizado pelo orientador?,deposito,llm
+qual setor recebe o tcc depois que eu envio a versão final,deposito,llm
+Meu depósito foi recusado e não entendi o motivo. O que devo fazer agora?,deposito,llm
+"Meu depósito aparece como pendente, como resolvo?",deposito,llm
+Tem como acompanhar o status do depósito?,deposito,llm
+"O sistema não tá aceitando meu arquivo, o que faço?",deposito,llm
+Aceitam arquivo digital?,deposito,llm
+Posso substituir o arquivo que já depositei?,deposito,llm
+Onde posso consultar as orientações da universidade para concluir a entrega e o depósito do TCC?,deposito,llm
+Quem confirma que meu TCC foi recebido?,deposito,llm
+"Fiz o depósito da versão final, mas notei que anexei o arquivo errado. Tem como corrigir?",deposito,llm
+Preciso substituir o PDF que depositei porque percebi um erro. Dá para enviar uma nova versão?,deposito,llm
+tem algum comprovante depois de entregar o tcc,deposito,llm
+Poderiam me informar qual é o procedimento para entregar a versão final do meu TCC após a aprovação?,deposito,llm
+"Entreguei o arquivo final, mas não apareceu nenhuma confirmação no sistema. Como verifico se foi enviado?",deposito,llm
+"Estou com a versão final pronta, mas não sei onde faço o depósito. Você pode me orientar?",deposito,llm
+"Depois de enviar o arquivo, receberei algum comprovante de entrega?",deposito,llm
+Preciso entregar a versão final por e-mail ou pelo sistema?,deposito,llm
+"Estou tentando anexar a versão final, mas o sistema não aceita o arquivo. Como posso resolver isso?",deposito,llm
+A versão definitiva deve ser enviada por algum sistema específico da universidade?,deposito,llm
+Onde deposito o TCC?,deposito,llm
+como faço o deposito da versão definitiva do trabalho,deposito,llm
+É necessário entregar uma cópia impressa do trabalho ou o depósito é feito somente em formato digital?,deposito,llm
+falou até mais,chitchat,llm
+"Tchau, fui!",chitchat,llm
+"Valeu pela companhia, estou tentando terminar esse trabalho antes do prazo.",chitchat,llm
+Haha!,chitchat,llm
+to com medo de travar na hora de apresentar o trabalho,chitchat,llm
+Mandou bem demais!,chitchat,llm
+brigadão vc salvou meu dia,chitchat,llm
+"Entendi, obrigada por me acompanhar nessa correria.",chitchat,llm
+"Que chato, esta experiência não saiu como eu esperava.",chitchat,llm
+como pode um bot ser tão gente boa,chitchat,llm
+Isso foi frustrante.,chitchat,llm
+oii bom diaa,chitchat,llm
+"Estou cansada e apreensiva, mas vou continuar tentando.",chitchat,llm
+"Ai, que correria! A faculdade resolveu juntar todos os prazos de uma vez.",chitchat,llm
+"Haha, essa foi boa!",chitchat,llm
+Muito obrigado pela atenção e pela gentileza.,chitchat,llm
+"E aí, bot, beleza?",chitchat,llm
+"Aff, que saco 😅",chitchat,llm
+hahaha essa foi boa,chitchat,llm
+"Kkkkk, minha cabeça já está em modo de fim de semestre.",chitchat,llm
+"Certo, entendi perfeitamente.",chitchat,llm
+"Ufa, só de fazer uma pausa rápida já me sinto um pouquinho melhor.",chitchat,llm
+Boa noite!,chitchat,llm
+"Kkkkk, boa essa!",chitchat,llm
+"Entendi, valeu!",chitchat,llm
+"Sinto que esta conversa ficou um pouco confusa, infelizmente.",chitchat,llm
+"Ok, vou tentar me organizar e parar de entrar em pânico.",chitchat,llm
+"Oi de novo, voltei porque estou enrolando para começar a estudar.",chitchat,llm
+"Hahaha, adorei.",chitchat,llm
+Boa tarde!,chitchat,llm
+Confesso que fiquei um pouco frustrado com esta interação.,chitchat,llm
+Obrigada por não me julgar enquanto reclamo da quantidade de tarefas.,chitchat,llm
+Agradeço de coração por ter me acompanhado nesta conversa.,chitchat,llm
+vc é mó simpatico,chitchat,llm
+que saco nada funciona direito,chitchat,llm
+"Ah, agora entendi; obrigado pela paciência.",chitchat,llm
+quem diria que um bot podia ser tão engraçado,chitchat,llm
+"Show, fechou!",chitchat,llm
+"Tchau, desejo tudo de bom para você.",chitchat,llm
+Valeu!,chitchat,llm
+"Poxa, isso foi meio chato.",chitchat,llm
+Valeu pela ajuda!,chitchat,llm
+Bom dia!,chitchat,llm
+Adorei conversar com vc.,chitchat,llm
+"Oi, chatbot, cheguei correndo porque minha aula começa em dois minutos!",chitchat,llm
+Estou rindo aqui; que situação engraçada!,chitchat,llm
+Vc é muito gente boa!,chitchat,llm
+"Boa tarde, fico feliz por passar por aqui.",chitchat,llm
+"Oii, bom dia!",chitchat,llm
+obrigadaa de coração,chitchat,llm
+Que resposta atenciosa; você foi muito gentil.,chitchat,llm
+"Boa noite, vou fechar tudo e tentar descansar antes da prova de amanhã.",chitchat,llm
+"Até mais, foi muito agradável conversar com você.",chitchat,llm
+Que chato!,chitchat,llm
+eai tudo certinho,chitchat,llm
+Até logo!,chitchat,llm
+"Obrigada, bot, você é muito gentil comigo quando estou surtando.",chitchat,llm
+Entendi.,chitchat,llm
+"Bom dia! Estou meio nervosa com a prova, mas queria passar para dar um oi.",chitchat,llm
+esse bot é um amorzinho,chitchat,llm
+ok blz,chitchat,llm
+aff hoje ta tudo dando errado,chitchat,llm
+Adorei conversar contigo!,chitchat,llm
+"Estou frustrada com essa semana cheia de provas, mas não é culpa sua.",chitchat,llm
+Kkkkk!,chitchat,llm
+Oi!,chitchat,llm
+tchauu fica bem,chitchat,llm
+"Até mais, vou tentar respirar antes de entrar na sala.",chitchat,llm
+kkkkkkkk,chitchat,llm
+Agradeço demais!,chitchat,llm
+"Tchau, preciso correr para entregar o relatório!",chitchat,llm
+"Ok, combinado.",chitchat,llm
+Não gostei disso.,chitchat,llm
+"Você é muito paciente, chatbot; eu fico repetindo as coisas quando estou ansiosa.",chitchat,llm
+"Haha, ri alto com isso, mesmo estando atrasada para estudar.",chitchat,llm
+"E aí, bot?",chitchat,llm
+bom te ver por aqui,chitchat,llm
+Esse bot tá meio lerdo hoje.,chitchat,llm
+"Olá, espero que seu dia esteja indo muito bem!",chitchat,llm
+foi mal digitei td errado,chitchat,llm
+Brigadaaa 😊,chitchat,llm
+"Bom dia, é um prazer conversar com você.",chitchat,llm
+Escolher disciplinas optativas,fora_dominio,llm
+Como faço para registrar meu estágio obrigatório no sistema da universidade?,fora_dominio,llm
+Quais são as normas pra usar a biblioteca da faculdade?,fora_dominio,llm
+Como funciona a banca de seleção pra bolsa?,fora_dominio,llm
+Qual é o horário de funcionamento da farmácia mais próxima?,fora_dominio,llm
+O cachorro está passando mal e não sei se a clínica veterinária perto de casa ainda atende. Como encontro um plantão agora?,fora_dominio,llm
+Poderia me ajudar a escolher um presente de aniversário para minha irmã?,fora_dominio,llm
+Qual o prazo pra entregar o relatório do estágio?,fora_dominio,llm
+Poderia explicar como é composta a banca de seleção do programa de intercâmbio?,fora_dominio,llm
+"Tenho que enviar um documento hoje, mas a impressora parou de funcionar e não consigo sair de casa. Que alternativa rápida posso usar?",fora_dominio,llm
+Meu celular travou,fora_dominio,llm
+O remédio acabou e a farmácia do bairro já fechou; como verifico se há outra aberta perto de mim?,fora_dominio,llm
+"Estou procurando um orientador para minha iniciação científica, mas não sei se preciso fazer o pedido pelo sistema ou por e-mail.",fora_dominio,llm
+Horário do ônibus,fora_dominio,llm
+Filme para assistir,fora_dominio,llm
+Minha internet caiu bem na hora de uma entrevista de emprego. Como posso pedir para remarcarem sem parecer desinteressado?,fora_dominio,llm
+Como faço uma reserva pra jantar hoje?,fora_dominio,llm
+Conserto de torneira,fora_dominio,llm
+Tenho dúvidas sobre o formato e as normas ABNT para um seminário da disciplina. A biblioteca oferece ajuda para revisar a apresentação?,fora_dominio,llm
+Defesa de estágio,fora_dominio,llm
+Como faço para cancelar a assinatura de um serviço de streaming?,fora_dominio,llm
+Que horas abre a farmácia aqui perto?,fora_dominio,llm
+vai ter banca pra apresentar o projeto da feira de ciencias,fora_dominio,llm
+Qual o prazo pra entregar uma encomenda nos Correios?,fora_dominio,llm
+Qual é a melhor maneira de remover uma mancha de café da camisa?,fora_dominio,llm
+Estou com uma mala acima do limite de peso e meu voo sai em poucas horas. O que posso fazer para evitar a taxa?,fora_dominio,llm
+Qual é o formato aceito para enviar documentos de matrícula?,fora_dominio,llm
+quando sai o resultado da seleção pra bolsa permanencia,fora_dominio,llm
+Como faço pra escolher um plano de celular?,fora_dominio,llm
+qual o prazo pra entregar o relatorio da iniciação cientifica,fora_dominio,llm
+alguem sabe uma receita facil de bolo de cenoura,fora_dominio,llm
+que horas passa o onibus pro centro,fora_dominio,llm
+Poderia explicar como cuidar de uma planta que está com as folhas amareladas?,fora_dominio,llm
+qual o melhor celular pra tirar fotos a noite,fora_dominio,llm
+como faço pra registrar meu estagio obrigatorio no sistema da faculdade,fora_dominio,llm
+Poderia me indicar uma receita simples para preparar o jantar?,fora_dominio,llm
+qual aplicativo é bom pra organizar as contas do mes,fora_dominio,llm
+A conta de luz veio muito mais alta este mês e o vencimento é hoje. Como peço uma revisão da cobrança?,fora_dominio,llm
+Preciso escolher um orientador pra iniciação científica?,fora_dominio,llm
+Normas da biblioteca,fora_dominio,llm
+Como faço a defesa de um recurso sobre a nota?,fora_dominio,llm
+como tiro mancha de café da minha camisa branca,fora_dominio,llm
+Poderia me sugerir um passeio econômico para fazer no fim de semana?,fora_dominio,llm
+Onde entrego os documentos pra validar minhas horas complementares?,fora_dominio,llm
+Onde encontro as normas para participar da monitoria?,fora_dominio,llm
+Como faço a matrícula nas disciplinas do próximo semestre?,fora_dominio,llm
+como peço revisão da nota da prova antes do prazo final,fora_dominio,llm
+Como faço para trocar o endereço de entrega de uma compra pela internet?,fora_dominio,llm
+Prazo de matrícula,fora_dominio,llm
+Poderia me informar a data da próxima colação de grau?,fora_dominio,llm
+"O prazo para me inscrever na monitoria termina hoje, mas não encontro o formulário no portal. Vocês sabem onde fica?",fora_dominio,llm
+tem algum modelo de relatorio pra atividade de extensão,fora_dominio,llm
+Receita de bolo,fora_dominio,llm
+Restaurante perto de casa,fora_dominio,llm
+Preciso entregar o relatório do estágio amanhã; existe um modelo oficial e quais normas de formatação devo seguir?,fora_dominio,llm
+como faço pra trocar a senha do meu email,fora_dominio,llm
+como faço pra cancelar a assinatura do streaming,fora_dominio,llm
+onde tem uma farmacia aberta agora perto daqui,fora_dominio,llm
+Como lavar tênis,fora_dominio,llm
+Qual é o melhor jeito de organizar uma mudança de apartamento?,fora_dominio,llm
+Orientador de estágio,fora_dominio,llm
+Como faço um depósito pelo aplicativo do banco?,fora_dominio,llm
+como faço pra concluir minha matricula nas materias desse semestre,fora_dominio,llm
+"Estou tentando fazer o jantar, mas o forno parou de funcionar e tenho visitas chegando. Tem algum jeito seguro de terminar a receita?",fora_dominio,llm
+Vou apresentar a defesa do meu estágio na próxima semana e estou nervoso; existe algum roteiro ou modelo de apresentação recomendado?,fora_dominio,llm
+meu cachorro nao quer comer o que eu posso fazer,fora_dominio,llm
+Previsão do tempo,fora_dominio,llm
+"Preciso pedir uma declaração de matrícula com urgência para a bolsa, mas não consigo acessar o sistema. Qual setor pode emitir o documento?",fora_dominio,llm
+Onde vejo a data de vencimento da conta de luz?,fora_dominio,llm
+Dicas de jardinagem,fora_dominio,llm
+Estou atrasado para uma consulta e o ônibus não passou; qual aplicativo mostra os horários atualizados?,fora_dominio,llm
+Perdi minha carteira no caminho para casa e tenho um compromisso cedo. Qual é o primeiro passo para bloquear os cartões?,fora_dominio,llm
+Registrar horas complementares,fora_dominio,llm
+qual o formato certo pra enviar o trabalho da disciplina no moodle,fora_dominio,llm
+Tem um modelo de currículo simples pra baixar?,fora_dominio,llm
+Poderia me informar o prazo para solicitar aproveitamento de disciplinas?,fora_dominio,llm
+"Meu prazo para renovar a matrícula termina hoje, mas o portal acadêmico está fora do ar. Com quem falo para não perder a vaga?",fora_dominio,llm
+Tem modelo de requerimento pra trancar uma matéria?,fora_dominio,llm
+Qual é o modelo de relatório exigido para a iniciação científica?,fora_dominio,llm
+Qual o formato do pedido pra revisão de nota?,fora_dominio,llm
+Conta de luz,fora_dominio,llm
+Calendário de provas,fora_dominio,llm
+Onde vejo as datas das provas finais?,fora_dominio,llm
+"Meu celular caiu na água e não liga mais. Preciso recuperar as fotos antes de amanhã, o que faço?",fora_dominio,llm
+Modelo de currículo,fora_dominio,llm
+Como ajusto as configurações de privacidade do meu celular?,fora_dominio,llm
+que presente posso comprar pra minha amiga que faz aniversario,fora_dominio,llm
+diz-me como é a geografia nesta região,fora_dominio,massive
+reserva um bilhete de comboio para lisboa,fora_dominio,massive
+algum email novo na minha caixa de entrada,fora_dominio,massive
+alguém me enviou algum email novo na última hora,fora_dominio,massive
+lê a última mensagem,fora_dominio,massive
+começa a jogar paciência spider,fora_dominio,massive
+o que posso fazer com portátil,fora_dominio,massive
+verifica o nome da música atual,fora_dominio,massive
+tweet para a conta de atendimento ao cliente da starbucks,fora_dominio,massive
+fazer uma marcação no próximo sábado às cinco na biblioteca e criar um lembrete,fora_dominio,massive
+podes pôr uma música de dance music,fora_dominio,massive
+mostra me a temperatur a mais alta esta semana,fora_dominio,massive
+remove a agenda de quarta-feira,fora_dominio,massive
+configurar uber,fora_dominio,massive
+por favor não fales durante as próximas duas horas,fora_dominio,massive
+diz me o tempo na cidade de aveiro,fora_dominio,massive
+vai estar de chuva mais tarde,fora_dominio,massive
+desligar as luzes na sala de estar,fora_dominio,massive
+arquivar as minhas mensagens lidas,fora_dominio,massive
+define o meu alarme para as sete da manhã,fora_dominio,massive
+o que há para fazer em braga,fora_dominio,massive
+divide duzentos por quatro,fora_dominio,massive
+qual a força do dólar em comparação com o peso,fora_dominio,massive
+avisem-me se a linda publicar algo no meu facebook hoje,fora_dominio,massive
+há alguma zona em obras na nacional dois,fora_dominio,massive
+mostrar me quaisquer emails recebidos na última hora,fora_dominio,massive
+devo vestir o casaco de chuva antes de sair,fora_dominio,massive
+olly como vai ser o tempo esta semana,fora_dominio,massive
+mostra me restaurantes tailandeses perto de mim,fora_dominio,massive
+põe esta fotografia no meu instagram,fora_dominio,massive
+como é feito o ferro,fora_dominio,massive
+aumenta a intensidade das luzes,fora_dominio,massive
+mostra me as lojas que há na zona,fora_dominio,massive
+quanto é que a rupia indiana vai contra o dólar dos eua,fora_dominio,massive
+adicionar ao meu calendário jantar de moda da mãe para cinco de maio,fora_dominio,massive
+como cozinho almôndegas,fora_dominio,massive
+eu tenho alguma mensagem nova na caixa de entrada,fora_dominio,massive

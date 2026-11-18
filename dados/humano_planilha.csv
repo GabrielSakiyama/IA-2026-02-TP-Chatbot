@@ -1,0 +1,90 @@
+texto,intencao,origem,autor
+Como inicio meu TCC?,inicio_tcc,humano,Zullaê
+Estou no meu último semestre ja posso começar a fazer o TCC?,inicio_tcc,humano,Zullaê
+Como faço o registro do meu TCC no Siscad? Vc pode me ajudar?,inicio_tcc,humano,Zullaê
+Posso escolher quem como orientador?,orientador,humano,Zullaê
+Um professor de outro curso pode me orientar?,orientador,humano,Zullaê
+COmo troco de Orienttador?,orientador,humano,Zullaê
+QUal o prazo para defender para formar nesse semestre?,prazos,humano,Zullaê
+qual antecedencia para mandar pra banca,prazos,humano,Zullaê
+e se eu perder o prazo... oq acontece?,prazos,humano,Zullaê
+PRECISA MSM SEGUIR ABNT?,formatacao,humano,Zullaê
+pode esccrever em inglês ?,formatacao,humano,Zullaê
+tem moldelo em latex?,formatacao,humano,Zullaê
+qual eh o número de pessoas da banca?,banca,humano,Zullaê
+quanto tempo dura a apresentacao,banca,humano,Zullaê
+a defesa é aberta?,banca,humano,Zullaê
+oq acontece se eu reporvar?,banca,humano,Zullaê
+onde eu entrego a versao final?,deposito,humano,Zullaê
+pewcisa anexa no siccad?,deposito,humano,Zullaê
+onde fica publicado o traabalhoo?,deposito,humano,Zullaê
+precisa corrigir o que a banca pediu antes de entregar?,deposito,humano,Zullaê
+passei e agora?,deposito,humano,Zullaê
+olá chatbot!,chitchat,humano,Zullaê
+Eai,chitchat,humano,Zullaê
+Muito Obrigado!!,chitchat,humano,Zullaê
+Valeuuu,chitchat,humano,Zullaê
+até mais!,chitchat,humano,Zullaê
+"tchau, obg",chitchat,humano,Zullaê
+vc é um robo?,chitchat,humano,Zullaê
+kkkk ajudou muito vlw,chitchat,humano,Zullaê
+Quem pode ser meu orientador de estagio?,fora_dominio,humano,Zullaê
+Qual cardapio do RU?,fora_dominio,humano,Zullaê
+qual o prazo para devolver um livro da biblioteca?,fora_dominio,humano,Zullaê
+qual a carga horário do meu curso Engenharia de Software?,fora_dominio,humano,Zullaê
+qual a carga horaria do estagio?,fora_dominio,humano,Zullaê
+quando abre o edital de IC?,fora_dominio,humano,Zullaê
+qual o relatorio da bolsa de IC da facom,fora_dominio,humano,Zullaê
+qual a data de colacao de grau?,fora_dominio,humano,Zullaê
+como posso trancar meu curso?,fora_dominio,humano,Zullaê
+posso ver meu historico escolar?,fora_dominio,humano,Zullaê
+posso ver se minha matriccula esta ativa?,fora_dominio,humano,Zullaê
+como eu arrumo o wifi eduroam que não conecta?,fora_dominio,humano,Zullaê
+esqueci minha senha do email instucional,fora_dominio,humano,Zullaê
+quem ganhou o jogo do flamengo ontem?,fora_dominio,humano,Zullaê
+Vc consegue me dizzer quando é o jogo da seleçao brasileira?,fora_dominio,humano,Zullaê
+vai chover hj?,fora_dominio,humano,Zullaê
+qnd devo comecar o tcc,inicio_tcc,humano,Gabriel
+o q preciso pra cadastrar o tcc,inicio_tcc,humano,Gabriel
+posso apresentar o tcc antes da colacao ?,prazos,humano,Gabriel
+em qual semestre posso iniciar o tcc,inicio_tcc,humano,Gabriel
+tenho que ter tema em mente ,inicio_tcc,humano,Gabriel
+como comecar o tcc,inicio_tcc,humano,Gabriel
+quem eu preciso falar pra saber o que fazer no tcc ?,inicio_tcc,humano,Gabriel
+qnd posso comecar o trabalho de conclusao de curso,inicio_tcc,humano,Gabriel
+onde registro o tema do tcc ,inicio_tcc,humano,Gabriel
+orientador fora da universidade,orientador,humano,Gabriel
+orientador fora da minha instituicao ?,orientador,humano,Gabriel
+como escolho que vai me orientar,orientador,humano,Gabriel
+posso ter mais de um orientador ?,orientador,humano,Gabriel
+quem pode me ajudar no tcc,orientador,humano,Gabriel
+qnd entrego o trabalho,prazos,humano,Gabriel
+posso estender o tempo de entrega do trabalho,prazos,humano,Gabriel
+quem converso pra extender o prazo,prazos,humano,Gabriel
+mudar o prazo de entrega do trabalho,prazos,humano,Gabriel
+posso receber mudanca de tema do tcc,inicio_tcc,humano,Gabriel
+q norma devo seguir,formatacao,humano,Gabriel
+o q faco pra formatar,formatacao,humano,Gabriel
+tem template pronto pra ser usado,formatacao,humano,Gabriel
+como funciona a referencia,formatacao,humano,Gabriel
+tenho que usar a abnt,formatacao,humano,Gabriel
+recebo algo que comprove que entreguei o meu trabalho ?,deposito,humano,Gabriel
+alguem fora da univeridade pode estar na banca,banca,humano,Gabriel
+não deu certo de enviar o trabalho. o q faco,deposito,humano,Gabriel
+escolho quem vai analisar a apresentacao,banca,humano,Gabriel
+qualquer um pode ver a defesa ?,banca,humano,Gabriel
+Onde q envio o trabalho ,deposito,humano,Gabriel
+deu errado o envio. Pq,deposito,humano,Gabriel
+Onde coloco o tabalho definitivo,deposito,humano,Gabriel
+pra quem eu dou o trabalho,deposito,humano,Gabriel
+posso trocar o arquivo,deposito,humano,Gabriel
+"salve, mane",chitchat,humano,Gabriel
+como ce ta ,chitchat,humano,Gabriel
+td bem ?,chitchat,humano,Gabriel
+obg,chitchat,humano,Gabriel
+vlw,chitchat,humano,Gabriel
+carga horaria complementar,fora_dominio,humano,Gabriel
+como dilatar o prazo de conclusão do curso,fora_dominio,humano,Gabriel
+hora que passa o busao,fora_dominio,humano,Gabriel
+q horas abre o RU,fora_dominio,humano,Gabriel
+qual a porcentagem de falta que posso ter nas materias,fora_dominio,humano,Gabriel
