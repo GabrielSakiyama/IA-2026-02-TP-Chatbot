@@ -48,6 +48,7 @@
 | 26 | Passagem para o Zullaê | Escreveu a página de continuação publicada no claude.ai (situação, decisões do grupo, o que falta em ordem, números para o artigo, exemplos para o vídeo e cuidados) e o esboço de código do aprofundamento A1 (classificador único × cascata nas mesmas divisões da validação cruzada), testado na base de 18/11 | pedido do Natan antes de encerrar o dia | A PREENCHER (grupo): o que foi aproveitado do esboço do A1 |
 | 27 | Dados de treino (rodada de negativos) | Propôs situações por tema (mestrado, estágio, IC, secretaria etc.) para guiar a escrita de 40 negativos difíceis, sem escrever as frases; conferiu rótulos, ambiguidades e repetição com o treino e o teste; comparou o falso aceite antes e depois | “me ajude com dicas” | As 40 frases foram escritas pelo Zullaê; 2 foram reescritas após a revisão |
 | 28 | Escopo do bot | Apontou que o contato e a resposta de formatação eram específicos da FACOM e sugeriu os textos para generalizar para a UFMS | “a ideia do chatbot não é ser para a UFMS inteira?” | O grupo decidiu atender a UFMS inteira e aplicou os 4 ajustes |
+| 29 | Análise (Discussão) | Comparou o classificador de escopo treinado com e sem os 40 negativos difíceis, avaliando os dois nas mesmas partições de validação cruzada (5 folds × 5 sementes, só com frases anteriores à rodada), e redigiu uma sugestão de parágrafo e tabela para o artigo | “com esses 40 negativos o modelo piorou ou melhorou?” | O grupo conferiu os números e adaptou o texto do artigo |
 
 ## 3. O que NÃO foi feito com IA
 
