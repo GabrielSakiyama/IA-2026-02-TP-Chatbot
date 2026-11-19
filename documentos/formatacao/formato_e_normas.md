@@ -1,6 +1,7 @@
 # Formato, modelo e normas do texto do TCC
 
 Guia escrito pelo grupo com base na Resolução nº 595-Cograd/UFMS (arts. 2º e 7º) e no Manual de Apoio ao TCC da FACOM.
+As regras de formato e idioma valem para todos os cursos da UFMS. Modelo, normas e número de páginas são definidos pelo Projeto Pedagógico de cada curso; as recomendações abaixo são as da FACOM. Alunos de outras unidades devem confirmar com o orientador ou a Coordenação do curso.
 
 ## Em que formato posso entregar o TCC?
 

@@ -43,7 +43,7 @@ llm:
     tratando o estudante por "você". Responda apenas com base nos trechos dos
     documentos oficiais; se a informação não estiver neles, diga que não sabe e
     indique o contato.
-  contato: "a Coordenação do seu curso ou o e-mail da FACOM: facom@ufms.br"
+  contato: "o seu orientador ou a Coordenação do seu curso"
   max_frases: 3
   turnos_historico: 3
 
@@ -89,9 +89,10 @@ intencoes:
     descricao: "formato, modelo e normas do texto"
     resposta: >
       O TCC pode ser monografia, relatório técnico, artigo ou portfólio, em português,
-      inglês ou espanhol (nesses dois casos, com resumo em português). Na FACOM não há
-      modelo obrigatório: são recomendados os modelos SBC, IEEE ou ACM, e as normas
-      ABNT são opcionais.
+      inglês ou espanhol (nesses dois casos, com resumo em português). O modelo e as
+      normas do texto dependem do Projeto Pedagógico do seu curso: confirme com o seu
+      orientador. Na FACOM, por exemplo, não há modelo obrigatório e são recomendados
+      os modelos SBC, IEEE ou ACM.
   banca:
     descricao: "banca avaliadora e defesa"
     resposta: >

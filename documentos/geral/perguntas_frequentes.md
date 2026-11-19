@@ -24,5 +24,5 @@ O TCC é encerrado com a situação "não cumprida" em três casos: quando a ori
 
 ## Com quem falo se a minha dúvida não estiver aqui?
 
-Procure o seu orientador ou a Coordenação do seu curso. O e-mail geral da FACOM é facom@ufms.br, com atendimento de segunda a sexta, das 7h às 11h e das 13h às 17h. A Coordenação de Gestão Acadêmica da FACOM atende pelo e-mail coac.facom@ufms.br e pelo telefone (67) 3345-7841.
+Procure o seu orientador ou a Coordenação do seu curso. Cada curso da UFMS tem a sua coordenação, responsável por registrar o resultado do TCC no Siscad.
 
