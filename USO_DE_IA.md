@@ -50,6 +50,7 @@
 | 28 | Escopo do bot | Apontou que o contato e a resposta de formatação eram específicos da FACOM e sugeriu os textos para generalizar para a UFMS | “a ideia do chatbot não é ser para a UFMS inteira?” | O grupo decidiu atender a UFMS inteira e aplicou os 4 ajustes |
 | 29 | Análise (Discussão) | Comparou o classificador de escopo treinado com e sem os 40 negativos difíceis, avaliando os dois nas mesmas partições de validação cruzada (5 folds × 5 sementes, só com frases anteriores à rodada), e redigiu uma sugestão de parágrafo e tabela para o artigo | “com esses 40 negativos o modelo piorou ou melhorou?” | O grupo conferiu os números e adaptou o texto do artigo |
 | 30 | Aprofundamento A1 | Corrigiu o código do A1 da página do Natan (operadores e linhas cortados na conversão para PDF), acrescentou o GridSearch do C do classificador único e a falsa recusa, testou com o treino novo, conferiu a diferença fold a fold e sugeriu o texto da análise | “aqui a cont do Natan”; “rodou, verifique” | O grupo rodou no notebook, conferiu os números e adaptou o texto |
+| 31 | Avaliação final (Passo 14) | Leu os resultados do teste, comparou com a validação cruzada e cruzou as previsões com a coluna autor do teste (erros por autor e por tipo de erro) | “olhe o que foi feito agora e me de um parecer sobre a avaliação final” | O grupo conferiu os números; nada foi alterado depois da avaliação |
 
 ## 3. O que NÃO foi feito com IA
 
