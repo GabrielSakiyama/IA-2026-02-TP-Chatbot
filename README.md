@@ -1,3 +1,128 @@
+# ChatBot TCC — Brunao
+
+Trabalho prático de Inteligência Artificial (FACOM/UFMS, 2026/2, prof. Bruno Nogueira).
+
+**Grupo:** Gabriel Yukihiro, Natan da Rocha Ramalho e Zullaê Ramos de Freitas Ramires.
+
+O Brunao é um chatbot que tira dúvidas de alunos da UFMS sobre o TCC: como começar, orientador, prazos, banca, formatação e entrega da versão final. Ele usa dois classificadores que a gente treinou para decidir **se** deve responder e **sobre o quê**, e depois busca a resposta nos documentos oficiais e pede para um LLM escrever o texto.
+
+---
+
+## O que o bot entende
+
+| Intenção | Sobre o quê |
+|---|---|
+| `inicio_tcc` | como começar e registrar o TCC, TCC em grupo |
+| `orientador` | quem pode orientar, como escolher, trocar |
+| `prazos` | até quando defender, antecedência, prorrogação |
+| `formatacao` | modelo, normas, idioma, número de páginas |
+| `banca` | quem participa, como é a defesa, aprovação |
+| `deposito` | versão final, Siscad, Repositório Institucional |
+
+Além disso, ele reconhece conversa social (`chitchat`, tipo "oi", "valeu") e recusa o que não é de TCC (`fora_dominio`, tipo estágio, RU, mestrado).
+
+---
+
+## Decisões que a gente tomou
+
+| Assunto | Decisão | Por quê |
+|---|---|---|
+| Público | Alunos da UFMS inteira | As regras gerais vêm da Resolução 595-Cograd/UFMS, que vale para todos os cursos. Formatação usa o manual da FACOM como exemplo, porque cada curso pode ter as suas normas. |
+| Classificador de escopo | Regressão logística, TF-IDF de caracteres (2 a 4), C = 10, `class_weight="balanced"` | Empatou com a rede neural (MLP), mas é mais simples e dá para entender. |
+| Classificador de tema | Regressão logística, TF-IDF de caracteres (2 a 5), C = 10 | Empatou com C = 1000, mas as probabilidades separam melhor os acertos dos erros. |
+| Limiar do tema | 0,35 | Na validação cruzada, evita 11 dos 24 erros e só 6 acertos viram pergunta. |
+| Erro mais grave | Falso aceite | Responder com confiança sobre outro assunto confunde o aluno. Por isso fizemos uma rodada extra de 40 negativos difíceis. |
+| Aprofundamento | A1: cascata × classificador único | O único foi melhor na validação (F1 0,880 × 0,859), mas o bot entregue é a cascata, por causa do contrato do código. A análise está no notebook, seção 6b. |
+| Persona | Brunao, da Universidade dos Desesperados | Proposital |
+
+---
+
+## Dados
+
+- **Treino (`dados/treino.csv`): 590 frases.** 173 escritas por nós (29%), 380 geradas pelo LLM e revisadas uma por uma, e 37 da base MASSIVE. Esse arquivo é **gerado** pelo `scripts/montar_treino.py`, então não edite ele na mão.
+- **Teste (`dados/teste.csv`): 185 frases, todas escritas por pessoas.** 166 vieram de um formulário respondido por 19 pessoas de fora do grupo, e 19 foram escritas pelo grupo para completar os mínimos. Nenhuma frase do teste está no treino.
+- **Base de conhecimento (`documentos/`): 9 documentos.** A Resolução 595-Cograd/UFMS, o manual de TCC da FACOM e 7 guias que a gente escreveu a partir deles. A origem de cada um está em `documentos/FONTES.md`.
+
+---
+
+## Resultados no teste
+
+| Nível | F1 macro |
+|---|---|
+| Escopo (1º estágio) | 0,858 |
+| Tema (2º estágio) | 0,907 |
+| **Ponta a ponta** | **0,826** |
+
+Falso aceite de 5,5%, falsa recusa de 10,7% e 4,9% de esclarecimentos. Todos os erros vieram das frases do formulário; as frases escritas pelo grupo foram 100% acertadas. Os detalhes estão em `resultados/avaliacao.json` e `resultados/avaliacao_previsoes.csv`.
+
+---
+
+## Como rodar
+
+**Importante:** no Windows, use o **Python 3.12 ou 3.13**. Com o 3.14 ou 3.15, algumas bibliotecas não instalam (pedem o Visual C++).
+
+### Windows (PowerShell)
+
+```powershell
+git clone https://github.com/GabrielSakiyama/IA-2026-02-TP-Chatbot.git
+cd IA-2026-02-TP-Chatbot
+py -3.13 -m venv .venv
+.venv\Scripts\activate
+python -m pip install -r requirements.txt
+copy .env.exemplo .env
+```
+
+### Linux / macOS
+
+```bash
+git clone https://github.com/GabrielSakiyama/IA-2026-02-TP-Chatbot.git
+cd IA-2026-02-TP-Chatbot
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.exemplo .env
+```
+
+Depois, abra o `.env` e coloque a chave do OpenRouter na linha `OPENROUTER_API_KEY=sk-or-v1-...`. **A chave nunca vai para o Git.** Sem a chave o bot funciona igual, só que com as respostas fixas do `grupo.yaml`.
+
+### Passo a passo
+
+```bash
+python scripts/montar_treino.py --fora 190   # monta o treino a partir das fontes
+jupyter lab                                  # abrir notebooks/01_trabalho_grupo.ipynb e rodar tudo
+python scripts/avaliar.py                    # avaliação no teste
+python scripts/conversar.py --depurar        # conversar com o bot
+python scripts/verificar_entrega.py          # conferir a entrega
+```
+
+Para rodar o notebook do início ao fim: **Kernel → Restart Kernel and Run All Cells** (uns 5 minutos). A seção 8 usa o LLM e gasta centavos de crédito.
+
+---
+
+## Onde está cada coisa
+
+| Pasta / arquivo | O que tem |
+|---|---|
+| `grupo.yaml` | Configuração do bot: intenções, respostas fixas, persona, limiar |
+| `dados/` | Treino, teste, frases humanas (`humano_*.csv`), frases do LLM e prompts |
+| `documentos/` | Base de conhecimento do RAG + `FONTES.md` |
+| `modelos/` | Classificadores treinados (`escopo.joblib`, `tema.joblib`) |
+| `notebooks/01_trabalho_grupo.ipynb` | Notebook do grupo, executado do início ao fim |
+| `resultados/` | Avaliação final no teste |
+| `relatorio/relatorio.pdf` | Artigo no formato SBC |
+| `LINKS.txt` | Link do vídeo |
+| `USO_DE_IA.md` | Todo o uso de IA generativa no trabalho |
+
+---
+
+## Uso de IA
+
+A gente usou IA em várias partes do trabalho (geração de frases, revisão, código do notebook, documentos e o próprio LLM do bot). Tudo está declarado no [`USO_DE_IA.md`](USO_DE_IA.md) e na seção própria do artigo.
+
+ ---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 # Trabalho Prático de IA (2026/2): chatbot com classificação de intenções e RAG
 
 **Inteligência Artificial · Graduação · FACOM/UFMS · Prof. Bruno Nogueira**
