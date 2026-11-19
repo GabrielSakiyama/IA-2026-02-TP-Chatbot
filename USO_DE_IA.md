@@ -42,6 +42,7 @@
 | 20 | Comparação de algoritmos (Passo 9) | Acrescentou ao notebook a representação TF-IDF de palavras sem palavras vazias (lista própria, mantendo as palavras de pergunta) e os classificadores KNN e Naive Bayes; rodou a comparação do classificador de escopo (15 combinações, validação cruzada com 5 folds) e explicou os resultados, incluindo a matriz de confusão do Naive Bayes | Natan pediu para acrescentar as variações sugeridas | A PREENCHER (Natan) |
 | 21 | Ajuste do escopo (Passo 10) | Escreveu no notebook a grade do `GridSearchCV` (C de 0,01 a 1000, `class_weight` e tamanho dos n-gramas), a célula da curva de validação e o texto que registra a escolha do grupo; rodou e explicou os resultados | Natan escolheu a regressão logística ("vai no mais simples") entre os dois modelos empatados | A PREENCHER (Natan) |
 | 22 | Conferência do teste (Passo 6) | Conferiu o `dados/teste.csv` do Zullaê com as funções do código-base: formato, mínimos por classe e ausência de frases do treino (vazamento); o conteúdo não foi usado para escolher modelos | pedido para ver o commit do Zullaê | A PREENCHER (Natan) |
+| 23 | Erros do escopo (Passo 11) | Completou a célula de análise de erros do notebook (taxas de falso aceite e falsa recusa, erros por origem), rodou e agrupou os erros por tipo para discussão | pedido para fazer o Passo 11 junto | Natan decidiu que o falso aceite é o erro mais grave no bot de TCC: responder com confiança sobre outro assunto confunde o usuário e pode causar erros graves |
 
 ## 3. O que NÃO foi feito com IA
 
