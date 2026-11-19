@@ -1,1 +1,186 @@
-texto,intencao,origem
+texto,intencao,origem,autor
+me mostre passo a passo como fazer meu TCC?,inicio_tcc,humano,Zullaê
+Como comeco a me inscrever no TCC?,inicio_tcc,humano,Zullaê
+"Olá, vou iniciar meu TCC como faço?",inicio_tcc,humano,Zullaê
+"Bom dia, me mostre como começo meu tcc",inicio_tcc,humano,Zullaê
+Me ajude a iniciar no meu TCC,inicio_tcc,humano,Zullaê
+Como eu acompanho o edital de uma IC?,fora_dominio,humano,Zullaê
+Qual o valor da bolsa de uma IC?,fora_dominio,humano,Zullaê
+Qual serviços a TI da ufms prestam?,fora_dominio,humano,Zullaê
+Esqueci minha senha do meu email me ajude,fora_dominio,humano,Zullaê
+O RU fecha qual horario no sabado?,fora_dominio,humano,Zullaê
+Qual o prazo de devolução dos livros na biblioteca?,fora_dominio,humano,Zullaê
+como eu tranco minha matricula?,fora_dominio,humano,Zullaê
+qual o prazo da matricula desse semestre?,fora_dominio,humano,Zullaê
+como eu vejo o meu historico escolar?,fora_dominio,humano,Zullaê
+"obrigado, tchau",chitchat,humano,Zullaê
+ajudou muito,chitchat,humano,Zullaê
+fechou,chitchat,humano,Zullaê
+tamo junto,chitchat,humano,Zullaê
+Boa tarde chatbot,chitchat,humano,Zullaê
+como devo iniciar meu tcc ?,inicio_tcc,humano,formulario
+Eu não faco ideia de como escolhr o orientaddur me ajuda a escolher,orientador,humano,formulario
+ate q dia eu posso iniciar meu tcc e entregar o trabalho,prazos,humano,formulario
+como funciona a defesa do tcc ?,banca,humano,formulario
+o q é formatacao e como devo responder seguindo as ormas necessarias,formatacao,humano,formulario
+entreguei o tcc o q faco agr ?,deposito,humano,formulario
+quais os tipos de trabalgo de tcc q posso fazer ?,formatacao,humano,formulario
+em que semestre posso comecar o estagio ?,fora_dominio,humano,formulario
+eae mane ? como que ce ta ?,chitchat,humano,formulario
+"Quanto tempo, mais ou menos, daria para concluir um TCC?",prazos,humano,formulario
+E qual idioma você gostaria que sua apresentação/trabalho fosse compartilhado?,formatacao,humano,formulario
+Onde você mais gostaria de entregar o que foi apresentado do TCC?,deposito,humano,formulario
+Qual estágio mais gostou de trabalhar? O que mais gostou de curso inteiro?,fora_dominio,humano,formulario
+Okay.,chitchat,humano,formulario
+Muito obrigada!,chitchat,humano,formulario
+Tchau-tchau,chitchat,humano,formulario
+O quê devo considerar ao escolher o orientador para o TCC?,orientador,humano,formulario
+"Quanto tempo antes da data final, posso entregar meu TCC?",prazos,humano,formulario
+Como acontece a apresentação do TCC?,banca,humano,formulario
+Qual o número de páginas ideal para um TCC?,formatacao,humano,formulario
+"Se aprovado, o que vem depois?",deposito,humano,formulario
+Se eu não for aprovado o que devo fazer?,banca,humano,formulario
+O quê é preciso pra fazer estágio?,fora_dominio,humano,formulario
+Quando ocorre a matrícula da UFMS?,fora_dominio,humano,formulario
+"Olá, como inicio o TCC?",inicio_tcc,humano,formulario
+Como posso escolher o orientador? Como troco ele? Quem pode me orientar?,orientador,humano,formulario
+Qual é o prazo de entrega do TCC?,prazos,humano,formulario
+Como funciona a apresentação e quanto tempo dura?,banca,humano,formulario
+Qual é o time de formatação do TCC?,formatacao,humano,formulario
+Onde eu entrego o meu TCC depois de terminado?,deposito,humano,formulario
+A apresentação do meu TCC pode ser aberta ao público?,banca,humano,formulario
+Qual é o cardápio do RU hoje?,fora_dominio,humano,formulario
+Como eu entro em um projeto de iniciação científica?,fora_dominio,humano,formulario
+"Valeu, até mais.",chitchat,humano,formulario
+Qual a estrutura que devo seguir de TCC?,formatacao,humano,formulario
+Quais os orientadores disponíveis na área do meu curso?,orientador,humano,formulario
+Existe como prorrogar a entrega do TCC? Por questões de saúde,prazos,humano,formulario
+Qual o tempo máximo para a apresentação para a banca?,banca,humano,formulario
+Existe um modelo a se seguir? Em relação a fontes e formatação?,formatacao,humano,formulario
+Como concluir o curso depois do TCC aprovado?,deposito,humano,formulario
+O aplicativo de rastreamento do businho está travado! Como eu sei que ele está funcionando?,fora_dominio,humano,formulario
+"Olá, vamos falar sobre meu tcc",chitchat,humano,formulario
+Valeuu,chitchat,humano,formulario
+Como é escolhido o orientador,orientador,humano,formulario
+Quando começa a fazer o TCC,inicio_tcc,humano,formulario
+Quem avalia o TCC,banca,humano,formulario
+Tem formato padrão para TCC?,formatacao,humano,formulario
+Depois de aprovado ele é publicado?,deposito,humano,formulario
+Como ver o cardápio semanal do RU?,fora_dominio,humano,formulario
+Obrigado CHATBOT,chitchat,humano,formulario
+Olá desejo começar meu TCC,inicio_tcc,humano,formulario
+Gostaria de saber qual orientador devo pegar? Qual está com maior tempo disponível,orientador,humano,formulario
+Qual é o prazo do tcc? Existem extensões?,prazos,humano,formulario
+A banca vai ter quantas pessoas?,banca,humano,formulario
+Mantenho em português ou inglês?,formatacao,humano,formulario
+Preciso de um requerimento para entregar?,deposito,humano,formulario
+Qual é o custo do Ru? Como posso utiliza-lo da forma mais barata?,fora_dominio,humano,formulario
+Qual é o valor das bolsas de mestrado e Doutorado?,fora_dominio,humano,formulario
+Olá QWEN,chitchat,humano,formulario
+Obrigado QWEN,chitchat,humano,formulario
+qualquer professor pode ser orientador,orientador,humano,formulario
+qual o prazo de entrega de um tcc?,prazos,humano,formulario
+como é feita a avaliação do tcc,banca,humano,formulario
+qual o modelo do artigo que devo utilizar,formatacao,humano,formulario
+como posso conseguir uma bolsa de pesquisa?,fora_dominio,humano,formulario
+quando começa o processo de rematricula,fora_dominio,humano,formulario
+"eae, tudo certo?",chitchat,humano,formulario
+Quais são os primeiros passos para fazer o TCC?,inicio_tcc,humano,formulario
+Como escolher um orientador entre vários professores de uma mesma área?,orientador,humano,formulario
+Quais são as principais datas e prazos para o TCC?,prazos,humano,formulario
+Como me preparar para a defesa do TCC?,banca,humano,formulario
+Como usar o Latex para iniciantes?,formatacao,humano,formulario
+Quais são os principais pontos para prestar atenção na hora da correção do texto para entrega para a versão final do TCC?,deposito,humano,formulario
+Como funciona o TCC em grupo?,inicio_tcc,humano,formulario
+Como funciona a iniciação científica em grupo?,fora_dominio,humano,formulario
+Quais são as principais datas e prazos do calendário acadêmico?,fora_dominio,humano,formulario
+Como iniciar o meu tcc sobre o seguinte tem: tema_tcc?,inicio_tcc,humano,formulario
+Como eu posso trocar de orientador?,orientador,humano,formulario
+"Segunda as regras de data de entrega, quais motivos podem me ajudar a pedir para prorrogar o tempo",prazos,humano,formulario
+Quanto tempo eu tenho para defender minha tese?,prazos,humano,formulario
+Qual o padrão ABNT para palavras em outros idiomas,formatacao,humano,formulario
+Quais são as orientações para entrega o meu tcc,deposito,humano,formulario
+Qual a estrutura de um TCC,formatacao,humano,formulario
+Qual o cardápio do RU hoje?,fora_dominio,humano,formulario
+Como receber o auxílio permanência da UFMS?,fora_dominio,humano,formulario
+"Olá, pode me ajudar sobre o tema do tcc? Por favor",chitchat,humano,formulario
+Obrigado pela ajuda!,chitchat,humano,formulario
+como faço pra começar o tcc? tem q fazer alguma inscrição ou matéria antes?,inicio_tcc,humano,formulario
+qm pode ser orientador? posso escolher qqr professor do departamento?,orientador,humano,formulario
+qual o prazo final pra entrega do tcc esse semestre? da pra pedir prorrogação se eu atrasar?,prazos,humano,formulario
+como funciona a defesa? qm fica na banca e qnto tempo dura a apresentação?,banca,humano,formulario
+onde acho o modelo de formatação da facom? tem q seguir a abnt certinho?,formatacao,humano,formulario
+"passei na banca, e agora? onde eu entrego a versão final corrigida?",deposito,humano,formulario
+da pra trancar o tcc se eu não conseguir terminar a tempo?,prazos,humano,formulario
+quando abre o edital pra estágio obrigatório?,fora_dominio,humano,formulario
+como faço pra se inscrever no restaurante universitário (ru)?,fora_dominio,humano,formulario
+"eai, blz?",chitchat,humano,formulario
+vlw pela ajuda!,chitchat,humano,formulario
+Como eu me inscrevo do tcc?,inicio_tcc,humano,formulario
+"Estou com duvida, gostaria de fazer um trbaalho de protocolos de roteamento, qual professor da ufms, do curso de engenharia de software posso escolher?",orientador,humano,formulario
+Quanto tempo normalmente dura a apresentacao? É fechada? Como funciona a banca?,banca,humano,formulario
+Tenho que seguir algum tipo de modelo de relatorio? tem algum site da universidade que disponibiliza isso?,formatacao,humano,formulario
+"depois como sei que sou aprovado, é pela banca na apresentacao?",banca,humano,formulario
+Sou obrigado a apresentar o tcc presencial?,banca,humano,formulario
+eu posso levar pessoa de fora para comer no ru? eles pagam a mais?,fora_dominio,humano,formulario
+estou com uma duvida,chitchat,humano,formulario
+Como fazer Tcc,inicio_tcc,humano,formulario
+Quem orienta tcc?,orientador,humano,formulario
+Quando é a entrega do tcc?,prazos,humano,formulario
+Quais as regras de formatação do tcc?,formatacao,humano,formulario
+Como entregar o tcc,deposito,humano,formulario
+Como funciona o Ru?,fora_dominio,humano,formulario
+Qual o Estágio do meu curso,fora_dominio,humano,formulario
+agradeço,chitchat,humano,formulario
+"Como funciona o processo de escolha e atribuição do orientador, e é possível solicitar a troca depois?",orientador,humano,formulario
+Quais são as datas-limite do cronograma do TCC para este semestre e existe possibilidade de prorrogação de prazo?,prazos,humano,formulario
+Como é formada a banca examinadora e quais são as regras de tempo e estrutura para a apresentação da defesa?,banca,humano,formulario
+Qual é o modelo oficial e quais normas (como ABNT e limite de páginas) devem ser seguidas na formatação do trabalho?,formatacao,humano,formulario
+Quais são os procedimentos e o local de entrega da versão final do TCC após a aprovação na banca?,deposito,humano,formulario
+Qual é o procedimento para validar horas complementares de estágio obrigatório?,fora_dominio,humano,formulario
+Como faço para me inscrever nos editais de bolsas de iniciação científica?,fora_dominio,humano,formulario
+Poderia me ajudar com as dúvidas sobre o TCC?,chitchat,humano,formulario
+"Muito obrigado pela ajuda, até logo!",chitchat,humano,formulario
+Como escolher um orientador que mais pensa igual a mim,orientador,humano,formulario
+teria como me dar mais dias para a entrega?,prazos,humano,formulario
+"A defesa será de 25 minutos, como organizo o roteiro para esse tempo?",banca,humano,formulario
+tem como arruma as normas para mim?,formatacao,humano,formulario
+Onde entrego a versão final do meu TCC para conclusão do mesmo?,deposito,humano,formulario
+Como o RU poderia ser melhor para os estudantes com cadunico?,fora_dominio,humano,formulario
+Por que o RU não ouve muitos alunos que sempre reclamam?,fora_dominio,humano,formulario
+Obrigado por me ajudar.,chitchat,humano,formulario
+Adeus.,chitchat,humano,formulario
+"De qual área um orientador poderá melhor me ajudar nesse trabalho? Um que mexa com inteligência artificial com indústria, etc.?",orientador,humano,formulario
+"Quais são os prazos de entrega para o pré-projeto, para a realização da entrevista presencial de coleta de informações, e para a entrega de relatórios de progressão do trabalho?",prazos,humano,formulario
+Qual é a composição da banca e quais as exigências da apresentação?,banca,humano,formulario
+Quais são os elementos que precisam estar na capa e na contracapa? Qual é o espaçamento da fonte no trabalho? Hifenização pode ser utilizada?,formatacao,humano,formulario
+Como posso fazer uma revisão abrangente para eliminar quaisquer erros antes de entregar o trabalho?,deposito,humano,formulario
+Onde posso submeter o trabalho?,deposito,humano,formulario
+Qual o melhor formato para o trabalho?,formatacao,humano,formulario
+As legendas de figuras e tabelas ficam acima ou abaixo delas? Deve haver um índice só para figuras?,formatacao,humano,formulario
+Peguei 10 matérias que eu claramente não precisaria e não quero comprometer as demais. Eu consigo trancar algumas delas seletivamente ao invés de trancar todo o curso?,fora_dominio,humano,formulario
+Como faço para conseguir algum estágio remunerado ou bolsa dentro da UFMS para bancar meu período de estudos?,fora_dominio,humano,formulario
+"Olá, obrigado pela atenção.",chitchat,humano,formulario
+As relaçoes sociais entre alunos e docentes influencia na obtenção de melhores oportunidades ?,fora_dominio,humano,formulario
+Toda iniciação cientifica tem bolsa,fora_dominio,humano,formulario
+"Obg, tchau",chitchat,humano,formulario
+Para que envio email ou converso para conseguir um orientador?,orientador,humano,formulario
+Quanto tempo consigo começar e finalizar um TCC?,prazos,humano,formulario
+Quantas pessoas podem fazer juntos o mesmo TCC em grupo?,inicio_tcc,humano,formulario
+Qual o número ideal ou média de páginas de um TCC na área da computação?,formatacao,humano,formulario
+O que devo fazer depois de aprovado?,deposito,humano,formulario
+Como marco o dia da apresentação?,banca,humano,formulario
+Como posso participar de alguma iniciação científica?,fora_dominio,humano,formulario
+"Como posso me preparar, ainda em formação,. para conseguir entrar num mestrado após formado?",fora_dominio,humano,formulario
+Olá! Preciso de ajuda.,chitchat,humano,formulario
+Explique com mais detalhes.,chitchat,humano,formulario
+qual modelo preciso seguir para a escrita do tcc?,formatacao,humano,formulario
+consigo trocar meu orientador já tendo iniciado a escrita do tcc?,orientador,humano,formulario
+o que preciso fazer para conseguir entregar meu tcc até o prazo pedido?,prazos,humano,formulario
+posso escolher quem vai participar da banca do meu tcc?,banca,humano,formulario
+qual o minimo e maximo de paginas?,formatacao,humano,formulario
+quanto tempo tenho para entregar as correções da banca?,deposito,humano,formulario
+"caso eu reprove, preciso começar tudo de novo ou posso corrigir esse que ja existe?",banca,humano,formulario
+qual modelo preciso seguir para a escrita do relatório final do estágio obrigatório?,fora_dominio,humano,formulario
+me tira uma dúvida sobre o meu tcc,chitchat,humano,formulario
+obg chat,chitchat,humano,formulario
