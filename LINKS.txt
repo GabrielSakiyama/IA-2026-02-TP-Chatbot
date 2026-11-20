@@ -1,4 +1,2 @@
-# Links da entrega - preencha depois de publicar o vídeo.
-# O vídeo deve ser público ou "não listado" (YouTube) / aberto a quem tem o link (Drive).
-video: 
-repositorio: 
+video: https://drive.google.com/file/d/11lkUCApN5t_5wYjl-AnGTM3oxtnG5TQi/view?usp=sharing
+repositorio: https://github.com/GabrielSakiyama/IA-2026-02-TP-Chatbot
